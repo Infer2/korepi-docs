@@ -1,0 +1,2234 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/id/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://korepi.com/id/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/id/</link>
+    <description>Pertolongan Korepi</description>
+    <language>id-ID</language>
+    <pubDate>Wed, 07 Feb 2024 23:25:09 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 23:25:09 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
+    <category>Fitur</category>
+    <category>Panduan</category>
+    <category>Guide</category>
+    <category>FAQ</category>
+    <category>Quest Teleport</category>
+    <category>Solusi</category>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/id/features/World/map-manager.html</link>
+      <guid>https://korepi.com/id/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Map Manager</source>
+      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Domain</title>
+      <link>https://korepi.com/id/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/id/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Domain</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/id/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/id/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Puzzle</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stats Modifier</title>
+      <link>https://korepi.com/id/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/id/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Stats Modifier</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Debug</title>
+      <link>https://korepi.com/id/features/Other/Debug.html</link>
+      <guid>https://korepi.com/id/features/Other/Debug.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Debug</source>
+      <description>Hanya Untuk PERTAMAX! Debug memungkinkan pemain menemukan dan memperbaiki kesalahan atau bug di setiap kode korepi. Ketika korepi tidak bekerja seperti yang diharapkan, pemrogra...</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Debug memungkinkan pemain menemukan dan memperbaiki kesalahan atau bug di setiap kode korepi. Ketika korepi tidak bekerja seperti yang diharapkan, pemrogram komputer mempelajari kode untuk menentukan alasan terjadinya kesalahan.</h3>
+<blockquote>
+<p>Catatan: Hanya untuk ahli!</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hotkeys</title>
+      <link>https://korepi.com/id/features/Other/Hotkeys.html</link>
+      <guid>https://korepi.com/id/features/Other/Hotkeys.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Hotkeys</source>
+      <description>Hotkey memungkinkan pemain mengatur tombol pintasan setiap fitur yang ada.</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Hotkey memungkinkan pemain mengatur tombol pintasan setiap fitur yang ada.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Risk Unknown</title>
+      <link>https://korepi.com/id/features/Other/Risk%20Unknow.html</link>
+      <guid>https://korepi.com/id/features/Other/Risk%20Unknow.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Risk Unknown</source>
+      <description>Risk Unknown memungkinkan pemain mengakses restricted area tanpa peringatan.</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Risk Unknown memungkinkan pemain mengakses <code>restricted area</code> tanpa peringatan.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Settings</title>
+      <link>https://korepi.com/id/features/Other/Settings.html</link>
+      <guid>https://korepi.com/id/features/Other/Settings.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Settings</source>
+      <description>Settings memungkinkan pemain untuk mengatur pengaturan Mod Korepi.</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Settings memungkinkan pemain untuk mengatur pengaturan Mod Korepi.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/id/features/World/map%20manager.html</link>
+      <guid>https://korepi.com/id/features/World/map%20manager.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Map Manager</source>
+      <description>Hanya Untuk PERTAMAX! Map Manager memungkinkan pemain untuk membuka Statue of The Seven dan Teleport Waypoint. Catatan: Buka map setidaknya 1 kali, atau gamenya akan mengalami c...</description>
+      <category>Fitur</category>
+      <pubDate>Wed, 07 Feb 2024 04:03:57 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Map Manager memungkinkan pemain untuk membuka <code>Statue of The Seven</code> dan <code>Teleport Waypoint</code>.</h3>
+<blockquote>
+<p>Catatan: Buka map setidaknya 1 kali, atau gamenya akan mengalami crash.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Versi Gratis</title>
+      <link>https://korepi.com/id/guide/free.html</link>
+      <guid>https://korepi.com/id/guide/free.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Versi Gratis</source>
+      <description>Cara mendapatkan lisensi gratis untuk Korepi. Langkah 1: Temukan saluran ★⋅micah-bot-verify⋅★ [tautan langsung] (https://discord.com/channels/1069057220802781265/120368733310733...</description>
+      <category>Panduan</category>
+      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara mendapatkan lisensi gratis untuk Korepi.</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> Langkah 1:</h3>
+<ul>
+<li>
+<p>Temukan saluran <code>★⋅micah-bot-verify⋅★</code> [tautan langsung] (https://discord.com/channels/1069057220802781265/1203687333107335198)</p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Temukan pesan yang dikirim oleh Micah-bot</p>
+</li>
+</ul>
+<h3> Langkah 2:</h3>
+<p>Klik <code>Ikat kartu gratis</code>, ikuti tautan yang disediakan oleh bot setelah mengkliknya, perhatikan iklan dan lewati saja.</p>
+<h3> Langkah 3:</h3>
+<p>Jika pesan pengikatan menunjukkan <code>Sukses</code>, Anda telah berhasil menyelesaikan klaim lisensi, jika tidak menunjukkan <code>Sukses</code>, ulangi dari langkah pertama.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<h3> Langkah 4:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Luncurkan injektor untuk mendapatkan <code>HWID</code> Anda, setelah itu buka <code>★⋅micah-bot-verify⋅★</code> lagi dan klik <code>Get verification file</code> dan tempelkan <code>HWID</code> Anda.</p>
+<p>Setelah mengklik kirim, Anda akan menerima file dari bot, unduh dan letakkan di folder Korepi Anda. Pastikan namanya adalah <code>enc.json</code>.</p>
+<p>=======</p>
+<h3> Langkah 5:</h3>
+<p>Luncurkan injektor lagi dan ikuti instruksi yang disediakan dalam cmd.</p>
+<p>Selamat menikmati Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Differences between versions</title>
+      <link>https://korepi.com/id/start/differences.html</link>
+      <guid>https://korepi.com/id/start/differences.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Differences between versions</source>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Attack Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Run</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cooldown Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fall Control</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>God Mode</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Infinite Stamina</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Player Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Challenge</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Loot</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dumb Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Sight</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Freeze Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Game Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Open Team Immediately</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Enhance Animation</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Oculi Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Interactive Map</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Camera Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FOV Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Indicator</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Censor Remover</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FPS Unlock</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Hide UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Grass</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Map Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Summon Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Profile Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activate Waypoint</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Crit Rate Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Movement</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Visual Settings</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fake Time</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Free Camera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>GM Icon</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Monster Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Blur</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Shake</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Footprints</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Skill Animation</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Animation Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Cook</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Destroy</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Fish</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Tree Farm</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Constellation Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Weather</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Emotion Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Flycloak Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Manager</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mob Vacuum</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Remote Utilities</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Vacuum Loot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skin Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Domain</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Stats Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara menambahkan ke daftar pengecualian</title>
+      <link>https://korepi.com/id/guide/virus.html</link>
+      <guid>https://korepi.com/id/guide/virus.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara menambahkan ke daftar pengecualian</source>
+      <description>Antivirus lain akan memiliki langkah serupa, sesuaikan tergantung pada antivirus yang Anda gunakan. Cara Menambahkan ke Daftar Pengecualian pada Antivirus Langkah 1: Buka Antivi...</description>
+      <category>Panduan</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Antivirus lain akan memiliki langkah serupa, sesuaikan tergantung pada antivirus yang Anda gunakan.</p>
+</div>
+<hr>
+<h3> Cara Menambahkan ke Daftar Pengecualian pada Antivirus</h3>
+<h3> Langkah 1: Buka Antivirus</h3>
+<p>Buka bar pencarian Windows dan cari <code>Windows Security</code>, kemudian buka.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>Klik <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Gulir hingga temukan <code>Pengaturan Virus &amp; threat protection</code> dan klik <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Langkah 2: Menambahkan ke Daftar Pengecualian</h3>
+<p>Setelah mengikuti langkah sebelumnya, gulir hingga temukan <code>Exclusions</code>, lalu klik <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Klik ya pada jendela pop-up, setelah itu klik <code>Add an Exclusion</code> dan pilih folder, kemudian pilih folder Korepi kita.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/id/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/id/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/id/rss.xml">FAQ</source>
+      <description>Daftar FAQ Apakah Korepi gratis? Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari sign-in (../start/sign-in.md), Anda bisa melewatinya dengan Sponsor (...</description>
+      <category>FAQ</category>
+      <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Daftar FAQ</h2>
+<h3> Apakah Korepi gratis?</h3>
+<p>Iya, gratis, untuk pertama kali mendapatkannya Anda harus melakukan 7 hari <a href="/id/start/sign-in.html" target="blank">sign-in</a>, Anda bisa melewatinya dengan <a href="/id/start/sponsor.html" target="blank">Sponsor</a>, setelah itu Anda dapat mengambil lisensi setiap kali lisensi Anda kedaluwarsa.</p>
+<hr>
+<h3> Apa kata sandi dari file .rar/.zip?</h3>
+<p>...</p>
+<p>Kata sandinya adalah <code>1234</code>, Harap lain kali membaca postingan unduh.</p>
+<hr>
+<h3> Kenapa konfigurasi saya tidak tersimpan?</h3>
+<p>Ingatlah bahwa Anda harus ekstrak file <code>.rar/.zip</code> tersebut di dalam folder baru.</p>
+<p>Jika konfigurasi masih tidak tersimpan, Harap hubungi pengarah manapun yang terdapat di server untuk mendapat bantuan.</p>
+<hr>
+<h3> Di mana saya dapat menemukan tema?</h3>
+<p>Anda dapat menemukan tema untuk Korepi di <code>community share</code> atau Anda dapat membuat sendiri di pengaturan Korepi.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>periksa di <code>Theme Customization</code> untuk mulai membuat tema Anda.</p>
+<hr>
+<h3> Kenapa /start beruntun saya terulang?</h3>
+<p>Kemungkinan besar Anda melewati batas waktu harian yang telah diberikan, jika Anda melewatkan 1 hari makanya akan terulang dari awal.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Waktu reset adalah pukul 23.00 WIB (GMT/UTC+8 00:00) setiap hari. Silakan mengubahnya ke zona waktu Anda.</p>
+</div>
+<hr>
+<h3> Bisakah saya menggunakan Korepi saat pembaruan datang?</h3>
+<p>Tidak, Anda harus menunggu hingga Korepi melakukan pembaruan versi terbaru.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Menggunakan injektor lama tidak akan berfungsi, pembaruan Korepi akan membutuhkan waktu sekitar 1-2 minggu.</p>
+</div>
+<hr>
+<h3> Kenapa menu Korepi tidak muncul?</h3>
+<p>Pastikan Anda menon-aktifkan semua overlay(MSI Afterburner, GeForce Experience, etc.) sebelum membuka Korepi.</p>
+<hr>
+<h3> Di mana saya bisa mendapatkan <span style="color:yellow;">Sponsor</span> dan berapa harganya?</h3>
+<p>Harga sponsor ialah 5$ dan untuk mendapatkan sponsor anda dapat melihatnya di <a href="/id/start/sponsor.html" target="blank">sini</a>.</p>
+<hr>
+<h3> Kenapa game saya crash saat loading?</h3>
+<p>Jika Anda mendapatkan masalah seperti ini:</p>
+<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
+<p>Harap perbarui driver Anda dan coba kembali.</p>
+<p>Jika tidak terjadi masalah seperti itu pada Anda, cobalah untuk meningkatkan penundaan peluncuran di <code>cfg.ini</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Animation Changer</title>
+      <link>https://korepi.com/id/features/Visuals/animation-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/animation-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Animation Changer</source>
+      <description>Hanya Untuk PERTAMAX! Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Animation Changer, Memperbolehkan pemain mengganti animasi karakter ke animasi yang dipilih.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Camera Zoom</title>
+      <link>https://korepi.com/id/features/Visuals/camera-zoom.html</link>
+      <guid>https://korepi.com/id/features/Visuals/camera-zoom.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Camera Zoom</source>
+      <description>Camera zoom Memperbolehkan pemain mengganti perbesaran kamera ke nilai yang diinginkan.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Camera zoom Memperbolehkan pemain mengganti perbesaran kamera ke nilai yang diinginkan.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Constellation Modifier</title>
+      <link>https://korepi.com/id/features/Visuals/constellation-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/constellation-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Constellation Modifier</source>
+      <description>Hanya PERTAMAX. Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada beberapa yang berfungsi. Anda bisa mendapatkan informasi konstelasi ...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya PERTAMAX.</p>
+</div>
+<hr>
+<h2> Constellation Modifier, Akan membuka konstelasi karakter yang dipilih, secara visual dan ada beberapa yang berfungsi.</h2>
+<ul>
+<li>Anda bisa mendapatkan informasi konstelasi character yang berkerja di saluran <code>#cons-check</code> yang terdapat di server.</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">: Anda harus ganti ke karakter yang ingin Anda aktifkan konstelasinya, setelah itu teleportasi ke tempat yang jauh agar modifikasi konstelasi dapat bekerja.</p>
+</div>
+<hr>
+<h2> Contoh video:</h2>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Profile</title>
+      <link>https://korepi.com/id/features/Visuals/custom-profile.html</link>
+      <guid>https://korepi.com/id/features/Visuals/custom-profile.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Custom Profile</source>
+      <description>Custom Profile: UID: Pilih UID yang ingin Anda tampilkan.; Nickname: Pilih Nickname yang ingin Anda tampilkan.; Level: Pilih Level yang ingin Anda tampilkan.; EXP: Pilih EXP yan...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Custom Profile:</h2>
+<h3> UID:</h3>
+<ul>
+<li>Pilih UID yang ingin Anda tampilkan.</li>
+</ul>
+<h3> Nickname:</h3>
+<ul>
+<li>Pilih Nickname yang ingin Anda tampilkan.</li>
+</ul>
+<h3> Level:</h3>
+<ul>
+<li>Pilih Level yang ingin Anda tampilkan.</li>
+</ul>
+<h3> EXP:</h3>
+<ul>
+<li>Pilih EXP yang ingin Anda tampilkan.</li>
+</ul>
+<h3> World Level:</h3>
+<ul>
+<li>Pilih World level yang ingin Anda tampilkan.</li>
+</ul>
+<h3> Avatar Image:</h3>
+<ul>
+<li>Menggunakan gambar kustom untuk menampilkan gambar profil/avatar.</li>
+</ul>
+<h3> Card Image:</h3>
+<ul>
+<li>Menggunakan Kgambar kustom untuk menampilkan gambar kartu/banner.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Weather</title>
+      <link>https://korepi.com/id/features/Visuals/custom-weather.html</link>
+      <guid>https://korepi.com/id/features/Visuals/custom-weather.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Custom Weather</source>
+      <description>Hanya Untuk PERTAMAX! Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Custom weather, memperbolehkan mengubah cuaca dengan pilihan yang Anda mau gunakan.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Emotion Changer</title>
+      <link>https://korepi.com/id/features/Visuals/emotion-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/emotion-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Emotion Changer</source>
+      <description>Hanya Untuk PERTAMAX! Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Emotion Changer Memperbolehkan pemain mengganti ekspresi wajah karakter.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Extra Visual Settings</title>
+      <link>https://korepi.com/id/features/Visuals/extra-visual-settings.html</link>
+      <guid>https://korepi.com/id/features/Visuals/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Extra Visual Settings</source>
+      <description>Hanya Untuk Sponsor! Extra Visual Settings: Gamma: Memperbolehkan Anda mengganti nilai gamma dari game.; Outline Width: Memperbolehkan Anda menganti garis luar karakter yang ada...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Extra Visual Settings:</h2>
+<h3> Gamma:</h3>
+<ul>
+<li>Memperbolehkan Anda mengganti nilai gamma dari game.</li>
+</ul>
+<h3> Outline Width:</h3>
+<ul>
+<li>Memperbolehkan Anda menganti garis luar karakter yang ada di game.</li>
+</ul>
+<h3> Anti-Aliasing:</h3>
+<ul>
+<li>Memperbolehkan Anda mengganti model anti-aliasing yang dipakai. termasuk beberapa hal yang tidak dapat diubah secara resmi.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Fake Time</title>
+      <link>https://korepi.com/id/features/Visuals/fake-time.html</link>
+      <guid>https://korepi.com/id/features/Visuals/fake-time.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Fake Time</source>
+      <description>Hanya Untuk Sponsor! Fake Time: Mengubah waktu (jam dan menit) dalam game.;</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Fake Time:</h2>
+<ul>
+<li>Mengubah waktu (jam dan menit) dalam game.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Flycloack Modifier</title>
+      <link>https://korepi.com/id/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Flycloack Modifier</source>
+      <description>Hanya Untuk PERTAMAX! Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Flycloack Modifier Memperbolehkan pemain untuk mengganti skin glider bahkan jika Anda tidak mempunyainya.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>FPS Unlock</title>
+      <link>https://korepi.com/id/features/Visuals/fps-unlock.html</link>
+      <guid>https://korepi.com/id/features/Visuals/fps-unlock.html</guid>
+      <source url="https://korepi.com/id/rss.xml">FPS Unlock</source>
+      <description>Membuka batas fps. Membuka batas fps. Membuka batas fps wow. Limit background FPS: Atur fps maksimal game yang dapat dicapai saat game sedang tidak terfokus;</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Membuka batas fps. Membuka batas fps. Membuka batas fps wow.</h2>
+<h3> Limit background FPS:</h3>
+<ul>
+<li>Atur fps maksimal game yang dapat dicapai saat game sedang tidak terfokus</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Free Camera</title>
+      <link>https://korepi.com/id/features/Visuals/free-camera.html</link>
+      <guid>https://korepi.com/id/features/Visuals/free-camera.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Free Camera</source>
+      <description>Hanya Untuk Sponsor! Free Camera: Menggerakkan kamera secara bebas tanpa terkunci pada karakter.; Freeze Character Animation: Membekukan animasi karakter.; Make Character Invisi...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Free Camera:</h2>
+<ul>
+<li>Menggerakkan kamera secara bebas tanpa terkunci pada karakter.</li>
+</ul>
+<h3> Freeze Character Animation:</h3>
+<ul>
+<li>Membekukan animasi karakter.</li>
+</ul>
+<h3> Make Character Invisible:</h3>
+<ul>
+<li>Membuat karakter tidak terlihat.</li>
+</ul>
+<h3> Block User Input:</h3>
+<ul>
+<li>Blokir input pemain yang membuat karakter tidak bergerak walaupun menggerakkan kamera.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hide UI</title>
+      <link>https://korepi.com/id/features/Visuals/hide-ui.html</link>
+      <guid>https://korepi.com/id/features/Visuals/hide-ui.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Hide UI</source>
+      <description>Hide UI: Menyembunyikan tampilan layar.; Hide Ping: (Sponsor) Menyembunyikan Ping. ; Hide HP Bar: (Sponsor) Menyembunyikan bar darah karakter aktif.; Hide Team HP Bar: (Sponsor)...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hide UI:</h2>
+<ul>
+<li>Menyembunyikan tampilan layar.</li>
+</ul>
+<h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Menyembunyikan Ping.</li>
+</ul>
+<h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Menyembunyikan bar darah karakter aktif.</li>
+</ul>
+<h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Menyembunyikan bar darah party.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Map Zoom</title>
+      <link>https://korepi.com/id/features/Visuals/map-zoom.html</link>
+      <guid>https://korepi.com/id/features/Visuals/map-zoom.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Map Zoom</source>
+      <description>Map zoom, modifikasi nilai perbesaran yang digunakan pada peta</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Map zoom, modifikasi nilai perbesaran yang digunakan pada peta</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Monster Changer</title>
+      <link>https://korepi.com/id/features/Visuals/monster-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/monster-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Monster Changer</source>
+      <description>Hanya Untuk Sponsor! Monster Changer: Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.; Exclude Animals: Aktif atau Non-aktif mengganti visual ...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Monster Changer:</h2>
+<ul>
+<li>Jika diaktifkan, semua monster akan terubah secara visual ke monster yang dipilih.</li>
+</ul>
+<h3> Exclude Animals:</h3>
+<ul>
+<li>Aktif atau Non-aktif mengganti visual hewan.</li>
+</ul>
+<h3> Custom Monster ID:</h3>
+<ul>
+<li>Menggunakan ID yang terdapat di <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">github</a>.</li>
+</ul>
+<h3> Randomize Monster:</h3>
+<ul>
+<li>Perubahannya akan menjadi acak.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Others</title>
+      <link>https://korepi.com/id/features/Visuals/others.html</link>
+      <guid>https://korepi.com/id/features/Visuals/others.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Others</source>
+      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Menu Unlocker Sponsor Only No Camera Blur No Camera Shake Dolphin Di...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Other Features:</h2>
+<h3> Show Chest Indicator</h3>
+<h3> Enable Peeking</h3>
+<h3> No Black Screen</h3>
+<h3> No fog</h3>
+<h3> No grass</h3>
+<h3> No map fog</h3>
+<h3> Paimon Follow</h3>
+<h3> Menu Unlocker</h3>
+<h2> <span style="color:yellow;">Sponsor Only</span></h2>
+<h3> No Camera Blur</h3>
+<h3> No Camera Shake</h3>
+<h3> Dolphin Dive</h3>
+<h3> GM Icon</h3>
+<h3> No Footprints</h3>
+<h3> No Burst Animation</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Skin Modifier</title>
+      <link>https://korepi.com/id/features/Visuals/skin-modifier.html</link>
+      <guid>https://korepi.com/id/features/Visuals/skin-modifier.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Skin Modifier</source>
+      <description>Hanya Untuk PERTAMAX! Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Skin Modifier memperbolehkan pemain menggunakan skin dari game dengan gratis.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Texture Changer</title>
+      <link>https://korepi.com/id/features/Visuals/texture-changer.html</link>
+      <guid>https://korepi.com/id/features/Visuals/texture-changer.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Texture Changer</source>
+      <description>Lebih baik menggunakan GIMI (../../guide/3DM-tutorial.md) Untuk mengganti texture. Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari file gambar yang dipilih.</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Lebih baik menggunakan [GIMI](../../guide/3DM-tutorial.md) Untuk mengganti texture.</p>
+</div>
+<hr>
+<h2> Texture Changer Memperbolehkan Anda mengubah tampilan karakter dari file gambar yang dipilih.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>0culi Teleport</title>
+      <link>https://korepi.com/id/features/Teleport/0culi-teleport.html</link>
+      <guid>https://korepi.com/id/features/Teleport/0culi-teleport.html</guid>
+      <source url="https://korepi.com/id/rss.xml">0culi Teleport</source>
+      <description>Oculi Teleport akan memindahkan pemain ke lokasi oculi terdekat yang ditampilkan saat tombol pintas ditekan. Catatan: Tunggu &amp;gt;15 detik antara teleportasi untuk keamanan. Video C...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Oculi Teleport akan memindahkan pemain ke lokasi oculi terdekat yang ditampilkan saat tombol pintas ditekan.</h2>
+<blockquote>
+<p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Chest Teleport</title>
+      <link>https://korepi.com/id/features/Teleport/chest-teleport.html</link>
+      <guid>https://korepi.com/id/features/Teleport/chest-teleport.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Chest Teleport</source>
+      <description>Chest Teleport akan memindahkan pemain ke lokasi peti terdekat yang ditampilkan saat tombol pintas ditekan. Catatan: Tunggu &amp;gt;15 detik antara teleportasi untuk keamanan. Video Co...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Chest Teleport akan memindahkan pemain ke lokasi peti terdekat yang ditampilkan saat tombol pintas ditekan.</h2>
+<blockquote>
+<blockquote>
+<p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
+</blockquote>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Teleport</title>
+      <link>https://korepi.com/id/features/Teleport/custom-teleport.html</link>
+      <guid>https://korepi.com/id/features/Teleport/custom-teleport.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Custom Teleport</source>
+      <description>Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file .json. Interpolation Speed: Mengontrol kecepatan animasi teleportasi, a...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Custom Teleport: Memungkinkan pemain untuk teleportasi ke lokasi yang dipilih yang telah didesain di file <code>.json</code>.</h2>
+<h3> Interpolation Speed:</h3>
+<ul>
+<li>Mengontrol kecepatan animasi teleportasi, atur ke <code>0.1</code> untuk menghindari masalah.</li>
+</ul>
+<h3> Auto Teleport:</h3>
+<ul>
+<li>Melakukan teleportasi secara otomatis mengikuti urutan file <code>.json</code> yang diberikan.
+<ul>
+<li>Teleport Next: Teleportasi ke lokasi berikutnya setelah menekan tombol pintas yang dipilih.</li>
+<li>Teleport Previous: Teleportasi ke lokasi sebelumnya setelah menekan tombol pintas yang dipilih.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Catatan: Tunggu <code>&gt;15 detik</code> antara teleportasi untuk keamanan.</p>
+</blockquote>
+<h1> Anda bisa temukan lebih lanjut cara menggunakan fitur ini <a href="/id/guide/custom-tp-setting.html" target="blank">disini</a></h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Map Teleport</title>
+      <link>https://korepi.com/id/features/Teleport/map-teleport.html</link>
+      <guid>https://korepi.com/id/features/Teleport/map-teleport.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Map Teleport</source>
+      <description>Map Teleport memungkinkan pemain untuk berpindah ke mana saja di peta. Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunaka...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Map Teleport memungkinkan pemain untuk berpindah ke mana saja di peta.</h2>
+<ul>
+<li>Untuk menggunakan teleport peta, Anda harus mengaktifkannya, dan pilih tombol pintas yang akan Anda gunakan.</li>
+<li>Untuk melakukan teleportasi, tahan tombol pintas saat membuka peta dan klik di mana Anda ingin melakukan teleportasi.</li>
+</ul>
+<h3> Fast Teleport (<span style="color:yellow;">Sponsor!</span>):</h3>
+<ul>
+<li>Menonaktifkan <code>Loading Screen</code> dalam jarak yang dipilih saat melakukan teleportasi.</li>
+<li></li>
+</ul>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Quest Teleport</title>
+      <link>https://korepi.com/id/features/Teleport/quest-teleport.html</link>
+      <guid>https://korepi.com/id/features/Teleport/quest-teleport.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Quest Teleport</source>
+      <description>Quest Teleports memungkinkan pemain untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga. Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebi...</description>
+      <category>Fitur</category>
+      <category>Quest Teleport</category>
+      <pubDate>Sat, 16 Dec 2023 23:36:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Quest Teleports memungkinkan pemain untuk teleportasi ke lokasi misi yang sedang berlangsung saat itu juga.</h2>
+<ul>
+<li>Untuk menggunakan fitur ini, Anda harus tekan tombol navigasi terlebih dahulu, kemudian tekan tombol teleport misi.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Attack Effects</title>
+      <link>https://korepi.com/id/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/id/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Attack Effects</source>
+      <description>Attack Effects: Memodifikasi serangan Anda. Multi-Hit Mode: One Punch Mode: Mencoba membunuh target dengan 1 pukulan..; Catatan: Tidak disarankan untuk digunakan. Mengubah jumla...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Attack Effects: Memodifikasi serangan Anda.</h2>
+<h3> Multi-Hit Mode:</h3>
+<ul>
+<li>One Punch Mode: Mencoba membunuh target dengan 1 pukulan..</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan.</p>
+</blockquote>
+<ul>
+<li>Mengubah jumlah serangan yang akan diterima oleh target.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan nilainya melebihi <code>5</code>.</p>
+</blockquote>
+<h3> Multi-Target:</h3>
+<ul>
+<li>Menyerang semua target dalam radius tertentu yang telah ditentukan dari target yang utama.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah pengaturan bawaan.</p>
+</blockquote>
+<h3> Multi-Animation:</h3>
+<ul>
+<li>Mengubah jumlah berapa kali karakter melakukan suatu aksi.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan.</p>
+</blockquote>
+<h3> Attack Speed:</h3>
+<ul>
+<li>Mengubah kecepatan serangan normal dari pemain.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan nilainya melebihi <code>1.5</code>.</p>
+</blockquote>
+<h3> Custom Element:</h3>
+<ul>
+<li>Mengubah elemen dari semua serangan yang keluar.</li>
+</ul>
+<h3> Infuse Element:</h3>
+<ul>
+<li>Mengubah elemen dari serangan normal senjata pedang, tombak, dan pedang besar.</li>
+</ul>
+<h3> Auto Weakspot:</h3>
+<ul>
+<li>Mengenai titik lemah target sehingga memicu serangan kritis, <code>hanya berfungsi dengan pengguna panah</code>.</li>
+</ul>
+<h3> Critical Rate (Sponsor!):</h3>
+<ul>
+<li>Mengubah probabilitas serangan kritis.</li>
+</ul>
+<h3> Nullify Incoming Element:</h3>
+<ul>
+<li>Akan meniadakan elemen masuk apa pun, dan mengubahnya menjadi kerusakan fisik</li>
+</ul>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Run</title>
+      <link>https://korepi.com/id/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/id/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Run</source>
+      <description>Auto Run akan menggerakan player ke arah yang dihadap secara otomatis. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Run akan menggerakan player ke arah yang dihadap secara otomatis.</h2>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bunny Hop</title>
+      <link>https://korepi.com/id/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/id/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Bunny Hop</source>
+      <description>Hanya Untuk Sponsor! Bunny Hop akan melompat secara otomatis setelah lompatan pertama diaktifkan. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Bunny Hop akan melompat secara otomatis setelah lompatan pertama diaktifkan.</h2>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Cooldown Effects</title>
+      <link>https://korepi.com/id/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/id/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cooldown Effects</source>
+      <description>Cooldown Effects: Modifikasi waktu cooldown dari berbagai aksi. Max Burst Energy: Menghilangkan kebutuhan yang diperlukan untuk menggunakan serangan ledakan elemen.; Catatan: En...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cooldown Effects:  Modifikasi waktu cooldown dari berbagai aksi.</h2>
+<h3> Max Burst Energy:</h3>
+<ul>
+<li>Menghilangkan kebutuhan yang diperlukan untuk menggunakan serangan ledakan elemen.</li>
+</ul>
+<blockquote>
+<p>Catatan: Energy bubble mungkin terlihat tidak lengkap tetapi masih bisa digunakan.</p>
+</blockquote>
+<h3> No Avatar Skill Cooldown: Menghilangkan cooldown untuk Skill dan serangan ledakan karakter.</h3>
+<ul>
+<li>Reduce Skill/Burst Cooldown: Ketika diaktifkan, daripada menghilangkan cooldown, maka akan diatur ke nilai yang telah dipilih jika cooldown lebih tinggi dari nilai yang dipilih.</li>
+</ul>
+<blockquote>
+<p>Catatan: Anda bisa menggunakan nilai berapapun untuk CD, tetapi jangan spam terlalu cepat. <code>contoh: 40 kali dalam 1 menit.</code></p>
+</blockquote>
+<h3> No Sprint Cooldown:</h3>
+<ul>
+<li>Menghilangkan jeda antara sprint.</li>
+</ul>
+<h3> Instant Charged Attack:</h3>
+<ul>
+<li>Bow: Menghapus waktu pengisian energi untuk pengguna busur.</li>
+<li>Other: Menghapus waktu pengisian energi untuk pengguna senjata lainnya.</li>
+</ul>
+<h3> No Vehicle Skill Cooldown:</h3>
+<ul>
+<li>Menghilangkan cooldown untuk Skill perahu.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Extra Movements</title>
+      <link>https://korepi.com/id/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/id/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Extra Movements</source>
+      <description>Hanya Untuk Sponsor! Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain. Run On Water: Memungkinkan kemampuan untuk berjalan di atas air.; Run Boos...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h2> Extra Movements: Modifikasi/Meningkatkan beberapa tindakan tertentu untuk pemain.</h2>
+<h3> Run On Water:</h3>
+<ul>
+<li>Memungkinkan kemampuan untuk berjalan di atas air.</li>
+</ul>
+<h3> Run Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain berlari.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Jump Boost:</h3>
+<ul>
+<li>Meningkatkan tinggi loncatan pemain.
+<ul>
+<li>Apply Mid Air: Mengaktifkan loncatan saat sedang tidak di tanah.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Fly Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain sedang melayang.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Swim Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain sedang berenang.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Dive Boost:</h3>
+<ul>
+<li>Meningkatkan kecepatan saat pemain sedang menyelam.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk mengubah nilai bawaan.</p>
+</blockquote>
+<h3> Blink:</h3>
+<ul>
+<li>Memungkinkan pemain untuk bergerak dengan jarak tertentu setelah menekan hotkey.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fall Control</title>
+      <link>https://korepi.com/id/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/id/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Fall Control</source>
+      <description>Fall Control memungkinkan Anda bergerak dengan kecepatan yang dipilih saat jatuh. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Fall Control memungkinkan Anda bergerak dengan kecepatan yang dipilih saat jatuh.</h2>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>God Mode</title>
+      <link>https://korepi.com/id/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/id/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/id/rss.xml">God Mode</source>
+      <description>God Mode akan menonaktifkan semua serangan yang masuk. Undead: Ketika diaktifkan, God Mode hanya akan aktif jika menerima kerusakan mematikan.; Conditional: Ketika diaktifkan, G...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> God Mode akan menonaktifkan semua serangan yang masuk.</h2>
+<h3> Undead:</h3>
+<ul>
+<li>Ketika diaktifkan, <code>God Mode</code> hanya akan aktif jika menerima kerusakan mematikan.</li>
+</ul>
+<h3> Conditional:</h3>
+<ul>
+<li>Ketika diaktifkan, <code>God Mode</code> hanya akan aktif jika HP karakter turun di bawah nilai yang telah ditentukan.</li>
+</ul>
+<blockquote>
+<p>Catatan: Disarankan untuk menggunakan mode <code>Conditional</code> untuk abyss.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Infinite Stamina</title>
+      <link>https://korepi.com/id/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/id/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Infinite Stamina</source>
+      <description>Infinite Stamina menonaktifkan konsumsi stamina untuk semua tindakan. Move Sync Packet Replacement: Ketika ini diaktifkan dan Infinite Stamina dan dimatikan, akan mencegah pengi...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Infinite Stamina menonaktifkan konsumsi stamina untuk semua tindakan.</h2>
+<h3> Move Sync Packet Replacement:</h3>
+<ul>
+<li>Ketika ini diaktifkan dan <code>Infinite Stamina</code> dan dimatikan, akan mencegah pengiriman <code>Action Packets</code> yang menghabiskan stamina ke server seperti berlari, memanjat, berenang, dll.</li>
+</ul>
+<blockquote>
+<p>Catatan: Disarankan menggunakan Move Sync Packet Replacement.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>No Clip</title>
+      <link>https://korepi.com/id/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/id/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/id/rss.xml">No Clip</source>
+      <description>No Clip akan memungkinkanmu bergerak tanpa adanya hambatan, bergerak lebih cepat, dan terbang!. No Animation: Ketika diaktifkan, akan menonaktifkan animasi karakter saat menggun...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> No Clip akan memungkinkanmu bergerak tanpa adanya hambatan, bergerak lebih cepat, dan terbang!.</h2>
+<h3> No Animation:</h3>
+<ul>
+<li>Ketika diaktifkan, akan menonaktifkan animasi karakter saat menggunakan <code>No Clip</code>.</li>
+</ul>
+<h3> Camera-relative movement:</h3>
+<ul>
+<li>Ketika diaktifkan, karakter akan bergerak berdasarkan pandangan kamera daripada arah yang dilihat karakter.</li>
+</ul>
+<h3> Alternate No-Clip:</h3>
+<ul>
+<li>Ketika diaktifkan, kecepatan <code>No Clip</code> akan berubah setelah menekan hotkey yang dipilih pada kecepatan yang ditentukan.</li>
+</ul>
+<h3> Use Custom Keys:</h3>
+<ul>
+<li>Mengaktifkan opsi untuk mengubah kontrol arah dari <code>No Clip</code>.</li>
+</ul>
+<h3> DragBack Bypass:</h3>
+<ul>
+<li>Mencegah server menarik karakter kembali karena kecepatan yang berlebihan.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai diatas <code>20</code>.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Player Speed</title>
+      <link>https://korepi.com/id/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/id/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Player Speed</source>
+      <description>Player Speed memodifikasi kecepatan pemain. Asli. Tidak Bohong. Catatan: Disarankan menggunakan nilai dibawah 1.5. Catatan 2: Extra Movements (extra-movements.md) disarankan kar...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Player Speed memodifikasi kecepatan pemain. Asli. Tidak Bohong.</h2>
+<blockquote>
+<p>Catatan: Disarankan menggunakan nilai dibawah <code>1.5</code>.
+Catatan 2: <a href="/id/features/Player/extra-movements.html" target="blank">Extra Movements</a> disarankan karena lebih disinkronkan dengan server (lebih aman) (Sponsor!)</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Remote Utility</title>
+      <link>https://korepi.com/id/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/id/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Remote Utility</source>
+      <description>Hanya Untuk PERTAMAX! Remote Utility: Claim Daily Commision Reward: Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.; Custom Talk: Memulai percakapan menggu...</description>
+      <category>Fitur</category>
+      <pubDate>Sat, 16 Dec 2023 12:12:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Remote Utility:</h2>
+<h3> Claim Daily Commision Reward:</h3>
+<ul>
+<li>Mengklaim hadiah komisi harian saat 4 komisi telah selesai dilakukan.</li>
+</ul>
+<h3> Custom Talk:</h3>
+<ul>
+<li>Memulai percakapan menggunakan ID percakapan, beberapa percakapan mungkin tidak berfungsi.</li>
+</ul>
+<blockquote>
+<p>Catatan: Fitur ini berbahaya.
+Catatan 2: Untuk mendapatkan ID percakapan, aktifkan <code>Debug Talk</code>, ID akan ditampilkan di <code>cmd</code>.</p>
+</blockquote>
+<h3> Spawn Gadget:</h3>
+<ul>
+<li>Memunculkan <code>Gadget</code> yang dipilih berdasarkan ID, beberapa di antaranya mungkin tidak berfungsi.</li>
+</ul>
+<blockquote>
+<p>Catatan: Fitur ini berbahaya.
+Catatan 2: Anda dapat menenemukan <code>Gadget</code> ID <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+<h3> Crafting:</h3>
+<ul>
+<li>Condensed Resin: Membuat <code>Condensed Resin</code> jika Anda memiliki resin dan bahan-bahannya.</li>
+<li>Spawn Alchemy Table: Memunculkan Alchemy Table.</li>
+<li>Spawn Forging Table: Memunculkan Forging Table.</li>
+<li>Custom Combine: Akan mencoba menggabungkan barang yang dipilih menggunakan karakter saat ini.
+<blockquote>
+<p>Catatan: Jika berhasil, tidak akan ada peringatan. Periksa <code>inventory</code>.
+Catatan 2: Anda dapat menemukan <code>Combine</code> ID <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> Summon NPC:</h3>
+<ul>
+<li>Memunculkan NPC yang dipilih berdasarkan ID</li>
+</ul>
+<blockquote>
+<p>Catatan: Katheryne, Wagner, dan Prince sudah termasuk.</p>
+</blockquote>
+<h3> Summon Monster:</h3>
+<ul>
+<li>Memunculkan monster yang dipilih dengan parameter yang dipilih berdasarkan ID.</li>
+</ul>
+<blockquote>
+<p>Catatan: Anda tidak bisa membunuh mereka.
+Catatan 2: Anda bisa menemukan ID monster <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+<h3> Summon Item:</h3>
+<ul>
+<li>Memunculkan item yang dipilih berdasarkan ID.</li>
+</ul>
+<blockquote>
+<p>Catatan: Beberapa barang mungkin tidak berfungsi.
+Catatan 2: Anda dapat menemukan ID barang <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">disini</a></p>
+</blockquote>
+<h3> Open UI Page:</h3>
+<ul>
+<li>Open Paimon Menu Page: Membuka menu.</li>
+<li>Open Cooking Page: Membuka halaman memasak.
+<blockquote>
+<p>Catatan: Perlu membuka halaman memasak sekali sebelum menggunakan fitur ini.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Worship Statue:</h3>
+<ul>
+<li>Akan berdoa pada <code>Statue of the Seven</code> yang dipilih dengan jumlah yang dipilih, perlu memiliki <code>oculus</code> untuk melakukannya.</li>
+</ul>
+<h3> Change Traveler Element:</h3>
+<ul>
+<li>Memungkinkan pemain mengubah elemen <code>traveler</code> di mana saja.</li>
+</ul>
+<h3> Contoh Video:</h3>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Daftar Fitur</title>
+      <link>https://korepi.com/id/features/</link>
+      <guid>https://korepi.com/id/features/</guid>
+      <source url="https://korepi.com/id/rss.xml">Daftar Fitur</source>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auto Activated Waypoints</title>
+      <link>https://korepi.com/id/features/World/auto-activate-tp.html</link>
+      <guid>https://korepi.com/id/features/World/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Activated Waypoints</source>
+      <description>Hanya Untuk Sponsor! Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m. Video contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h3> Auto Activated Waypoints mengaktifkan teleport waypoints terdekat hingga jarak 50m.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Challenge</title>
+      <link>https://korepi.com/id/features/World/auto-challenge.html</link>
+      <guid>https://korepi.com/id/features/World/auto-challenge.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Challenge</source>
+      <description>Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfig...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Challenge memungkinkan Anda menyelesaikan tantangan dengan waktu tertentu yang sedang aktif dalam rentang jarak dan waktu tunda yang telah ditentukan, Anda dapat mengkonfigurasikan ini sesuai keinginan.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan dengan waktu penundaan yang rendah dan rentang jarak yang jauh!.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Cook</title>
+      <link>https://korepi.com/id/features/World/auto-cook.html</link>
+      <guid>https://korepi.com/id/features/World/auto-cook.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Cook</source>
+      <description>Hanya Untuk PERTAMAX! Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian oto...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto Cook memungkinkan Anda untuk memasak dalam jumlah dan kualitas makanan yang dipilih secara otomatis di halaman memasak, dilengkapi dengan keahlian otomatis (Auto unlock auto cook) bawaan.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Destroy Objects</title>
+      <link>https://korepi.com/id/features/World/auto-destroy.html</link>
+      <guid>https://korepi.com/id/features/World/auto-destroy.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Destroy Objects</source>
+      <description>Hanya Untuk PERTAMAX! Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu,...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto Destroy Objects memungkinkan Anda menghancurkan objek yang dapat disesuaikan dalam jangkauan tertentu, termasuk bahan tambang, tanaman, tumpukan batu, peti, objek khusus, perisai, dan lainnya.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Angka yang direkomendasikan adalah di bawah 20m, tidak disarankan untuk menggunakan jarak jangkau diatas maksimal (40m).</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Fish</title>
+      <link>https://korepi.com/id/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/id/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Fish</source>
+      <description>Hanya Untuk PERTAMAX! Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan. Video contoh: Cat...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto fish memungkinkan Anda untuk melewati animasi menangkap ikan, yang pasti akan mengurangi waktu yang dibutuhkan untuk menangkap ikan.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Auto Recast tidak berfungsi saat pembuatan catatan ini.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Loot</title>
+      <link>https://korepi.com/id/features/World/auto-loot.html</link>
+      <guid>https://korepi.com/id/features/World/auto-loot.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Loot</source>
+      <description>Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk pe...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto loot memungkinkan Anda mengumpulkan barang jarahan secara otomatis dalam jangkauan dan waktu jeda yang dipilih. Jarahan yang akan dikumpulkan dapat disesuaikan, termasuk peti, hasil kematian musuh, dan lainnya.</h2>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>catatan: Disarankan jarak dibawah  <code>10m</code> untuk penggunaan normal dan <code>20m</code> jika menggunakan <code>custom tp</code>.
+Catatan 2: Jika menggunakan jarak yang jauh maka waktu jeda yang lama juga di perlukan!.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Seelie</title>
+      <link>https://korepi.com/id/features/World/auto-seelie.html</link>
+      <guid>https://korepi.com/id/features/World/auto-seelie.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Seelie</source>
+      <description>Auto Seelie menghilangkan kebutuhan pemain untuk terus mengikuti Seelie. Seelie akan menuju tujuan yang ditentukan saat pemain mendekat. Video contoh: Catatan: Jarak jangkau ant...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Seelie menghilangkan kebutuhan pemain untuk terus mengikuti Seelie. Seelie akan menuju tujuan yang ditentukan saat pemain mendekat.</h2>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Jarak jangkau antara Pemain dan Seelie Electro adalah <code>100m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Talk</title>
+      <link>https://korepi.com/id/features/World/auto-talk.html</link>
+      <guid>https://korepi.com/id/features/World/auto-talk.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Talk</source>
+      <description>Auto Talk: Fitur Berdialog dengan NPC secara otomatis Fast Dialog: Mempercepat game dengan pilihan angka tertentu yang akan membuat dialog lebih cepat.; Catatan: Tidak disaranka...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Talk: Fitur Berdialog dengan NPC secara otomatis</h2>
+<h3> Fast Dialog:</h3>
+<ul>
+<li>Mempercepat game dengan pilihan angka tertentu yang akan membuat dialog lebih cepat.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai diatas <code>5</code>.</p>
+</blockquote>
+<h3> Skip Dialog (Sponsor!):</h3>
+<ul>
+<li>Melewati dialog dengan waktu jeda yang telah di tentukan. Lebih aman dari pada <code>Fast Dialog</code>.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai dibawah <code>200ms</code>.</p>
+</blockquote>
+<h3> Fast Cutscene:</h3>
+<ul>
+<li>Mempercepat game dengan pilihan angka tertentu yang akan membuat cutscene lebih cepat.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai diatas <code>5</code>.</p>
+</blockquote>
+<h3> Skip Talk Scenes:</h3>
+<ul>
+<li>Melewati adegan percakapan ketika terpicu atau sedang berlangsung.</li>
+</ul>
+<blockquote>
+<p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
+</blockquote>
+<h3> Skip Cutscene:</h3>
+<ul>
+<li>Melewati cutscene ketika terpicu atau sedang berlangsung.</li>
+</ul>
+<blockquote>
+<p>Catatan: Blackscreen kemungkinan akan terjadi jika menggunakan fitur ini.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Tree Farm</title>
+      <link>https://korepi.com/id/features/World/auto-tree-farm.html</link>
+      <guid>https://korepi.com/id/features/World/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Auto Tree Farm</source>
+      <description>Hanya Untuk PERTAMAX! Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu s...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h3> Auto Tree Farm memungkinkan Anda untuk memukul pohon-pohon di sekitar secara otomatis dengan nilai dan waktu jeda yang dipilih, sehingga mendapatkan kayu secara otomatis dari pohon-pohon di sekitar.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Tidak disarankan mengubah nilai bawaan.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Elemental Aura</title>
+      <link>https://korepi.com/id/features/World/elemental-aura.html</link>
+      <guid>https://korepi.com/id/features/World/elemental-aura.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Elemental Aura</source>
+      <description>Hanya Untuk Sponsor! Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa el...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk Sponsor!</p>
+</div>
+<hr>
+<h3> Elemental Aura menerapkan elemen dengan elemen tertentu, jarak jangkau, dan waktu jeda yang ditentukan ke target, objek, atau diri Anda sendiri. Beberapa elemen dapat diterapkan pada target terdekat.</h3>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Waktu jeda yang rendah akan meningkatkan peluang anda terdeteksi!.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Game Speed</title>
+      <link>https://korepi.com/id/features/World/game-speed.html</link>
+      <guid>https://korepi.com/id/features/World/game-speed.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Game Speed</source>
+      <description>Game Speed. Mempercepat atau memperlambat game. Tak terduga!. Catatan: Tidak disarankan untuk digunakan di luar menu atau secara umum. Video Contoh:</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Game Speed. Mempercepat atau memperlambat game. Tak terduga!.</h3>
+<blockquote>
+<p>Catatan: Tidak disarankan untuk digunakan di luar menu atau secara umum.</p>
+</blockquote>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Kill Aura</title>
+      <link>https://korepi.com/id/features/World/kill-aura.html</link>
+      <guid>https://korepi.com/id/features/World/kill-aura.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Kill Aura</source>
+      <description>Hanya Untuk PERTAMAX! Kill Aura: Memberikan kerusakan kepada musuh di sekitar. Crash Damage mode: Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan ja...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Kill Aura: Memberikan kerusakan kepada musuh di sekitar.</h2>
+<h1> Catatan: Fitur ini memiliki risiko tinggi terkena ban.</h1>
+<h3> Crash Damage mode:</h3>
+<ul>
+<li>Memberikan fall damage kepada musuh di sekitar dengan nilai, waktu jeda, dan jarak jangkau tertentu.</li>
+</ul>
+<blockquote>
+<p>Catatan: Tidak disarankan menggunakan nilai yang sangat tinggi.</p>
+</blockquote>
+<h3> Percent Mode:</h3>
+<ul>
+<li>Jumlah kerusakan yang diperlukan untuk membunuh musuh.</li>
+</ul>
+<blockquote>
+<p>Catatan: Disarankan menggunakan nilai 3 atau lebih tinggi.</p>
+</blockquote>
+<h3> Left HP:</h3>
+<ul>
+<li>Menentukan apakah akan menyisakan jumlah darah yang telah ditentukan kepada musuh di sekitar.</li>
+</ul>
+<h3> Instant Death Mode:</h3>
+<ul>
+<li>Akan mencoba membuat musuh menghilang</li>
+</ul>
+<blockquote>
+<p>Catatan: Mungkin bermasalah dengan beberapa boss.
+Catatan 2: Tidak disarankan untuk digunakan.</p>
+</blockquote>
+<h3> Only Hostile/Aggro:</h3>
+<ul>
+<li>Menentukan apakah hanya menargetkan hostile mobs.</li>
+</ul>
+<h2> Video Contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mob Vacuum</title>
+      <link>https://korepi.com/id/features/World/mob-vacuum.html</link>
+      <guid>https://korepi.com/id/features/World/mob-vacuum.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Mob Vacuum</source>
+      <description>Hanya Untuk PERTAMAX! Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaika...</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Mob Vacuum manarik makhluk hidup yang dekat ke pemain dengan kecepatan dan jarak jangkau yang dipilih, makhluk hidup yang akan terpengaruh dapat disesuaikan.</h2>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Disarankan di bawah <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Vacuum Loot</title>
+      <link>https://korepi.com/id/features/World/vacuum-loot.html</link>
+      <guid>https://korepi.com/id/features/World/vacuum-loot.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Vacuum Loot</source>
+      <description>Hanya Untuk PERTAMAX! Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan. Video contoh: Catatan: Disarankan di bawah 20m.</description>
+      <category>Fitur</category>
+      <pubDate>Fri, 15 Dec 2023 14:22:50 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Hanya Untuk PERTAMAX!</p>
+</div>
+<hr>
+<h2> Vacuum Loot memindahkan drop-item di sekitar ke pemain dengan jarak jangkau dan waktu jeda yang ditentukan.</h2>
+<h2> Video contoh:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Catatan: Disarankan di bawah <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara Get-Key</title>
+      <link>https://korepi.com/id/guide/getkey.html</link>
+      <guid>https://korepi.com/id/guide/getkey.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Get-Key</source>
+      <description>Tutorial Verifikasi Langkah 1: Temukan channel ★⋅micah-bot-verify⋅★ [tautan langsung] (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Temukan pes...</description>
+      <category>Panduan</category>
+      <pubDate>Thu, 14 Dec 2023 11:12:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tutorial Verifikasi</h2>
+<h3> Langkah 1:</h3>
+<ul>
+<li>
+<p>Temukan channel <code>★⋅micah-bot-verify⋅★</code> [tautan langsung] (https://discord.com/channels/1069057220802781265/1203687333107335198)</p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Temukan pesan yang dikirim oleh Micah-bot</p>
+</li>
+</ul>
+<h3> Langkah 2:</h3>
+<p>Untuk versi gratis, ikuti [tautan] ini (free.md).</p>
+<p>Jika Anda membeli kunci dari reseller, klik <code>bind card str</code> dan tempelkan kunci Anda.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Jika Anda adalah seorang Sponsor sebelum 4 Februari 2024, klik "Kompensasi Sponsor" dan masukkan "YA" untuk menerima 3 bulan waktu kompensasi, setelah berhasil mengklaim "kartu" Anda, ikuti langkah selanjutnya"</p>
+</div>
+<p>=======</p>
+<h3> Langkah 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Klik <code>Dapatkan File Verifikasi</code>, dan Anda harus mengisi `HWID (ID perangkat) Anda yang diperoleh setelah membuka injektor sekali.</p>
+<ul>
+<li>Anda akan mendapatkan file dari bot, unduh dan letakkan di folder korepi Anda. Pastikan namanya adalah <code>enc.json</code>.</li>
+</ul>
+<p>Anda juga dapat mengklik <code>Lihat Informasi Langganan</code> untuk melihat informasi langganan Anda.</p>
+<h2> Cara menjeda kunci</h2>
+<p>Klik <code>Jeda Kartu</code> dan ketik <code>YES</code> untuk menjeda kartu. Anda dapat membatalkan jeda kapan saja dan langganan Anda akan berlanjut.</p>
+<p>Info Anda hanya dapat menjeda kartu setiap 30 hari sekali
+:::</p>
+<h2> Cara mengubah HWID (ID Perangkat)</h2>
+<p>=======
+Klik pada <code>ID (Ubah HWID), dan tempelkan </code>HWID` baru yang anda dapatkan dari membuka injektor, setelah itu unduh file baru dan letakkan di folder Korepi anda.</p>
+<p>Info Anda hanya dapat mengatur ulang HWID setiap 7 hari sekali
+:::</p>
+<h2> Masalah Verifikasi MD5</h2>
+<p>Setiap kali Anda mendapatkan file <code>enc.json</code> lagi, file <code>enc.json</code> sebelumnya akan menjadi tidak valid.</p>
+<p>Jika file yang baru masih tidak valid, silakan dapatkan kembali file tersebut. Jika masih tidak berhasil, tunggu beberapa saat dan coba lagi.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Masalah 31-4302</title>
+      <link>https://korepi.com/id/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/id/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Masalah 31-4302</source>
+      <description>Cara Mengatasi Masalah 31-4302 Metode 1 Jika folder game Anda terdapat file yang seharusnya tidak ada, jendela ini seharusnya muncul untuk Anda. Periksa bahwa di folder game han...</description>
+      <category>Solusi</category>
+      <pubDate>Wed, 13 Dec 2023 23:15:21 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Mengatasi Masalah <code>31-4302</code></h2>
+<p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
+<h3> Metode 1</h3>
+<p>Jika folder game Anda terdapat file yang seharusnya tidak ada, jendela ini seharusnya muncul untuk Anda. Periksa bahwa di folder game hanya ada file resmi seperti contoh berikut:</p>
+<p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
+<p>Jika Anda terus mendapatkan masalah ini di dalam game bahkan setelah menghapus file tidak resmi, lanjutlah membaca.</p>
+<h3> Metode 2</h3>
+<p>Buka menu Korepi Anda, pergi ke <code>Settings --&gt; Other</code>.</p>
+<p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
+<p>Cari <code>Bypass Intengrity</code> dan non-aktifkan.</p>
+<p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
+<p>Masalah tersebut seharusnya sudah tiada.</p>
+<h2> Bagaimana Jika Saya Tidak Dapat Masuk ke Dalam Game Menggunakan Korepi?</h2>
+<p>Pergi ke folder Korepi, cari <code>cfg.json</code> dan tekan <code>CTRL + F</code>, ketik <code>bypass</code> dan cari, ubahlah nilai-nya ke <code>false</code> dan buka game menggunakan Korepi.</p>
+<h2> Bagaimana Jika Tidak Ada yang Berhasil?</h2>
+<p>Anda harus pasang ulang game.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Daftar Masalah</title>
+      <link>https://korepi.com/id/troubleshoot/</link>
+      <guid>https://korepi.com/id/troubleshoot/</guid>
+      <source url="https://korepi.com/id/rss.xml">Daftar Masalah</source>
+      <category>Solusi</category>
+      <pubDate>Wed, 13 Dec 2023 23:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Masalah Yang Sering Terjadi.</title>
+      <link>https://korepi.com/id/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/id/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Masalah Yang Sering Terjadi.</source>
+      <description>Daftar Masalah yang Sering Terjadi Kenapa Korepi Saya Menghilang? Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan folder pada Pengecualian. Ekstrak K...</description>
+      <category>Solusi</category>
+      <pubDate>Wed, 13 Dec 2023 23:15:21 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Daftar Masalah yang Sering Terjadi</h2>
+<h3> Kenapa Korepi Saya Menghilang?</h3>
+<p>Pastikan Anda telah non-aktifkan anti-virus, buat folder baru dan tambahkan folder pada Pengecualian.</p>
+<p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
+<p>Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan lagi.</p>
+<hr>
+<h3> Status: No active subscription(s) found, Invalid license key</h3>
+<p>Anda harus <a href="/id/guide/getkey.html" target="blank">Ambil Key baru</a> di <code>⁠★⋅micah-bot-verify⋅★</code>, jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.</p>
+<p><code>Sponsors dapat menggunakan F:Reset Key sebagai alternatif</code></p>
+<hr>
+<h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
+<p>buka <code>cmd</code> sebagai administrator dan ketik perintah berikut:</p>
+<p><code>sfc /scannow</code></p>
+<p>Setelah itu, Jika ditemukan masalah, ulang nyalakan komputer dan periksa.
+Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketiklah perintah ini:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Setelah selesai memeriksanya, ulang nyalakan komputer dan periksa.</p>
+<p>Jika tidak berhasil, pasang ulang windows.</p>
+<hr>
+<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
+<p>Masalah terjadi dikarenakan tema, Bersihkan folder <code>themes</code>.</p>
+<hr>
+<h3> The system did not detect MSVCP140.dll</h3>
+<p>Perbarui <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>Perbarui <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<hr>
+<h3> File corrupted! This program has been manipulated and maybe it's infected.</h3>
+<p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
+<p>Dalam kasus ini, Anda dapat mencoba menggunakan <code>Malware Bytes</code> atau <code>Dr.Web</code> untuk melakukan pemeriksaan penuh, Jika virus ditemukan, hilangkan virus tersebut, Ulang buka komputer dan coba lagi. Jika tidak berhasil, ulang pasang windows adalah cara termudah untuk mengatasinya.</p>
+<hr>
+<h3> Timeout was reached</h3>
+<p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
+<p>Ulang nyalakan router Anda.
+Tutup semua aplikasi yang memperngaruhi firewall. Jika keduanya tidak berhasil, maka Anda memiliki masalah dengan jaringan internet.
+Anti-virus berkemungkinan memblokir jaringan, pastikan tidak aktif pada menu Task Manager.</p>
+<hr>
+<h3> DLL Injection failed</h3>
+<p>Hapus folder colorpicker dan unduh colorpicker lagi.</p>
+<hr>
+<h3> Windows cannot access the specified device, path, or file</h3>
+<p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
+<p>Pertama pergi ke <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">SINI</a> dan ikuti langkah-langkah pada website tersebut.</p>
+<p>Lalu setelah pergi ke website, unduh anti-virus seperti <code>Dr.Web</code> atau <code>Malware bytes</code> dan jalankan pemeriksaan penuh sistem!
+Jika tidak berhasil, buka cmd sebagai administrator dan ketik <code>sfc /scannow</code></p>
+<p>Setelah itu, jika masalah ditemukan, ulang nyalakan komputer dan periksa.</p>
+<p>Jika setelah ulang nyalakan tidak membantu atau masalah tidak ditemukan, ketik perintah ini:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Setelah selesai melakukan pemeriksaan, ulang nyalakan komputer dan periksa.</p>
+<p>Jika tidak berhasil, pasang ulang windows.</p>
+<hr>
+<h3> Signature checksum failed</h3>
+<p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
+<p>Server sedang tidak aktif atau ditutup, tunggu server untuk kembali aktif.</p>
+<hr>
+<h3> Failed to create game process with Error 5</h3>
+<p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
+<p>Hapus <code>cfg.ini</code>.</p>
+<hr>
+<h3> SSL connect error</h3>
+<p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
+<p>Ulang nyalakan komputer, ulang nyalakan router.</p>
+<p>Jika tidak berhasil, coba menggunakan VPN.</p>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>Unpause your license and try again.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Pemasangan Skin</title>
+      <link>https://korepi.com/id/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/id/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Pemasangan Skin</source>
+      <description>Cara Memasang Skin Kustom di GIMI Langkah 1: Unduh Skin Buka Gamebanana (https://gamebanana.com/games/8552) dan unduh skin yang diinginkan. Langkah 2: Pamasangan Skin Buka folde...</description>
+      <category>Panduan</category>
+      <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Memasang Skin Kustom di <code>GIMI</code></h2>
+<h2> Langkah 1: Unduh Skin</h2>
+<p>Buka <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> dan unduh skin yang diinginkan.</p>
+<h2> Langkah 2: Pamasangan Skin</h2>
+<p>Buka folder <code>GIMI</code> dan cari folder <code>Mods</code>, di dalamnya ekstrak file yang baru saja diunduh.</p>
+<h2> Langkah 3: Terapkan Skin</h2>
+<p>Jika sudah berada di dalam game, tekan <code>F10</code> untuk memuat Skin. Jika belum, buka game sesuai dengan <a href="/id/guide/3DM-tutorial.html" target="blank">posting sebelumnya</a>, dan skin akan terpasang.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cara Menggunakan Skins Kustom</title>
+      <link>https://korepi.com/id/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/id/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Menggunakan Skins Kustom</source>
+      <description>Cara Menggunakan Skin Kustom di Korepi Untuk menggunakan skin kustom di sini, kita perlu unduh: 3DMigoto (GIMI). Metode 1 Langkah 1: Unduh GIMI Unduh GIMI di Github resminya (ht...</description>
+      <category>Panduan</category>
+      <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Menggunakan Skin Kustom di Korepi</h2>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy"></p>
+<p>Untuk menggunakan skin kustom di sini, kita perlu unduh:</p>
+<p><code>3DMigoto (GIMI)</code>.</p>
+<h2> Metode 1</h2>
+<h2> Langkah 1: Unduh <code>GIMI</code></h2>
+<p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan unduh file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h2> Langkah 2: Ekstrak <code>GIMI</code> ke Dalam Folder</h2>
+<p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>d3d11.dll</code>, salin path folder dan tambahkan <code>/d3d11.dll</code> di ujungnya, contohnya:</p>
+<p><code>"path/d3d11.dll"</code></p>
+<h2> Langkah 3: Tambahkan <code>GIMI</code> ke Korepi</h2>
+<p>Untuk melakukannya, tambahkan baris berikut di <code>cfg.ini</code> dalam folder Korepi.</p>
+<p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
+<p>Di bagian <code>DllPath</code>, tempelkan path yang tadi kita salin.</p>
+<p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
+<h2> Langkah 4: Buka Korepi</h2>
+<p>Jika langkah-langkah ini diikuti dengan benar, Korepi seharusnya akan terbuka dengan <code>GIMI</code> setiap kali dijalankan.</p>
+<h2> Metode 2</h2>
+<h2> Langkah 1: Unduh <code>GIMI</code></h2>
+<p>Unduh <code>GIMI</code> di <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github resminya</a> dan ambil file yang namanya: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h2> Langkah 2: Ekstrak <code>GIMI</code> ke Dalam Folder</h2>
+<p>Setelah mengunduh <code>GIMI</code>, ekstrak ke folder pilihanmu, di dalamnya ada <code>3DMigoto Loader.exe</code>, kita akan menjalankan file ini terlebih dahulu.</p>
+<h2> Langkah 3: Buka Korepi</h2>
+<p>Setelah menjalankan <code>GIMI</code>, buka Korepi, <code>GIMI</code> akan terbuka dengan Korepi. Catatan, kamu perlu mengulangi langkah ini setiap kali ingin membuka Korepi dengan <code>GIMI</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Cara Menggunakan TP Kustom</title>
+      <link>https://korepi.com/id/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/id/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Menggunakan TP Kustom</source>
+      <description>Cara Menggunakan Teleportasi Kustom Langkah 1: Pengaturan yang Diperlukan Gunakan pengaturan berikut. Delay Time yang direkomendasikan adalah &amp;gt;15 detik. Langkah 2: Unduh File .j...</description>
+      <category>Panduan</category>
+      <pubDate>Mon, 11 Dec 2023 16:32:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Menggunakan Teleportasi Kustom</h2>
+<h2> Langkah 1: Pengaturan yang Diperlukan</h2>
+<p>Gunakan pengaturan berikut.</p>
+<p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
+<p><code>Delay Time</code> yang direkomendasikan adalah &gt;15 detik.</p>
+<h2> Langkah 2: Unduh File <code>.json</code> untuk Teleportasi Kustom</h2>
+<p>Kamu bisa menemukan Filenya dipostingan yang di <code>pin</code> pada <code>community-share</code> di server. Unduh yang sesuai dengan kebutuhanmu.</p>
+<h2> Langkah 3: Pilih File Teleportasi</h2>
+<p>Pergi ke pengaturan teleportasi kustom/<code>custom tp settings</code> dan masuk ke bagian ini:</p>
+<p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
+<p>Klik pada pilihan <code>.json path</code> dan pilih folder yang berisi file teleportasi yang ingin kamu gunakan.</p>
+<h2> Langkah 4: Cara Memulai Teleportasi</h2>
+<p>Setelah memilih folder, centang kotak ini:</p>
+<p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
+<p>Setelah itu, klik <code>Select</code>:</p>
+<p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
+<h2> Langkah 5: Nikmati Perjalanan</h2>
+<p>Teleportasi akan dimulai secara otomatis. Jika kamu memiliki <a href="/id/start/sponsor.html" target="blank">Sponsor</a>, kamu akan dapat melihat progress dan waktu yang tersisa.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Cara melakukan Multi-Instance</title>
+      <link>https://korepi.com/id/guide/multi-instance.html</link>
+      <guid>https://korepi.com/id/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara melakukan Multi-Instance</source>
+      <description>Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)Hanya untuk Local(V)</description>
+      <category>Panduan</category>
+      <pubDate>Fri, 08 Dec 2023 03:42:59 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Cara Melakukan Multi-Instance (Membuka 2 Jendela Game Secara Bersamaan)</h2>
+<div class="hint-container info">
+<p class="hint-container-title">Hanya untuk Local(V)</p>
+</div>
+<hr>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Panduan Download</title>
+      <link>https://korepi.com/id/start/download.html</link>
+      <guid>https://korepi.com/id/start/download.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Panduan Download</source>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <category>Panduan</category>
+      <pubDate>Thu, 30 Nov 2023 10:24:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
+<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 3: Ready!</h3>
+<p>Place the .rar in a folder and add it to <a href="/id/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/id/guide/getkey.html" target="blank">guide</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sponsor</title>
+      <link>https://korepi.com/id/start/sponsor.html</link>
+      <guid>https://korepi.com/id/start/sponsor.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Sponsor</source>
+      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <category>Guide</category>
+      <pubDate>Tue, 28 Nov 2023 17:13:32 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sponsors</h2>
+<ul>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Panduan</title>
+      <link>https://korepi.com/id/guide/</link>
+      <guid>https://korepi.com/id/guide/</guid>
+      <source url="https://korepi.com/id/rss.xml">Panduan</source>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Katalog</title>
+      <link>https://korepi.com/id/start/</link>
+      <guid>https://korepi.com/id/start/</guid>
+      <source url="https://korepi.com/id/rss.xml">Katalog</source>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cara Bergabung di Server</title>
+      <link>https://korepi.com/id/start/join.html</link>
+      <guid>https://korepi.com/id/start/join.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Cara Bergabung di Server</source>
+      <description>Selamat datang di komunitas kami! Agar dapat bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut ini. Langkah 1: Membuat Akun Discord Jik...</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Selamat datang di komunitas kami! Agar dapat bergabung dengan server Discord dan mulai menggunakan Korepi, ikuti langkah-langkah berikut ini.</p>
+<h2> Langkah 1: Membuat Akun Discord</h2>
+<p>Jika Anda belum punya akun Discord, pertama-tama buatlah akun baru. Kunjungi <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">situs web resmi Discord</a>. Setelah membuat akun, unduh <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> sesuai dengan sistem operasi Anda.</p>
+<h2> Langkah 2: Bergabung di Server</h2>
+<p>Untuk bergabung, Anda dapat menggunakan kata kunci <code>cottonbuds</code>, atau cukup klik <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">di sini</a> untuk langsung bergabung di server.</p>
+<p>Jika Anda tidak berhasil bergabung dengan server, kemungkinan server sedang ditutup untuk sementara waktu. Silakan tunggu sampai server dibuka kembali.</p>
+<h3> Cara Bergabung dengan Kata Kunci <code>cottonbuds</code></h3>
+<ol>
+<li>
+<p>Klik tanda '+' di menu sebelah kiri.</p>
+<p><img src="/assets/images/docs/202312/join1.png" alt="Join Server" loading="lazy"></p>
+</li>
+<li>
+<p>Pilih 'Join a Server'.</p>
+<p><img src="/assets/images/docs/202312/join2.png" alt="Join Server" loading="lazy"></p>
+</li>
+<li>
+<p>Masukkan kata kunci <code>cottonbuds</code> pada kotak Invite Link.</p>
+<p><img src="/assets/images/docs/202312/join3.png" alt="Join Server" loading="lazy"></p>
+</li>
+<li>
+<p>Baca peraturan server dan setujui.</p>
+<p><img src="/assets/images/docs/202312/join4.png" alt="Join Server" loading="lazy"></p>
+</li>
+</ol>
+<p>Setelah berhasil bergabung di server, lanjutkan ke langkah berikutnya --&gt; <a href="/id/start/verify.html" target="blank">Cara Verifikasi Akun</a></p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/join1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Panduan Verifikasi Akun untuk Keamanan Server</title>
+      <link>https://korepi.com/id/start/verify.html</link>
+      <guid>https://korepi.com/id/start/verify.html</guid>
+      <source url="https://korepi.com/id/rss.xml">Panduan Verifikasi Akun untuk Keamanan Server</source>
+      <description>Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifikasi akun pada bot server. Jika tidak, akun Anda dapat diusir dari server secara otomatis oleh bot ...</description>
+      <category>Panduan</category>
+      <pubDate>Sun, 26 Nov 2023 15:29:27 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Untuk menjaga keamanan server, sangat penting bagi Anda untuk melakukan verifikasi akun pada bot server. Jika tidak, akun Anda dapat diusir dari server secara otomatis oleh bot jika tidak diverifikasi dalam waktu yang ditentukan.</p>
+<h3> Langkah-langkah Verifikasi Akun:</h3>
+<ol>
+<li>
+<p><strong>Buka Channel Rules</strong></p>
+<p>Klik pada channel rules di server.</p>
+<p><img src="/assets/images/docs/202312/verify1.png" alt="Verify" loading="lazy"></p>
+</li>
+<li>
+<p><strong>Klik Tombol 'Verify'</strong></p>
+<p>Setelah membuka channel rules, klik tombol 'verify'. Kemudian, akan muncul pesan dari bot, klik 'click here'.</p>
+<p><img src="/assets/images/docs/202312/verify2.png" alt="Verify" loading="lazy"></p>
+</li>
+<li>
+<p><strong>Klik 'Login to Verify'</strong></p>
+<p>Klik 'login to verify' untuk melanjutkan proses.</p>
+<p><img src="/assets/images/docs/202312/verify3.png" alt="Verify" loading="lazy"></p>
+</li>
+<li>
+<p><strong>Tahan Tombol Verifikasi</strong></p>
+<p>Di halaman selanjutnya, tahan tombol verifikasi sampai muncul pesan yang menyatakan bahwa Anda telah berhasil melakukan verifikasi.</p>
+<p><img src="/assets/images/docs/202312/verify4.png" alt="Verify" loading="lazy"></p>
+</li>
+</ol>
+<p>Setelah berhasil diverifikasi, bot akan memberikan Anda role <code>Newcomer</code>. Dengan role ini, Anda tidak akan diusir oleh bot tanpa alasan yang jelas. Silakan lanjut ke langkah berikutnya.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/verify1.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>

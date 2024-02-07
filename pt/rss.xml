@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/pt/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://korepi.com/pt/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/pt/</link>
+    <description>Ajuda em Korepi</description>
+    <language>pt-BR</language>
+    <pubDate>Wed, 07 Feb 2024 23:25:09 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 23:25:09 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
+    <category>Guia</category>
+    <category>Guide</category>
+    <category>FAQ</category>
+    <category>Funções</category>
+    <category>Erros</category>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/pt/features/World/map-manager.html</link>
+      <guid>https://korepi.com/pt/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Map Manager</source>
+      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Domain</title>
+      <link>https://korepi.com/pt/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Domain</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/pt/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Puzzle</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stats Modifier</title>
+      <link>https://korepi.com/pt/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/pt/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Stats Modifier</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Versão grátis</title>
+      <link>https://korepi.com/pt/guide/free.html</link>
+      <guid>https://korepi.com/pt/guide/free.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Versão grátis</source>
+      <description>Como receber a licença grátis do Korepi. Passo 1: Encontre o canal ★⋅micah-bot-verify⋅★ link direto (https://discord.com/channels/1069057220802781265/1203687333107335198); img.p...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como receber a licença grátis do Korepi.</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/4Q4N8D35a-I" title="Como Obter a Chave do Korepi e Como Utilizar o Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> Passo 1:</h3>
+<ul>
+<li>
+<p>Encontre o canal <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">link direto</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Encontre a mensagem enviada por Micah-bot</p>
+</li>
+</ul>
+<h3> Passo 2:</h3>
+<p>Clique em <code>Bind free card</code>, clique no link enviado pelo bot após isso, então assista o AD e pule ele.</p>
+<h3> Passo 3:</h3>
+<p>Se a mensagem de conexão aparecer <code>Success</code>, você recebeu a licença com sucesso, se não aparecer <code>Success</code>, repita o primeiro passo.
+<img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<h3> Passo 4:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Abra o injetor para receber seu  <code>HWID</code>, e então vá em <code>★⋅micah-bot-verify⋅★</code> novamente e clique em  <code>Get verification file</code> e cole o seu <code>HWID</code>.</p>
+<p>Depois de clicar em <code>submit</code> você receberá um arquivo do bot, instale ele e ponha na pasta do Korepi. Confira se o nome do arquivo está como <code>enc.json</code>.</p>
+<h3> Passo 5:</h3>
+<p>Abra o injetor novamente e siga as instruções que aparecerem no cmd</p>
+<p>Aproveite o Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Differences between versions</title>
+      <link>https://korepi.com/pt/start/differences.html</link>
+      <guid>https://korepi.com/pt/start/differences.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Differences between versions</source>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Attack Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Run</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cooldown Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fall Control</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>God Mode</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Infinite Stamina</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Player Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Challenge</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Loot</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dumb Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Sight</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Freeze Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Game Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Open Team Immediately</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Enhance Animation</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Oculi Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Interactive Map</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Camera Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FOV Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Indicator</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Censor Remover</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FPS Unlock</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Hide UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Grass</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Map Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Summon Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Profile Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activate Waypoint</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Crit Rate Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Movement</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Visual Settings</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fake Time</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Free Camera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>GM Icon</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Monster Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Blur</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Shake</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Footprints</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Skill Animation</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Animation Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Cook</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Destroy</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Fish</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Tree Farm</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Constellation Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Weather</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Emotion Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Flycloak Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Manager</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mob Vacuum</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Remote Utilities</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Vacuum Loot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skin Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Domain</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Stats Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to add to exclusion list</title>
+      <link>https://korepi.com/pt/guide/virus.html</link>
+      <guid>https://korepi.com/pt/guide/virus.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">How to add to exclusion list</source>
+      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
+</div>
+<hr>
+<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
+<h3> Step 1: Open the antivirus</h3>
+<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Step 2: Adding to the exclusion list</h3>
+<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>https://korepi.com/pt/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/pt/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">FAQ</source>
+      <description>List of FAQ Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../sta...</description>
+      <category>FAQ</category>
+      <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> List of FAQ</h2>
+<h3> Is Korepi free?</h3>
+<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/pt/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/pt/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+<hr>
+<h3> What is the .rar/.zip password?</h3>
+<p>...</p>
+<p>Its <code>1234</code>, please read the download post next time.</p>
+<hr>
+<h3> Why my config doesn't save?</h3>
+<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
+<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<hr>
+<h3> Where do i find themes?</h3>
+<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<hr>
+<h3> Why did my /start streak reset?</h3>
+<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<div class="hint-container info">
+<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
+</div>
+<hr>
+<h3> Can i use Korepi when a new update comes?</h3>
+<p>No, you need to wait till a new Korepi version gets released.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Using the old program wont work, Korepi update takes 1-2 weeks approximately.</p>
+</div>
+<hr>
+<h3> Why the menu doesn't appear in game?</h3>
+<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
+<hr>
+<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
+<p>You can get <a href="/pt/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
+<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
+<hr>
+<h3> Why my game crashes in loading screen?</h3>
+<p>If you get a error like this:</p>
+<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
+<p>Please update your drivers and try again.</p>
+<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Modificador de Planador</title>
+      <link>https://korepi.com/pt/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Modificador de Planador</source>
+      <description>Modificador de Planador permite que você mude seu planador mesmo que você não tenha a skin desbloqueada.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 15:12:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Modificador de Planador permite que você mude seu planador mesmo que você não tenha a skin desbloqueada.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lista de Funções</title>
+      <link>https://korepi.com/pt/features/</link>
+      <guid>https://korepi.com/pt/features/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Lista de Funções</source>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESP</title>
+      <link>https://korepi.com/pt/features/esp.html</link>
+      <guid>https://korepi.com/pt/features/esp.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">ESP</source>
+      <description>ESP permite que o jogador siga e veja objetos através de outros objetos. Nota: O alcance, os objetos e como os objetos são seguidos podem ser personalizados. Vídeo de Exemplo: E...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ESP permite que o jogador siga e veja objetos através de outros objetos.</h2>
+<blockquote>
+<p>Nota: O alcance, os objetos e como os objetos são seguidos podem ser personalizados.</p>
+</blockquote>
+<h2> Vídeo de Exemplo:</h2>
+<h3> Em Breve...</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Efeitos de Ataque</title>
+      <link>https://korepi.com/pt/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/pt/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Efeitos de Ataque</source>
+      <description>Efeitos de Ataque: Modificações para seus ataques Modo Multi-Golpe: Modo Único Golpe: Tenta eliminar o alvo com apenas um golpe.; Nota: Não é recomendado usar. Modifica a quanti...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Efeitos de Ataque: Modificações para seus ataques</h2>
+<h3> Modo Multi-Golpe:</h3>
+<ul>
+<li>Modo Único Golpe: Tenta eliminar o alvo com apenas um golpe.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado usar.</p>
+</blockquote>
+<ul>
+<li>Modifica a quantidade de golpes recebidos pelo alvo.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado ultrapassar de <code>5</code>.</p>
+</blockquote>
+<h3> Multi-Alvo:</h3>
+<ul>
+<li>Atinge todos os alvos em um raio selecionado ao redor do alvo atingido.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores padrão.</p>
+</blockquote>
+<h3> Multi-Animação:</h3>
+<ul>
+<li>Modifica o número de vezes que um personagem realiza uma ação.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado usar.</p>
+</blockquote>
+<h3> Velocidade de Ataque:</h3>
+<ul>
+<li>Altera a velocidade de ataque do jogador.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado ultrapassar de <code>1.5</code>.</p>
+</blockquote>
+<h3> Elemento Personalizado:</h3>
+<ul>
+<li>Altera o elemento de todos os ataques realizados.</li>
+</ul>
+<h3> Imbuir Elemento:</h3>
+<ul>
+<li>Altera o elemento dos ataques normais de espada, grande espada e lança.</li>
+</ul>
+<h3> Auto Ponto Fraco:</h3>
+<ul>
+<li>Ataca automaticamente o ponto fraco do alvo, apenas para arcos.</li>
+</ul>
+<h3> Golpe Crítico (Patrocinador):</h3>
+<ul>
+<li>Altera a probabilidade de crítico.</li>
+</ul>
+<h3> Anular Elemento Recebido:</h3>
+<ul>
+<li>Anula os elementos recebidos e os substitui por dano físico.</li>
+</ul>
+<h2> Video de exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Correr</title>
+      <link>https://korepi.com/pt/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/pt/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Correr</source>
+      <description>Auto Correr: Move automaticamente o personagem na direção para a qual ele está olhando. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Correr: Move automaticamente o personagem na direção para a qual ele está olhando.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Salto De Coelho</title>
+      <link>https://korepi.com/pt/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/pt/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Salto De Coelho</source>
+      <description>Somente para Patrocinador Salto De Coelho: Saltará automaticamente após o primeiro salto. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinador</p>
+</div>
+<hr>
+<h2> Salto De Coelho: Saltará automaticamente após o primeiro salto.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Efeitos de Resfriamento</title>
+      <link>https://korepi.com/pt/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/pt/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Efeitos de Resfriamento</source>
+      <description>Efeitos de Resfriamento: Altera o resfriamento de várias ações. Energia Máxima da Habilidade Definitiva: Remove a necessidade de ter energia para usar a habilidade definitiva.; ...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Efeitos de Resfriamento: Altera o resfriamento de várias ações.</h2>
+<h3> Energia Máxima da Habilidade Definitiva:</h3>
+<ul>
+<li>Remove a necessidade de ter energia para usar a habilidade definitiva.</li>
+</ul>
+<blockquote>
+<p>Nota: A animação pode aparecer incompleta, mas ainda pode ser usada normalmente.</p>
+</blockquote>
+<h3> Sem Resfriamento de Habilidades: Remove o resfriamento das habilidades e habilidades definitivas dos personagens.</h3>
+<ul>
+<li>Reduzir Resfriamento de Habilidades e Definitivas: Em vez de remover o resfriamento, ele será reduzido para o valor especificado.</li>
+</ul>
+<blockquote>
+<p>Nota: Você pode usar qualquer valor, apenas não exagere. <code>ex. 40 vezes em um 1m</code></p>
+</blockquote>
+<h3> Sem Resfriamento de Corrida:</h3>
+<ul>
+<li>Remove o atraso entre corridas.</li>
+</ul>
+<h3> Carregamento Instantâneo de Ataque:</h3>
+<ul>
+<li>Arco: Remove o tempo de carregamento do arco</li>
+<li>Outras armas: Remove o tempo de carregamento para outras armas.</li>
+</ul>
+<h3> Sem Resfriamento de Habilidade do Veículo:</h3>
+<ul>
+<li>Remove o resfriamento das habilidades do veículo.</li>
+</ul>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Movimento Extra</title>
+      <link>https://korepi.com/pt/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/pt/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Movimento Extra</source>
+      <description>Somente para Patrocinador Movimiento Extra: Troca/Melhora algumas ações do jogo Correr sobre a Água: Ativa a habilidade de caminhar sobre a água.; Impulso ao Correr: Aumenta a v...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinador</p>
+</div>
+<hr>
+<h2> Movimiento Extra: Troca/Melhora algumas ações do jogo</h2>
+<h3> Correr sobre a Água:</h3>
+<ul>
+<li>Ativa a habilidade de caminhar sobre a água.</li>
+</ul>
+<h3> Impulso ao Correr:</h3>
+<ul>
+<li>Aumenta a velocidade ao correr.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores padrão.</p>
+</blockquote>
+<h3> Aumento de Salto:</h3>
+<ul>
+<li>Aumenta a altura que o jogador pode saltar.
+<ul>
+<li>Aplicar no Meio do Ar: Habilita a possibilidade de saltar no meio do ar.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores padrão..</p>
+</blockquote>
+<h3> Aumento de Voo:</h3>
+<ul>
+<li>Aumenta a velocidade ao planar.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores padrão.</p>
+</blockquote>
+<h3> Aumento de Nado:</h3>
+<ul>
+<li>Aumenta a velocidade ao nadar.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores padrão.</p>
+</blockquote>
+<h3> Aumento de Mergulho:</h3>
+<ul>
+<li>Aumenta a velocidade ao mergulhar.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores padrão.</p>
+</blockquote>
+<h3> Blink:</h3>
+<ul>
+<li>Permite que o jogador se mova a uma distância selecionada ao pressionar uma tecla.</li>
+</ul>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Controle de Queda</title>
+      <link>https://korepi.com/pt/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/pt/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Controle de Queda</source>
+      <description>Controle de Queda permite ao jogador se mover enquanto está caindo. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Controle de Queda permite ao jogador se mover enquanto está caindo.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Modo Deus</title>
+      <link>https://korepi.com/pt/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/pt/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Modo Deus</source>
+      <description>Modo Deus desabilitará todo o dano recebido. Mortos-Vivos: (Patrocinador) Quando ativado, o modo Deus só será ativado se receber dano letal.; Condicional: Quando ativado, o modo...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Modo Deus desabilitará todo o dano recebido.</h2>
+<h3> Mortos-Vivos: (<span style="color:yellow;">Patrocinador</span>)</h3>
+<ul>
+<li>Quando ativado, o modo Deus só será ativado se receber dano letal.</li>
+</ul>
+<h3> Condicional:</h3>
+<ul>
+<li>Quando ativado, o modo Deus só será ativado quando a vida do personagem cair abaixo do valor selecionado.</li>
+</ul>
+<blockquote>
+<p>Nota: Recomenda-se usar o Condicional para o abismo.</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Estamina Infinita</title>
+      <link>https://korepi.com/pt/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/pt/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Estamina Infinita</source>
+      <description>Estamina Infinita desabilita o uso de estamina para todas as ações. Substituição de Pacotes de Movimento Sincronizado: Quando ativado, os pacotes das ações que consomem estamina...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Estamina Infinita desabilita o uso de estamina para todas as ações.</h2>
+<h3> Substituição de Pacotes de Movimento Sincronizado:</h3>
+<ul>
+<li>Quando ativado, os pacotes das ações que consomem estamina não serão enviados ao servidor.</li>
+</ul>
+<blockquote>
+<p>Nota: É recomendado usar a Substituição de Pacotes de Movimento Sincronizado e desativar Estamina Infinita.</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sem Colisão</title>
+      <link>https://korepi.com/pt/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/pt/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Sem Colisão</source>
+      <description>Sem Colisão permite que você passe por objetos, voe e aumente sua velocidade.. Sem Animação: Quando ativado, o personagem não terá animação ao usar sem colisão.; Movimento Relat...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sem Colisão permite que você passe por objetos, voe e aumente sua velocidade..</h2>
+<h3> Sem Animação:</h3>
+<ul>
+<li>Quando ativado, o personagem não terá animação ao usar sem colisão.</li>
+</ul>
+<h3> Movimento Relativo da Câmera:</h3>
+<ul>
+<li>Quando ativado, o personagem se moverá dependendo da câmera em vez de para onde está olhando.</li>
+</ul>
+<h3> Sem Colisão Alternativa:</h3>
+<ul>
+<li>Quando ativado, a velocidade de sem colisão será alterada ao pressionar a tecla selecionada para a velocidade selecionada.</li>
+</ul>
+<h3> Usar Teclas Personalizadas:</h3>
+<ul>
+<li>Ativa a função de alterar os controles de sem colisão.</li>
+</ul>
+<h3> Evitar Empurrões:</h3>
+<ul>
+<li>Evita ser empurrado para trás pelo servidor devido à velocidade excessiva.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado usar acima de <code>20</code>.</p>
+</blockquote>
+<h2> Video de Ejemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Velocidade do Jogador</title>
+      <link>https://korepi.com/pt/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/pt/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Velocidade do Jogador</source>
+      <description>Velocidade do Jogador altera a velocidade do jogador. Real. Não Fake. Nota: É recomendado usar abaixo de 1.5. Nota 2: Movimentos Extra (extra-movements.md) é recomendado. (Mais ...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Velocidade do Jogador altera a velocidade do jogador. Real. Não Fake.</h2>
+<blockquote>
+<p>Nota: É recomendado usar abaixo de <code>1.5</code>.
+Nota 2: <a href="/pt/features/Player/extra-movements.html" target="blank">Movimentos Extra</a> é recomendado. (Mais Seguro)(Patrocinador)</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Utilidade Remota</title>
+      <link>https://korepi.com/pt/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/pt/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Utilidade Remota</source>
+      <description>Somente para Patrocinador Utilidade Remota: Reivindicar Recompensas de Comissões Diárias:: Reivindica as recompensas quando as 4 comissões foram concluídas.; Conversa Personaliz...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinador</p>
+</div>
+<hr>
+<h2> Utilidade Remota:</h2>
+<h3> Reivindicar Recompensas de Comissões Diárias::</h3>
+<ul>
+<li>Reivindica as recompensas quando as 4 comissões foram concluídas.</li>
+</ul>
+<h3> Conversa Personalizada:</h3>
+<ul>
+<li>Inicia uma conversa com o ID selecionado, pode não funcionar com algumas conversas.</li>
+</ul>
+<blockquote>
+<p>Nota: Esta função é perigosa.
+Nota 2: Para obter o ID da conversa, ative <code>Depuração de Conversa</code>, o ID aparecerá no <code>cmd</code>.</p>
+</blockquote>
+<h3> Gerar Artefato:</h3>
+<ul>
+<li>Gera o artefato dependendo do ID.</li>
+</ul>
+<blockquote>
+<p>Nota: Esta função é perigosa.
+Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">aqui</a></p>
+</blockquote>
+<h3> Elaboração:</h3>
+<ul>
+<li>Resina Condensada: Cria uma resina condensada se você tiver resina suficiente e os materiais.</li>
+<li>Invocar Mesa de Alquimia: Invoca uma Mesa de Alquimia.</li>
+<li>Invocar Mesa de Forja: Invoca uma Mesa de Forja.</li>
+<li>Combinação Personalizada: Tenta combinar o objeto selecionado com o personagem atual.
+<blockquote>
+<p>Nota: Se for bem-sucedido, não haverá texto, verifique seu inventário.
+Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">aqui</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> Invocar NPC:</h3>
+<ul>
+<li>Invoca o NPC selecionado pelo ID.</li>
+</ul>
+<blockquote>
+<p>Nota: Katheryne, Wagner e Prince já estão incluídos.</p>
+</blockquote>
+<h3> Invocar Monstro:</h3>
+<ul>
+<li>Invoca o monstro selecionado pelo ID com os parâmetros escolhidos.</li>
+</ul>
+<blockquote>
+<p>Nota: Você não pode matá-los.
+Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monster.txt" target="_blank" rel="noopener noreferrer">aqui</a></p>
+</blockquote>
+<h3> Invocar Objeto:</h3>
+<ul>
+<li>Invoca o objeto selecionado pelo ID.</li>
+</ul>
+<blockquote>
+<p>Nota: Pode não funcionar às vezes.
+Nota 2: Você pode encontrar os IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">aqui</a></p>
+</blockquote>
+<h3> Abrir Interface do Usuário:</h3>
+<ul>
+<li>Abrir Menu de Paimon: Abre o menu de Paimon.</li>
+<li>Abrir Janela de Cozinha: Abre a janela de cozinha.
+<blockquote>
+<p>Nota: É necessário abrir a janela uma vez para que funcione.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Adorar a Estátua:</h3>
+<ul>
+<li>Adora a quantidade de olhos selecionados se você tiver a quantidade suficiente.</li>
+</ul>
+<h3> Alterar Elemento do Viajante:</h3>
+<ul>
+<li>Permite alterar o elemento do viajante em qualquer lugar.</li>
+</ul>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransporte de Oculus</title>
+      <link>https://korepi.com/pt/features/Teleport/0culi-teleport.html</link>
+      <guid>https://korepi.com/pt/features/Teleport/0culi-teleport.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransporte de Oculus</source>
+      <description>Teletransporte de Oculus te teleportará para o oculus mais próximo renderizado. Nota: Aguarde &amp;gt;15s entre os teletransportes por segurança. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Teletransporte de Oculus te teleportará para o oculus mais próximo renderizado.</h2>
+<blockquote>
+<p>Nota: Aguarde <code>&gt;15s</code> entre os teletransportes por segurança.</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransporte de Baús</title>
+      <link>https://korepi.com/pt/features/Teleport/chest-teleport.html</link>
+      <guid>https://korepi.com/pt/features/Teleport/chest-teleport.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransporte de Baús</source>
+      <description>Teletransporte de Baús te teleportará para o báu mais próximo renderizado. Nota: Aguarde &amp;gt;15s entre os teletransportes por segurança. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Teletransporte de Baús te teleportará para o báu mais próximo renderizado.</h2>
+<blockquote>
+<p>Nota: Aguarde <code>&gt;15s</code> entre os teletransportes por segurança.</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransporte Personalizado</title>
+      <link>https://korepi.com/pt/features/Teleport/custom-teleport.html</link>
+      <guid>https://korepi.com/pt/features/Teleport/custom-teleport.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransporte Personalizado</source>
+      <description>Teletransporte Personalizado: Permite teletransportarte a lugares predefinidos por arquivos .json. Velocidade de Interpolação: Controla a velocidade da animação do teletransport...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Teletransporte Personalizado: Permite teletransportarte a lugares predefinidos por arquivos <code>.json</code>.</h2>
+<h3> Velocidade de Interpolação:</h3>
+<ul>
+<li>Controla a velocidade da animação do teletransporte, é recomendado definir como <code>0.1</code> para evitar erros.</li>
+</ul>
+<h3> Auto Teletransporte:</h3>
+<ul>
+<li>Teletransporta você seguindo a ordem dos arquivos <code>.json</code> automaticamente.
+<ul>
+<li>Teletransportar para o próximo: Te teleportará para o próximo teletransporte seguindo a ordem ao pressionar o botão.</li>
+<li>Teletransportar para o anterior: Te teleportará para o teletransporte anterior seguindo a ordem ao pressionar o botão.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Nota:  É recomendado aguardar <code>&gt;15s</code> entre teletransportes por segurança.</p>
+</blockquote>
+<h1> Pode encontrar mais informações <a href="/pt/guide/custom-tp-setting.html" target="blank">aqui</a>.</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransporte de Mapa</title>
+      <link>https://korepi.com/pt/features/Teleport/map-teleport.html</link>
+      <guid>https://korepi.com/pt/features/Teleport/map-teleport.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransporte de Mapa</source>
+      <description>Teletransporte de Mapa permite que o jogador se teletransporte para qualquer lugar do mapa. Para usar o Teletransporte de Mapa, você precisa ativá-lo e selecionar uma tecla para...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Teletransporte de Mapa permite que o jogador se teletransporte para qualquer lugar do mapa.</h2>
+<ul>
+<li>Para usar o Teletransporte de Mapa, você precisa ativá-lo e selecionar uma tecla para usá-lo.</li>
+<li>Para se teletransportar, você deve estar dentro do mapa, manter a tecla pressionada e, em seguida, clicar no local para onde deseja se teletransportar.</li>
+</ul>
+<h3> Teletransporte Rápido (<span style="color:yellow;">Patrocinador</span>):</h3>
+<ul>
+<li>Remove as telas de carregamento com base na distância selecionada para os teletransportes.</li>
+</ul>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Teletransporte de Missão</title>
+      <link>https://korepi.com/pt/features/Teleport/quest-teleport.html</link>
+      <guid>https://korepi.com/pt/features/Teleport/quest-teleport.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransporte de Missão</source>
+      <description>Teletransporte de Missão permite que o jogador se teletransporte para o local da missão ativa. Para usar esta função, você deve estar seguindo a missão e pressionar a tecla desi...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Teletransporte de Missão permite que o jogador se teletransporte para o local da missão ativa.</h2>
+<ul>
+<li>Para usar esta função, você deve estar seguindo a missão e pressionar a tecla designada.</li>
+</ul>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trocador de Animação</title>
+      <link>https://korepi.com/pt/features/Visuals/animation-changer.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/animation-changer.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Trocador de Animação</source>
+      <description>Trocador de Animação: Permite trocar a animação do personagem atual para a animação selecionada.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Trocador de Animação: Permite trocar a animação do personagem atual para a animação selecionada.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Zoom de Camera</title>
+      <link>https://korepi.com/pt/features/Visuals/camera-zoom.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/camera-zoom.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Zoom de Camera</source>
+      <description>Zoom de Camera permite que o jogador altere o zoom da câmera para valores que não estão disponíveis.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Zoom de Camera permite que o jogador altere o zoom da câmera para valores que não estão disponíveis.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Modificador de Constelações</title>
+      <link>https://korepi.com/pt/features/Visuals/constellation-modifier.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/constellation-modifier.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Modificador de Constelações</source>
+      <description>Somente para Patrocinador Modificador de Constelações, alterará visualmente as constelações do personagem, algumas realmente funcionam. Você pode verificar quais funcionam em #⁠...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinador</p>
+</div>
+<hr>
+<h2> Modificador de Constelações, alterará visualmente as constelações do personagem, algumas realmente funcionam.</h2>
+<ul>
+<li>Você pode verificar quais funcionam em <code>#⁠cons-check</code> dentro do servidor.</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">Você precisa mudar para o personagem que deseja usar o Modificador de Constelações e, em seguida, se teletransportar para longe.</p>
+</div>
+<hr>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Perfil Personalizado</title>
+      <link>https://korepi.com/pt/features/Visuals/custom-profile.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/custom-profile.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Perfil Personalizado</source>
+      <description>Perfil Personalizado: UID: Altera o UID a ser exibido.; Nickname: Altera o Nome a ser exibido.; Nivel: Altera o Nível a ser exibido.; EXP: Altera a experiência a ser exibida.; N...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Perfil Personalizado:</h2>
+<h3> UID:</h3>
+<ul>
+<li>Altera o UID a ser exibido.</li>
+</ul>
+<h3> Nickname:</h3>
+<ul>
+<li>Altera o Nome a ser exibido.</li>
+</ul>
+<h3> Nivel:</h3>
+<ul>
+<li>Altera o Nível a ser exibido.</li>
+</ul>
+<h3> EXP:</h3>
+<ul>
+<li>Altera a experiência a ser exibida.</li>
+</ul>
+<h3> Nivel de Mundo:</h3>
+<ul>
+<li>Altera o Nível de Mundo a ser exibido.</li>
+</ul>
+<h3> Imagem de Avatar:</h3>
+<ul>
+<li>Altera a imagem do avatar por um arquivo .png a ser selecionado.</li>
+</ul>
+<h3> Imagem de Cartão:</h3>
+<ul>
+<li>Altera a imagem do cartão por um arquivo .png a ser selecionado.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Clima Personalizado</title>
+      <link>https://korepi.com/pt/features/Visuals/custom-weather.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/custom-weather.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Clima Personalizado</source>
+      <description>Clima Personalizado permite que você altere o clima conforme sua preferência.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Clima Personalizado permite que você altere o clima conforme sua preferência.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trocador de Emoções</title>
+      <link>https://korepi.com/pt/features/Visuals/emotion-changer.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/emotion-changer.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Trocador de Emoções</source>
+      <description>Trocador de Emoções permite que você mude a emoção do personagem para uma selecionada.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Trocador de Emoções permite que você mude a emoção do personagem para uma selecionada.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Configurações de Visuais Extras</title>
+      <link>https://korepi.com/pt/features/Visuals/extra-visual-settings.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Configurações de Visuais Extras</source>
+      <description>Configurações de Visuais Extras: Gamma: Altera o gamma do jogo.; Largura do Contorno: Altera a largura do contorno de todos os personagens.; Anti-Aliasing: Altera o modo de Anti...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Configurações de Visuais Extras:</h2>
+<h3> Gamma:</h3>
+<ul>
+<li>Altera o gamma do jogo.</li>
+</ul>
+<h3> Largura do Contorno:</h3>
+<ul>
+<li>Altera a largura do contorno de todos os personagens.</li>
+</ul>
+<h3> Anti-Aliasing:</h3>
+<ul>
+<li>Altera o modo de Anti-Aliasing conforme a seleção do jogador, incluindo alguns que não estão disponíveis no jogo.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tempo falso</title>
+      <link>https://korepi.com/pt/features/Visuals/fake-time.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/fake-time.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Tempo falso</source>
+      <description>Tempo Falso: Troca o tempo do jogo para o seu gosto.;</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tempo Falso:</h2>
+<ul>
+<li>Troca o tempo do jogo para o seu gosto.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Desbloquear FPS</title>
+      <link>https://korepi.com/pt/features/Visuals/fps-unlock.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/fps-unlock.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Desbloquear FPS</source>
+      <description>Desbloqueia FPS.Si desbloqueia FPS.Desbloqueia FPS wow. Limitar FPS de fundo: Escolha a taxa máxima de quadros (fps) do jogo quando você não estiver dentro do jogo;</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Desbloqueia FPS.Si desbloqueia FPS.Desbloqueia FPS wow.</h2>
+<h3> Limitar FPS de fundo:</h3>
+<ul>
+<li>Escolha a taxa máxima de quadros (fps) do jogo quando você não estiver dentro do jogo</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Camera Livre</title>
+      <link>https://korepi.com/pt/features/Visuals/free-camera.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/free-camera.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Camera Livre</source>
+      <description>Câmera Livre: Permite que você mova a câmera sem ter que seguir o personagem.; Congelar Animação do Personagem: Congela a Animação do Personagem; Personagem Invisível: Torna o p...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Câmera Livre:</h2>
+<ul>
+<li>Permite que você mova a câmera sem ter que seguir o personagem.</li>
+</ul>
+<h3> Congelar Animação do Personagem:</h3>
+<ul>
+<li>Congela a Animação do Personagem</li>
+</ul>
+<h3> Personagem Invisível:</h3>
+<ul>
+<li>Torna o personagem invisível.</li>
+</ul>
+<h3> Bloquear Input do Usuário:</h3>
+<ul>
+<li>Limita o movimento do jogador, mas não o da câmera.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Esconder Interface</title>
+      <link>https://korepi.com/pt/features/Visuals/hide-ui.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/hide-ui.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Esconder Interface</source>
+      <description>Esconder Interface: Esconde completamente a interface.; Esconder Ping: (Patrocinador) Esconde o Ping.; Esconder Barra de Vida: (Patrocinador) Esconde a Barra de Vida.; Esconder ...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Esconder Interface:</h2>
+<ul>
+<li>Esconde completamente a interface.</li>
+</ul>
+<h3> Esconder Ping: (<span style="color:yellow;">Patrocinador</span>)</h3>
+<ul>
+<li>Esconde o Ping.</li>
+</ul>
+<h3> Esconder Barra de Vida: (<span style="color:yellow;">Patrocinador</span>)</h3>
+<ul>
+<li>Esconde a Barra de Vida.</li>
+</ul>
+<h3> Esconder Barra de Vida do Time: (<span style="color:yellow;">Patrocinador</span>)</h3>
+<ul>
+<li>Esconde a Barra de Vida do Time.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Zoom do Mapa</title>
+      <link>https://korepi.com/pt/features/Visuals/map-zoom.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/map-zoom.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Zoom do Mapa</source>
+      <description>Zoom do Mapa modifica o zoom para o valor definido pelo jogador.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Zoom do Mapa modifica o zoom para o valor definido pelo jogador.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Trocador de Monstros</title>
+      <link>https://korepi.com/pt/features/Visuals/monster-changer.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/monster-changer.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Trocador de Monstros</source>
+      <description>Trocador de Monstros: Quando ativado, muda todos os novos monstros para o monstro designado.; Excluir Animais: Ativar ou Desativar se mudar animais para monstros.; ID de Monstro...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Trocador de Monstros:</h2>
+<ul>
+<li>Quando ativado, muda todos os novos monstros para o monstro designado.</li>
+</ul>
+<h3> Excluir Animais:</h3>
+<ul>
+<li>Ativar ou Desativar se mudar animais para monstros.</li>
+</ul>
+<h3> ID de Monstro Personalizado:</h3>
+<ul>
+<li>Usa um ID em vez da lista predefinida.</li>
+</ul>
+<h3> Monstro Aleatório:</h3>
+<ul>
+<li>O monstro que aparecerá será aleatório.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Outros</title>
+      <link>https://korepi.com/pt/features/Visuals/others.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/others.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Outros</source>
+      <description>Outras Funções: Mostrar Indicador de Baú Ativar Visão Sem Tela Preta Sem Névoa Sem Grama Sem Névoa do Mapa Paimon te segue Modo Golfinho Ícone de Mestre de Jogo Desbloqueador de...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Outras Funções:</h2>
+<h3> Mostrar Indicador de Baú</h3>
+<h3> Ativar Visão</h3>
+<h3> Sem Tela Preta</h3>
+<h3> Sem Névoa</h3>
+<h3> Sem Grama</h3>
+<h3> Sem Névoa do Mapa</h3>
+<h3> Paimon te segue</h3>
+<h3> Modo Golfinho</h3>
+<h3> Ícone de Mestre de Jogo</h3>
+<h3> Desbloqueador de Menu</h3>
+<h2> <span style="color:yellow;">Apenas para Patrocinadores</span></h2>
+<h3> Sem Desfoque de Câmera</h3>
+<h3> Sem Vibração de Câmera</h3>
+<h3> Sem Pegadas</h3>
+<h3> Sem Animação de Habilidade Definitiva</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Modificador de Skin</title>
+      <link>https://korepi.com/pt/features/Visuals/skin-modifier.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/skin-modifier.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Modificador de Skin</source>
+      <description>Modificador de Skins permite que você mude a skin do personagem gratuitamente.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Modificador de Skins permite que você mude a skin do personagem gratuitamente.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Modificador de Textura</title>
+      <link>https://korepi.com/pt/features/Visuals/texture-changer.html</link>
+      <guid>https://korepi.com/pt/features/Visuals/texture-changer.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Modificador de Textura</source>
+      <description>É melhor usar GIMI (../../guide/3DM-tutorial.md) para trocar as texturas. Trocador de Textura permite que você mude as texturas do personagem por outras com arquivos .png.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">É melhor usar [GIMI](../../guide/3DM-tutorial.md) para trocar as texturas.</p>
+</div>
+<hr>
+<h2> Trocador de Textura permite que você mude as texturas do personagem por outras com arquivos .png.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Ativar Teletransporte</title>
+      <link>https://korepi.com/pt/features/World/auto-activate-tp.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Ativar Teletransporte</source>
+      <description>Somente para Patrocinador Ativar Teletransporte Automático, ativa teletransportes próximos até 50 metros. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinador</p>
+</div>
+<hr>
+<h3> Ativar Teletransporte Automático, ativa teletransportes próximos até 50 metros.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Desafio</title>
+      <link>https://korepi.com/pt/features/World/auto-challenge.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-challenge.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Desafio</source>
+      <description>Auto Desafío: Completa automaticamente os desafios de tempo ativos com uma classificação e atraso personalizados. Video de Exemplo: Nota: No se recomienda usar con retrasos bajo...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Desafío: Completa automaticamente os desafios de tempo ativos com uma classificação e atraso personalizados.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: No se recomienda usar con retrasos bajos y rangos altos.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Cozinhar</title>
+      <link>https://korepi.com/pt/features/World/auto-cook.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-cook.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Cozinhar</source>
+      <description>Auto Culinária permite que você cozinhe automaticamente a quantidade desejada do prato selecionado, podendo escolher qualidade, quantidade e completar a maestria. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Culinária permite que você cozinhe automaticamente a quantidade desejada do prato selecionado, podendo escolher qualidade, quantidade e completar a maestria.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Destruir Objetos</title>
+      <link>https://korepi.com/pt/features/World/auto-destroy.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-destroy.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Destruir Objetos</source>
+      <description>Auto Destruir Objetos permite que você destrua objetos como baús, plantas, escudos, minerais e mais automaticamente com classificações personalizadas. Video de Exemplo: Note: Va...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Destruir Objetos permite que você destrua objetos como baús, plantas, escudos, minerais e mais automaticamente com classificações personalizadas.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Valor recomendado menos de <code>20m</code>, não recomendado usar no máximo. (<code>40m</code>)</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Pescar</title>
+      <link>https://korepi.com/pt/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Pescar</source>
+      <description>Auto Pescar permite que você pule a animação de pesca. Video de Exemplo: Nota: Auto Re-lanza caña no funciona por ahora.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Auto Pescar permite que você pule a animação de pesca.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: Auto Re-lanza caña no funciona por ahora.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Coletar</title>
+      <link>https://korepi.com/pt/features/World/auto-loot.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-loot.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Coletar</source>
+      <description>Auto Coletar permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados. Video de Exemplo: Nota: Recomenda-se usar abaixo de ...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Coletar permite que você colete materiais como plantas, baús, drops e mais com classificações e atrasos personalizados.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: Recomenda-se usar abaixo de <code>10m</code> para uso normal e menos de <code>20m</code> se você usar teletransportes personalizados.
+Nota 2: Quanto maior a distância, maior o atraso.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Seelie</title>
+      <link>https://korepi.com/pt/features/World/auto-seelie.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-seelie.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Seelie</source>
+      <description>Auto Seelie elimina a necessidade de seguir o Seelie até a estátua; ele irá sozinho quando você se aproximar. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Seelie elimina a necessidade de seguir o Seelie até a estátua; ele irá sozinho quando você se aproximar.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Conversar</title>
+      <link>https://korepi.com/pt/features/World/auto-talk.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-talk.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Conversar</source>
+      <description>Auto Conversar: Fala automaticamente com os NPCs Diálogo Rápido: Acelera o jogo tornando o diálogo mais rápido.; Nota: Não é recomendado acima de 5. Pular Diálogo (Patrocinador)...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Auto Conversar: Fala automaticamente com os NPCs</h2>
+<h3> Diálogo Rápido:</h3>
+<ul>
+<li>Acelera o jogo tornando o diálogo mais rápido.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado acima de  <code>5</code>.</p>
+</blockquote>
+<h3> Pular Diálogo (<span style="color:yellow;">Patrocinador</span>):</h3>
+<ul>
+<li>Pula o diálogo com um atraso personalizado. É mais seguro que Diálogo Rápido.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado usar acima de <code>200ms</code></p>
+</blockquote>
+<h3> Cenas Rápidas:</h3>
+<ul>
+<li>Acelera o jogo tornando a cena mais rápida.</li>
+</ul>
+<blockquote>
+<p>Nota: No se recomienda usar por encima de <code>5</code>.</p>
+</blockquote>
+<h3> Pular Conversas:</h3>
+<ul>
+<li>Pula as cenas de conversação em curso ou quando começam.</li>
+</ul>
+<blockquote>
+<p>Nota: Pode dar tela preta às vezes.</p>
+</blockquote>
+<h3> Pular Cenas:</h3>
+<ul>
+<li>Pula as cenas de vídeo em curso ou quando começam.</li>
+</ul>
+<blockquote>
+<p>Nota: Pode dar tela preta às vezes.</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Madeira</title>
+      <link>https://korepi.com/pt/features/World/auto-tree-farm.html</link>
+      <guid>https://korepi.com/pt/features/World/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Auto Madeira</source>
+      <description>Somente para Patrocinador Auto Madeira permite cortar árvores próximas para obter madeira com classificação, golpes e atraso personalizados. Video de Exemplo: Nota: Não é recome...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinador</p>
+</div>
+<hr>
+<h3> Auto Madeira permite cortar árvores próximas para obter madeira com classificação, golpes e atraso personalizados.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: Não é recomendado alterar os valores.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Aura Elemental</title>
+      <link>https://korepi.com/pt/features/World/elemental-aura.html</link>
+      <guid>https://korepi.com/pt/features/World/elemental-aura.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Aura Elemental</source>
+      <description>Somente para Patrocinadores Aura Elemental aplica elementos a si mesmo, monstros ou objetos próximos; tanto os elementos quanto o alcance e o atraso podem ser personalizados, e ...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Somente para Patrocinadores</p>
+</div>
+<hr>
+<h3> Aura Elemental aplica elementos a si mesmo, monstros ou objetos próximos; tanto os elementos quanto o alcance e o atraso podem ser personalizados, e é possível usar mais de um elemento.</h3>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: Um atraso baixo aumentará a probabilidade de detecção.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Velocidade de Jogo</title>
+      <link>https://korepi.com/pt/features/World/game-speed.html</link>
+      <guid>https://korepi.com/pt/features/World/game-speed.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Velocidade de Jogo</source>
+      <description>Velocidade de Jogo. Acelera ou desacelera o jogo. Inesperado, não é mesmo? Nota: Não recomendado para uso fora de menus ou no geral. Video de Exemplo:</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Velocidade de Jogo. Acelera ou desacelera o jogo. Inesperado, não é mesmo?</h3>
+<blockquote>
+<p>Nota: Não recomendado para uso fora de menus ou no geral.</p>
+</blockquote>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kill Aura</title>
+      <link>https://korepi.com/pt/features/World/kill-aura.html</link>
+      <guid>https://korepi.com/pt/features/World/kill-aura.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Kill Aura</source>
+      <description>Esta función tiene alto riesgo de ban! Kill Aura: Inflige dano aos inimigos próximos Modo de dano de queda: Inflige dano aos inimigos próximos com classificações, atrasos e dano...</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container danger">
+<p class="hint-container-title">Esta función tiene alto riesgo de ban!</p>
+</div>
+<hr>
+<h2> Kill Aura: Inflige dano aos inimigos próximos</h2>
+<h3> Modo de dano de queda:</h3>
+<ul>
+<li>Inflige dano aos inimigos próximos com classificações, atrasos e danos personalizados.</li>
+</ul>
+<blockquote>
+<p>Nota: Não é recomendado usar valores muito altos.</p>
+</blockquote>
+<h3> Modo Percentual:</h3>
+<ul>
+<li>Número de golpes necessários para matar um inimigo.</li>
+</ul>
+<blockquote>
+<p>Nota: É recomendado usar <code>3</code> ou mais.</p>
+</blockquote>
+<h3> Vida Restante:</h3>
+<ul>
+<li>Escolhe se deixar o inimigo com vida ou não.</li>
+</ul>
+<h3> Modo de Morte Instantânea:</h3>
+<ul>
+<li>Tenta executar o inimigo.</li>
+</ul>
+<blockquote>
+<p>Nota: Pode ficar bugado com alguns chefes.
+Nota 2: Não é recomendado usar.</p>
+</blockquote>
+<h3> Apenas Agressivos:</h3>
+<ul>
+<li>Escolhe se atacar apenas inimigos agressivos ou todos.</li>
+</ul>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sucção de Mobs</title>
+      <link>https://korepi.com/pt/features/World/mob-vacuum.html</link>
+      <guid>https://korepi.com/pt/features/World/mob-vacuum.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Sucção de Mobs</source>
+      <description>Sucção de Mobs aproxima os inimigos com um alcance e velocidade personalizados. Video de Exemplo: Nota: Se recomenda usar abaixo de 20m.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sucção de Mobs aproxima os inimigos com um alcance e velocidade personalizados.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: Se recomenda usar abaixo de <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sucção de Coleta</title>
+      <link>https://korepi.com/pt/features/World/vacuum-loot.html</link>
+      <guid>https://korepi.com/pt/features/World/vacuum-loot.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Sucção de Coleta</source>
+      <description>Sucção de Coleta aproxima os drops com um alcance e velocidade personalizados. Video de Exemplo: Nota: Se recomenda usar abaixo de 20m.</description>
+      <category>Funções</category>
+      <pubDate>Mon, 18 Dec 2023 04:22:05 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sucção de Coleta aproxima os drops com um alcance e velocidade personalizados.</h2>
+<h2> Video de Exemplo:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Nota: Se recomenda usar abaixo de <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Instalar Skins</title>
+      <link>https://korepi.com/pt/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/pt/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Instalar Skins</source>
+      <description>Como instalar skins personalizadas em GIMI Passo 1: Baixar a skin Para isso, vá para Gamebanana (https://gamebanana.com/games/8552) e selecione a skin desejada para baixar. Pass...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como instalar skins personalizadas em <code>GIMI</code></h2>
+<h3> Passo 1: Baixar a skin</h3>
+<p>Para isso, vá para <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> e selecione a skin desejada para baixar.</p>
+<h3> Passo 2: Instalar a skin</h3>
+<p>Vá para a pasta do seu  <code>GIMI</code> e procure pela pasta <code>Mods</code>, dentro dessa pasta, extraia sua skin.</p>
+<h3> Passo 3: Aplicar a skin</h3>
+<p>Se estiver dentro do jogo, pressione <code>F10</code>  para recarregar os mods. Caso contrário, abra o jogo seguindo as instruções da <a href="/pt/guide/3DM-tutorial.html" target="blank">publicação anterior</a> e a skin estará aplicada.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Skins Personalizadas</title>
+      <link>https://korepi.com/pt/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/pt/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Skins Personalizadas</source>
+      <description>Se no cmd do GIMI aparecer echo off você pode pressionar Numpad 0 para removê-lo ou editar o arquivo d3dx.ini e procurar por hunting= e trocar para 0. Como usar skins personaliz...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Se no cmd do GIMI aparecer  `echo off` você pode pressionar `Numpad 0` para removê-lo ou editar o arquivo `d3dx.ini` e procurar por `hunting=` e trocar para `0`.</p>
+</div>
+<hr>
+<h2> Como usar skins personalizadas em Korepi</h2>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
+Para usar skins personalizadas no Korepi, você precisará baixar o aplicativo</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> <span style="color:blue;">Método 1</span></h2>
+<h3> Passo 1: Baixar <code>GIMI</code></h3>
+<p>Baixar o <code>GIMI</code> de seu <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, faça o download do arquivo chamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> Passo 2: Extrair a pasta de <code>GIMI</code></h3>
+<p>Após baixar o <code>GIMI</code>,  extraia-o em qualquer pasta no desktop; dentro dessa pasta, você encontrará um arquivo chamado <code>d3d11.dll</code>, Copie o diretório e adicione <code>/d3d11.dll</code>.</p>
+<p><code>"directorio/d3d11.dll"</code></p>
+<h3> Passo 3: Adicionar <code>GIMI</code> ao Korepi</h3>
+<p>Para isso, adicione as seguintes linhas ao arquivo chamado <code>cfg.ini</code> dentro da pasta do Korepi.</p>
+<p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
+<p>No <code>DllPath</code> cole o diretório mencionado no passo anterior.</p>
+<p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
+<h3> Passo 4: Abrir Korepi</h3>
+<p>Após seguir os passos mencionados, o GIMI será aberto junto com o Korepi sempre que você abrir o Korepi.</p>
+<h2> <span style="color:blue;">Método 2</span></h2>
+<h3> Passo 1: Baixar <code>GIMI</code></h3>
+<p>Baixar o <code>GIMI</code> de seu <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> oficial, faça o download do arquivo chamado <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> Passo 2: Extrair a pasta de <code>GIMI</code></h3>
+<p>Após baixar o <code>GIMI</code>,  extraia-o em qualquer pasta no desktop; dentro dessa pasta, você encontrará um arquivo chamado <code>d3d11.dll</code>, Copie o diretório e adicione <code>/d3d11.dll</code>.</p>
+<h3> Paso 3: Abrir Korepi</h3>
+<p>Abra o Korepi depois de abrir o <code>GIMI</code>, e ambos serão executados juntos. Você terá que repetir o Passo 2 sempre que quiser usar o <code>GIMI</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Guias</title>
+      <link>https://korepi.com/pt/guide/</link>
+      <guid>https://korepi.com/pt/guide/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Guias</source>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teletransportes personalizados</title>
+      <link>https://korepi.com/pt/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/pt/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Teletransportes personalizados</source>
+      <description>Como usar Teletransportes personalizados Passo 1: Configuração Configure da seguinte maneira: O tempo de atraso recomendado é &amp;gt;15s. Passo 2: Baixar os arquivos .json para os tel...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar Teletransportes personalizados</h2>
+<h3> Passo 1: Configuração</h3>
+<p>Configure da seguinte maneira:</p>
+<p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
+<p>O tempo de atraso recomendado é &gt;15s.</p>
+<h3> Passo 2: Baixar os arquivos .json para os teletransportes</h3>
+<p>Para isso, você pode encontrá-los no canal <code>community-share</code> na postagem fixada. Faça o download e extraia em qualquer pasta.</p>
+<h3> Passo 3: Selecionar os teletransportes desejados</h3>
+<p>Acesse as configurações dentro do Korepi novamente e vá para a seguinte seção:</p>
+<p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
+<p>Clique em "select path" e escolha a pasta dos teletransportes que você deseja usar.</p>
+<h3> Passo 4: Iniciar os teletransportes</h3>
+<p>Depois de selecionar os teletransportes, você deve ativar a seguinte opção:</p>
+<p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
+<p>Ative-a e clique em <code>Select</code>:</p>
+<p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
+<h3> Passo 5: Aproveitar</h3>
+<p>Agora os teletransportes começarão, se você tiver o <a href="/pt/start/sponsor.html" target="blank">Sponsor</a> haverá um contador de tempo mostrando quanto tempo levará.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/h_1KH57ZI3Q" title="Como Utilizar Teleportes Personalizados" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Como conseguir a Key</title>
+      <link>https://korepi.com/pt/guide/getkey.html</link>
+      <guid>https://korepi.com/pt/guide/getkey.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Como conseguir a Key</source>
+      <description>Tutorial de verificação Passo 1: Encontre o canal ★⋅micah-bot-verify⋅★ link direto (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png Encontre a men...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tutorial de verificação</h2>
+<h3> Passo 1:</h3>
+<ul>
+<li>
+<p>Encontre o canal <code>★⋅micah-bot-verify⋅★</code> <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">link direto</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Encontre a mensagem enviada por micah bot</p>
+</li>
+</ul>
+<h3> Passo 2:</h3>
+<p>Para a versão grátis, siga isso <a href="/pt/guide/free.html" target="blank">link</a>.</p>
+<p>Se você comprou a chave por um revendedor, clique em <code>bind card str</code> e cole a sua chave.</p>
+<p>::: Se você era sponsor antes de 24 de fevereiro de 2024, clique em "Sponsor Compensation" e então escreva "YES" para receber os 3 meses de compensação, depois de receber seu "card", siga o próximo passo
+:::</p>
+<h3> Passo 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Clique em <code>Get Verification File</code>, e então preencha o  <code>HWID (device ID)</code> que você recebeu após abrir o injetor.
+-Você vai receber um arquivo do bot, instale ele e coloque na pasta do Korepi. Confira se o nome está como <code>enc.json</code>.</p>
+<p>Você pode clicar em <code>View Subscription Information</code> para verificar as informações da sua assinatura.</p>
+<h2> Como pausar a chave</h2>
+<p>Clique em <code>Pause Card</code> e escreva <code>YES</code> para pausar ela. Você pode despausar ela a qualquer momento para continuar a assinatura.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Você pode pausar a chave apenas uma vez a cada 30 dias</p>
+</div>
+<h2> Como mudar seu HWID (ID do dispositivo)</h2>
+<p>Clique em <code>ID(Change HWID)</code>, e cole o novo <code>HWID</code>que você recebeu ao abrir o injetor, depois disso instale o novo arquivo e ponha na pasta do Korepi.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Você pode mudar seu HWID apenas uma vez a cada 7 dias</p>
+</div>
+<h2> MD5 Erro de verificação</h2>
+<p>A cada vez que você receber um novo arquivo <code>enc.json</code>, o antigo <code>enc.json</code> se tornará inválido.</p>
+<p>Se o novo estiver como inválido,, pegue um novo arquivo. Se ainda não funcionar, espere um pouco e tente novamente.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Multi-Instancia</title>
+      <link>https://korepi.com/pt/guide/multi-instance.html</link>
+      <guid>https://korepi.com/pt/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Multi-Instancia</source>
+      <description>Como usar Multi-Instância (Abrir 2 jogos ao mesmo tempo)Funciona apenas para a versão Local(V)</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como usar Multi-Instância (Abrir 2 jogos ao mesmo tempo)</h2>
+<div class="hint-container info">
+<p class="hint-container-title">Funciona apenas para a versão Local(V)</p>
+</div>
+<hr>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Inicio</title>
+      <link>https://korepi.com/pt/start/</link>
+      <guid>https://korepi.com/pt/start/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Inicio</source>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baixar</title>
+      <link>https://korepi.com/pt/start/download.html</link>
+      <guid>https://korepi.com/pt/start/download.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Baixar</source>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
+<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 3: Ready!</h3>
+<p>Place the .rar in a folder and add it to <a href="/pt/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/pt/guide/getkey.html" target="blank">guide</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Unir-se ao Servidor</title>
+      <link>https://korepi.com/pt/start/join.html</link>
+      <guid>https://korepi.com/pt/start/join.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Unir-se ao Servidor</source>
+      <description>Introdução Bem-vindo à nossa comunidade! Siga estas instruções para se juntar ao servidor do Korepi. Passo 1: Crie uma conta no Discord Se ainda não tiver uma conta no Discord, ...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Introdução</h2>
+<p>Bem-vindo à nossa comunidade! Siga estas instruções para se juntar ao servidor do Korepi.</p>
+<h3> Passo 1: Crie uma conta no Discord</h3>
+<p>Se ainda não tiver uma conta no Discord, comece criando uma nova. Visite a <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Pagina oficial do Discord</a> e siga as instruções.</p>
+<h3> Passo 2: Baixe e Instale o Discord</h3>
+<p>Após criar uma conta, baixe o <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Cliente do Discord</a> para o seu sistema operacional. Instale o cliente seguindo as instruções na tela.</p>
+<h3> Passo 3: Junte-se ao Servidor</h3>
+<ol>
+<li>Copie o <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">link de convite</a> para o Discord fornecido pelo administrador.</li>
+<li>No cliente do Discord, clique em "+" no canto inferior esquerdo.</li>
+<li>Selecione "Juntar-se a um Servidor".</li>
+<li>Cole o link de convite e clique em "Juntar-se".</li>
+</ol>
+<p>Se o link de convite estiver inválido, o servidor pode estar temporariamente fechado. Aguarde até que seja reaberto. Agora, você pode prosseguir para a próxima etapa.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sponsor</title>
+      <link>https://korepi.com/pt/start/sponsor.html</link>
+      <guid>https://korepi.com/pt/start/sponsor.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Sponsor</source>
+      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <category>Guide</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sponsors</h2>
+<ul>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Verificação</title>
+      <link>https://korepi.com/pt/start/verify.html</link>
+      <guid>https://korepi.com/pt/start/verify.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Verificação</source>
+      <description>Introdução Bem-vindo à nossa comunidade! Para completar a verificação do bot e obter o cargo de &amp;quot;Fã&amp;quot;, siga os passos abaixo. Passo 1: Junte-se ao nosso servidor se ainda não o f...</description>
+      <category>Guia</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Introdução</h2>
+<p>Bem-vindo à nossa comunidade! Para completar a verificação do bot e obter o cargo de "Fã", siga os passos abaixo.</p>
+<h3> Passo 1: Junte-se ao nosso servidor se ainda não o fez</h3>
+<p>Se você ainda não está em nosso servidor, por favor, leia a publicação anterior, que explica como você pode se juntar ao servidor.</p>
+<h3> Passo 2: Agora que você está no servidor</h3>
+<p>Agora que você está no servidor, escolha os canais e cargos necessários da lista, depois vá para o canal ★⋅rules⋅★.</p>
+<h3> Passo 3: Canal ★⋅rules⋅★</h3>
+<p>No canal de regras, você precisará se familiarizar com as regras e com a verificação para confirmar que não é um bot. Encontre o botão "Verify", clique nele, e o bot enviará um link que você terá que seguir e confirmar que não é um bot.</p>
+<h3> Passo 4: Depois de receber o cargo de "Newcomer""</h3>
+<p>Após a verificação bem-sucedida, o bot lhe dará o cargo de "Newcomer". Com este cargo, você não será expulso do servidor sem razões válidas. Agora, siga para o próximo passo.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Erro 31-4302</title>
+      <link>https://korepi.com/pt/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/pt/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Erro 31-4302</source>
+      <description>Como corrigir o erro 31-4302 Método 1 Verifique se o seu jogo contém apenas arquivos originais; se houver algum que não seja original, remova-o da pasta, como no exemplo a segui...</description>
+      <category>Erros</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Como corrigir o erro <code>31-4302</code></h2>
+<p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
+<h3> Método 1</h3>
+<p>Verifique se o seu jogo contém apenas arquivos originais; se houver algum que não seja original, remova-o da pasta, como no exemplo a seguir:</p>
+<p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
+<p>Se você continuar recebendo o erro, continue lendo.</p>
+<h3> Método 2</h3>
+<p>Vá para o Korepi e acesse  <code>Settings --&gt; Other</code>.</p>
+<p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
+<p>Encontre <code>Bypass Intengrity</code> e desabilite a opção.</p>
+<p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
+<p>O erro deve desaparecer.</p>
+<h2> O que fazer se eu não puder acessar o Korepi?</h2>
+<p>Vá para a pasta do Korepi e encontre <code>cfg.json</code>, use <code>CTRL + F</code>, e digite <code>bypass</code> e clique em buscar, mude o valor para <code>false</code> e abra o Korepi novamente.</p>
+<h2> O que fazer se não funcionar</h2>
+<p>Você terá que reinstalar completamente o jogo.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Lista de erros</title>
+      <link>https://korepi.com/pt/troubleshoot/</link>
+      <guid>https://korepi.com/pt/troubleshoot/</guid>
+      <source url="https://korepi.com/pt/rss.xml">Lista de erros</source>
+      <category>Erros</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Erros Frequentes do mod</title>
+      <link>https://korepi.com/pt/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/pt/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/pt/rss.xml">Erros Frequentes do mod</source>
+      <description>Lista de erros comuns Por que o meu Korepi desaparece? Desative o antivírus e crie uma nova pasta, coloque o Korepi dentro e adicione-o às exclusões do antivírus: Abra o Korepi ...</description>
+      <category>Erros</category>
+      <pubDate>Wed, 13 Dec 2023 16:37:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Lista de erros comuns</h2>
+<h3> Por que o meu Korepi desaparece?</h3>
+<p>Desative o antivírus e crie uma nova pasta, coloque o Korepi dentro e adicione-o às exclusões do antivírus:</p>
+<p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
+<p>Abra o Korepi depois de concluir este passo.</p>
+<hr>
+<h3> Status: No active subscription(s) found, Invalid license key</h3>
+<p>Você precisa <a href="/pt/guide/getkey.html" target="blank">conseguir uma nova key</a> no <code>⁠★⋅micah-bot-verify⋅★</code>, se não conseguir obter uma chave ou se a chave não funcionar, terá que esperar até que ela expire.</p>
+<p><code>Os Patrocinadores podem usar F:Reset Key para conseguir uma nova.</code></p>
+<hr>
+<h3> [DLL injection]  Process crashed, exit code 0xc000005</h3>
+<p>Abra o prompt de comando como administrador e digite o seguinte:</p>
+<p><code>sfc /scannow</code></p>
+<p>Se forem encontrados erros, reinicie o computador e veja se o problema persiste.</p>
+<p>Se não resolver após reiniciar ou se nenhum erro for encontrado, tente o seguinte:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Após concluir este passo, reinicie o computador e verifique se o problema persiste. Se ainda não funcionar, você precisará reinstalar o Windows.</p>
+<hr>
+<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
+<p>Esse erro ocorre devido aos temas instalados. Apague a pasta <code>themes</code>.</p>
+<hr>
+<h3> O sistema não detecta o arquivo MSVCP140.dll</h3>
+<p>Atualize ou instale o <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a>.</p>
+<p>Atualize ou instale o <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a>.</p>
+<hr>
+<h3> O arquivo está corrompido! Este programa foi manipulado!</h3>
+<p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
+<p>Nesse caso, você deve instalar o <code>Malware Bytes</code> ou <code>Dr.Web</code> e fazer uma verificação completa. Se for encontrado um vírus, exclua-o e reinicie o computador. Se não resolver, será necessário reinstalar o Windows.</p>
+<hr>
+<h3> Timeout was reached</h3>
+<p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
+<p>Reinicie seu roteador.</p>
+<p>Certifique-se de que nenhuma aplicação esteja bloqueando a conexão, como o antivírus.</p>
+<hr>
+<h3> DLL Injection failed</h3>
+<p>Reinstale o mod.</p>
+<hr>
+<h3> Windows cannot access the specified device, path, or file</h3>
+<p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
+<p>Tente <a href="https://www.minitool.com/es/respaldar-datos/windows-no-tiene-acceso-al-dispositivo-especificado.html" target="_blank" rel="noopener noreferrer">isso</a> primero.</p>
+<p>Faça uma verificação de vírus.</p>
+<p>Se não funcionar, abra o <code>cmd</code> como administrador e digite <code>sfc /scannow</code>.</p>
+<p>Se foram encontrados erros, reinicie o computador e verifique se funciona.</p>
+<p>Se, ao reiniciar, não funcionar ou se não foram encontrados erros, tente o seguinte:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Após concluir essa etapa, reinicie o computador e verifique se funciona. Se não funcionar, será necessário reinstalar o Windows.</p>
+<hr>
+<h3> Signature checksum failed</h3>
+<p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
+<p>Os servidores estão fora do ar, aguarde até que voltem.</p>
+<hr>
+<h3> Failed to create game process with Error 5</h3>
+<p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
+<p>Apague <code>cfg.ini</code>.</p>
+<hr>
+<h3> SSL connect error</h3>
+<p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
+<p>Reinicie seu roteador e computador.</p>
+<p>Use uma VPN se ainda não funcionar.</p>
+<hr>
+<h3> Failed to detect game version</h3>
+<p>Atualize seu mod seguindo <a href="/pt/start/download.html" target="blank">estos</a> passos.</p>
+<hr>
+<h3> File ok</h3>
+<p>Apague seu  <code>cfg.json</code>, algo está errado com o arquivo.</p>
+<hr>
+<h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
+<p>Se o mod travar após esta linha, siga as etapas a seguir.</p>
+<p>Desative todos os antivírus que você possui.</p>
+<p>Se não funcionar, use <code>sfc /scannow</code> no seu <code>cmd</code> como administrador.</p>
+<p>Se foram encontrados erros e o Windows não puder corrigi-los, use <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code> no <code>cmd</code>.</p>
+<p>Depois disso, reinicie seu computador e verifique se funciona.</p>
+<p>Se não funcionar, será necessário reinstalar o Windows.</p>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>Unpause your license and try again.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://korepi.com/vi/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://korepi.com/vi/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Korepi</title>
+    <link>https://korepi.com/vi/</link>
+    <description>Trợ giúp về Korepi</description>
+    <language>vi-VN</language>
+    <pubDate>Wed, 07 Feb 2024 23:25:09 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 23:25:09 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>Features</category>
+    <category>Hướng Dẫn</category>
+    <category>Guide</category>
+    <category>Các Câu Hỏi Thường Gặp</category>
+    <category>Các Tính Năng</category>
+    <category>Khắc Phục Lỗi</category>
+    <category>Hướng dẫn</category>
+    <item>
+      <title>Map Manager</title>
+      <link>https://korepi.com/vi/features/World/map-manager.html</link>
+      <guid>https://korepi.com/vi/features/World/map-manager.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Map Manager</source>
+      <description>Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 20:25:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Map Manager allows the player to unlock Statues of the Seven or Waypoints automatically without moving from the place, great to create reroll accounts.</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Domain</title>
+      <link>https://korepi.com/vi/features/World/auto-domain.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-domain.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Auto Domain</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Auto Puzzle</title>
+      <link>https://korepi.com/vi/features/World/auto-puzzle.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-puzzle.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Auto Puzzle</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:27:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Stats Modifier</title>
+      <link>https://korepi.com/vi/features/Player/stats-modifer.html</link>
+      <guid>https://korepi.com/vi/features/Player/stats-modifer.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Stats Modifier</source>
+      <description>Soon.</description>
+      <category>Features</category>
+      <pubDate>Wed, 07 Feb 2024 13:14:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Soon.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Phiên Bản Miễn Phí</title>
+      <link>https://korepi.com/vi/guide/free.html</link>
+      <guid>https://korepi.com/vi/guide/free.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Phiên Bản Miễn Phí</source>
+      <description>Hướng Dẫn Lấy Key Korepi Miễn Phí Bước 1: Đi đến kênh ★⋅micah-bot-verify⋅★ trong server Discord: Link trực tiếp (https://discord.com/channels/1069057220802781265/120368733310733...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Wed, 07 Feb 2024 00:26:57 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Lấy Key Korepi Miễn Phí</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/GURGoE2IEg8" title="Free Version | Cotton Buds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<h3> Bước 1:</h3>
+<ul>
+<li>
+<p>Đi đến kênh <code>★⋅micah-bot-verify⋅★</code> trong server Discord: <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">Link trực tiếp</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Tìm tin nhắn được gửi bởi Micah-bot</p>
+</li>
+</ul>
+<h3> Bước 2:</h3>
+<p>Click vào <code>Bind free card</code> rồi mở đường link được cung cấp bởi bot. Sau đó xem quảng cáo rồi nhấn skip.</p>
+<h3> Bước 3:</h3>
+<p>Nếu như tin nhắn gắn thẻ (bind message) hiển thị <code>Success</code> có nghĩa là bạn đã nhận key thành công. Nếu nó không hiện <code>Success</code>, hãy lặp lại từ bước số 1.</p>
+<p><img src="/assets/images/docs/202312/success.png" alt="" loading="lazy"></p>
+<p>=======</p>
+<h3> Bước 4:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Mở Korepi để lấy <code>HWID</code>, sau đó đi đến kênh <code>★⋅micah-bot-verify⋅★</code> và click vào <code>Get verification file</code> rồi sau đó dán <code>HWID</code> của bạn vào.</p>
+<p>Sau khi nhấn xác nhận, bạn sẽ nhận được một file từ bot. Sau đó tải và đặt file đó vào thư mục chứa Korepi. Hãy đảm bảo rằng tên file là <code>enc.json</code>.</p>
+<p>=======</p>
+<h3> Bước 5:</h3>
+<p>Mở Korepi lên và làm theo hướng dẫn ghi trong cmd.</p>
+<p>Tận Hưởng Korepi!</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Differences between versions</title>
+      <link>https://korepi.com/vi/start/differences.html</link>
+      <guid>https://korepi.com/vi/start/differences.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Differences between versions</source>
+      <description>Available Features between versions. Version Free SponsorPERTAMAX --------------------------- Attack Effects✓✓✓ Auto Run✓✓✓ Cooldown Effects✓✓✓ Fall Control✓✓✓ God Mode✓✓✓ Infin...</description>
+      <category>Guide</category>
+      <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Available Features between versions.</h2>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Free</th>
+<th>Sponsor</th>
+<th>PERTAMAX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Attack Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Run</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Cooldown Effects</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fall Control</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>God Mode</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Infinite Stamina</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No-Clip</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Player Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Challenge</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Loot</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto-Seelie</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Talk</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dumb Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Sight</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>ESP</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Freeze Enemies</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Game Speed</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Open Team Immediately</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skip Enhance Animation</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Oculi Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Quest Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Teleport</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Interactive Map</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Camera Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FOV Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Chest Indicator</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Censor Remover</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>FPS Unlock</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Hide UI</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Zoom</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Grass</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Map Fog</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Summon Paimon</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Profile Changer</td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Activate Waypoint</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Crit Rate Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Dolphin Dive</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Elemental Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Movement</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Extra Visual Settings</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Fake Time</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Free Camera</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>GM Icon</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Monster Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Blur</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Camera Shake</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Footprints</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>No Skill Animation</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Debug</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Animation Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Cook</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Destroy</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Fish</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Tree Farm</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Constellation Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Custom Weather</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Emotion Changer</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Flycloak Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Kill Aura</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Map Manager</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Mob Vacuum</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Remote Utilities</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Vacuum Loot</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Skin Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Puzzle</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Auto Domain</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+<tr>
+<td>Stats Modifier</td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:red;">X</span></td>
+<td><span style="color:green;">✓</span></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hướng Dẫn Thêm Vào Danh Sách Loại Trừ</title>
+      <link>https://korepi.com/vi/guide/virus.html</link>
+      <guid>https://korepi.com/vi/guide/virus.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Thêm Vào Danh Sách Loại Trừ</source>
+      <description>Cách làm tương tự đối với các phần mềm diệt virus khác. Bạn hãy tự ứng biến nhé. Hướng Dẫn Thêm Korepi Vào Danh Sách Loại Trừ (Windows Defender) Bước 1: Mở Trình Diệt Virus Mở c...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Cách làm tương tự đối với các phần mềm diệt virus khác. Bạn hãy tự ứng biến nhé.</p>
+</div>
+<hr>
+<h2> Hướng Dẫn Thêm Korepi Vào Danh Sách Loại Trừ (Windows Defender)</h2>
+<h3> Bước 1: Mở Trình Diệt Virus</h3>
+<p>Mở cửa sổ tìm kiếm của Windows, gõ <code>Windows Security</code> và mở nó lên.</p>
+<p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
+<p>Sau đó chọn mục <code>Virus &amp; threat protection</code>.</p>
+<p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
+<p>Tiếp theo hãy cuộn xuống và tìm mục <code>Virus &amp; threat protection settings</code> rồi sau đó chọn <code>Manage settings</code>.</p>
+<p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
+<h3> Bước 2: Thêm Vào Danh Sách Loại Trừ</h3>
+<p>Sau khi hoàn thành các bước ở trên, hãy cuộn xuống tìm mục <code>Exclusion</code> và nhấn vào mục <code>Add or remove exclusions</code>.</p>
+<p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
+<p>Chọn <code>Yes</code> ở cửa sổ popup, sau đó nhấn vào <code>Add an Exclusion</code> và chọn <code>Folder</code>, sau đó hãy trỏ tới và lựa chọn thư mục chứa Korepi.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Các Câu Hỏi Thường Gặp</title>
+      <link>https://korepi.com/vi/troubleshoot/faq.html</link>
+      <guid>https://korepi.com/vi/troubleshoot/faq.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Các Câu Hỏi Thường Gặp</source>
+      <description>Các Câu Hỏi Thường Gặp Korepi có miễn phí không? Chính xác, Korepi có thể sử dụng miễn phí. Để có thể sử dụng, bạn cần thực hiện Điểm Danh (../start/sign-in.md) trong 7 ngày. Bạ...</description>
+      <category>Các Câu Hỏi Thường Gặp</category>
+      <pubDate>Mon, 18 Dec 2023 17:38:21 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Các Câu Hỏi Thường Gặp</h2>
+<h3> Korepi có miễn phí không?</h3>
+<p>Chính xác, Korepi có thể sử dụng miễn phí. Để có thể sử dụng, bạn cần thực hiện <a href="/vi/start/sign-in.html" target="blank">Điểm Danh</a> trong 7 ngày. Bạn có thể bỏ qua quá trình điểm danh này thông qua <a href="/vi/start/sponsor.html" target="blank">Tài Trợ</a>. Sau đó bạn có thể tiến hành lấy key để sử dụng Korepi liên tục.</p>
+<hr>
+<h3> Mật khẩu giải nén file .rar/.zip là gì?</h3>
+<p>...</p>
+<p>Mật khẩu là <code>1234</code>, vui lòng đọc kỹ bài đăng ở kênh tải Korepi.</p>
+<hr>
+<h3> Tại sao các thiết đặt trong Korepi của tôi không được lưu lại?</h3>
+<p>Lưu ý rằng bạn cần giải nén file <code>.rar/.zip</code> vào một thư mục cụ thể trước khi khởi động Korepi để có thể lưu lại các thiết đặt.</p>
+<p>Nếu như bạn vẫn không thể lưu các thiết đặt Korepi sau khi làm theo bước ở trên, vui lòng liên hệ những người hỗ trợ ở server discord để được trợ giúp.</p>
+<hr>
+<h3> Tôi có thể kiếm chủ đề (themes) ở đâu?</h3>
+<p>Bạn có thể kiếm chủ đề (themes) cho Korepi ở kênh <code>community share</code> trên server Discord hoặc bạn có thể tự tạo chủ đề riêng của mình trong phần cài đặt của Korepi.</p>
+<p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
+<p>Mở mục <code>Tuỳ Chỉnh Chủ Đề</code> để bắt đầu tạo chủ đề riêng của bạn.</p>
+<hr>
+<h3> Tại sao chuỗi điểm danh của tôi bị reset?</h3>
+<p>Có vẻ như bạn đã bỏ lỡ lượt điểm danh của một ngày nào đó. Lượt điểm danh được làm mới mỗi ngày. Nếu như bạn bỏ lỡ 1 ngày thì chuỗi điểm danh sẽ bị reset hoàn toàn.
+Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
+<div class="hint-container info">
+<p class="hint-container-title">Thời gian làm mới lượt điểm danh vào GMT/UTC+8 00:00 mỗi ngày. Vui lòng tự chuyển đổi sang múi giờ địa phương.</p>
+</div>
+<hr>
+<h3> Tôi có thể sử dụng Korepi khi game có bản cập nhật mới không?</h3>
+<p>Không, bạn cần chờ phiên bản Korepi mới được ra mắt để có thể sử dụng tiếp.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Phiên bản Korepi cũ sẽ không thể hoạt động trên phiên bản game mới. Phiên bản Korepi mới sẽ được ra mắt sau khoảng 1-2 tuần.</p>
+</div>
+<hr>
+<h3> Tại sao menu Korepi không xuất hiện trong game?</h3>
+<p>Vui lòng đảm bảo bạn đã tắt mọi chương trình hỗ trợ overlay (MSI Afterburner, GeForce Experience, etc.) trước khi chạy Korepi.</p>
+<hr>
+<h3> Tôi có thể trở thành <span style="color:yellow;">Nhà Tài Trợ</span> bằng cách nào và chi phí là bao nhiêu?</h3>
+<p>Bạn có thể trở thành <a href="/vi/start/sponsor.html" target="blank">Nhà Tài Trợ</a> từ những đường link được cung cấp trong kênh <code>#sponsorship</code> trên server Discord.</p>
+<p>Để có thể nhận được vai trò Nhà Tài Trợ (Sponsor role), bạn cần ủng hộ ít nhất 5 USD. Các khoản ủng hộ bé hơn 5 USD sẽ không được tính.</p>
+<hr>
+<h3> Tại sao game bị crashed khi đang load?</h3>
+<p>Nếu như bạn gặp lỗi như sau:</p>
+<p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
+<p>Vui lòng cập nhật drivers và thử lại.</p>
+<p>Nếu bạn không gặp lỗi trên, hãy thử tăng giá trị "InitializationDelayMS" trong file <code>cfg.ini</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Danh Sách Các Tính Năng</title>
+      <link>https://korepi.com/vi/features/</link>
+      <guid>https://korepi.com/vi/features/</guid>
+      <source url="https://korepi.com/vi/rss.xml">Danh Sách Các Tính Năng</source>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESP</title>
+      <link>https://korepi.com/vi/features/esp.html</link>
+      <guid>https://korepi.com/vi/features/esp.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">ESP</source>
+      <description>ESP cho phép người chơi theo dõi và xem những vật thể được chọn từ danh sách lọc xuyên qua các vật thể khác với các hiệu ứng đồ hoạ tuỳ chỉnh. Lưu ý: Phạm vi, vật thể, đồ hoạ đề...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> ESP cho phép người chơi theo dõi và xem những vật thể được chọn từ danh sách lọc xuyên qua các vật thể khác với các hiệu ứng đồ hoạ tuỳ chỉnh.</h2>
+<blockquote>
+<p>Lưu ý: Phạm vi, vật thể, đồ hoạ đều có thể được tuỳ chỉnh.</p>
+</blockquote>
+<h2> Video Tham Khảo:</h2>
+<h3> Soon...</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cài Đặt Trang Phục</title>
+      <link>https://korepi.com/vi/guide/3DM-skin.html</link>
+      <guid>https://korepi.com/vi/guide/3DM-skin.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Cài Đặt Trang Phục</source>
+      <description>Hướng Dẫn Cài Đặt Trang Phục Tuỳ Chỉnh Trong GIMI Bước 1: Tải Trang Phục Đi tới trang Gamebanana (https://gamebanana.com/games/8552) và tải trang phục mà bạn muốn. Bước 2: Cài Đ...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Cài Đặt Trang Phục Tuỳ Chỉnh Trong <code>GIMI</code></h2>
+<h3> Bước 1: Tải Trang Phục</h3>
+<p>Đi tới trang <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> và tải trang phục mà bạn muốn.</p>
+<h3> Bước 2: Cài Đặt Trang Phục</h3>
+<p>Đi tới thư mục <code>GIMI</code> và tìm thư mục có tên là <code>Mods</code>. Sau đó giải nén file trang phục bạn vừa tải về lúc trước.</p>
+<h3> Bước 3: Áp Dụng Trang Phục</h3>
+<p>Nếu như bạn đang mở game, hãy nhấn <code>F10</code> để tải lại trang phục. Nếu không, hãy làm theo hướng dẫn <a href="/vi/guide/3DM-tutorial.html" target="blank">tại đây</a> và trang phục tuỳ chọn sẽ được áp dụng.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hướng Dẫn Sử Dụng Trang Phục Tuỳ Chỉnh</title>
+      <link>https://korepi.com/vi/guide/3DM-tutorial.html</link>
+      <guid>https://korepi.com/vi/guide/3DM-tutorial.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Sử Dụng Trang Phục Tuỳ Chỉnh</source>
+      <description>Nếu GIMI hiển thị echo off trong cmd, bạn có thể nhấn Phím 0 ở bàn phím số để xoá nó đi. Bạn cũng có thể mở file d3dx.ini rồi tìm hunting= và đặt giá trị bằng 0. Hướng Dẫn Sử Dụ...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Nếu GIMI hiển thị `echo off` trong cmd, bạn có thể nhấn `Phím 0` ở bàn phím số để xoá nó đi. Bạn cũng có thể mở file `d3dx.ini` rồi tìm `hunting=` và đặt giá trị bằng `0`.</p>
+</div>
+<hr>
+<h2> Hướng Dẫn Sử Dụng Trang Phục Tuỳ Chỉnh Trong Korepi</h2>
+<p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
+Để có thể sử dụng trang phục tuỳ chỉnh bạn cần tải:</p>
+<p><code>3DMigoto(GIMI)</code>.</p>
+<h2> <span style="color:blue;">Cách 1</span></h2>
+<h3> Bước 1: Tải <code>GIMI</code></h3>
+<p>Tải <code>GIMI</code> từ <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github chính thức</a>. Hãy tải file có tên như sau: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> Bước 2: Giải nén <code>GIMI</code></h3>
+<p>Sau khi tải <code>GIMI</code>, bạn cần giải nén nó vào bất kỳ thư mục nào tuỳ thích. Bên trong thư mục đó bạn sẽ thấy file có tên <code>d3d11.dll</code>. Hãy copy đường dẫn tới thư mục và thêm <code>/d3d11.dll</code> vào cuối đường dẫn. Ví dụ:</p>
+<p><code>"path/d3d11.dll"</code></p>
+<h3> Bước 3: Thêm <code>GIMI</code> Vào Korepi</h3>
+<p>Để làm được điều này bạn cần thêm những dòng sau vào file <code>cfg.ini</code> nằm bên trong thư mục chứa Korepi:</p>
+<p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
+<p>Tại <code>DllPath</code> hãy dán đường dẫn mà bạn đã copy ở bước trước đó.</p>
+<p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
+<h3> Bước 4: Mở Korepi</h3>
+<p>Nếu như bạn thực hiện đúng mọi bước như hướng dẫn, Korepi sẽ khởi động cùng <code>GIMI</code>.</p>
+<h2> <span style="color:blue;">Cách 2</span></h2>
+<h3> Bước 1: Tải <code>GIMI</code></h3>
+<p>Tải <code>GIMI</code> từ <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github chính thức</a>. Hãy tải file có tên như sau: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
+<h3> Bước 2: Giải Nén <code>GIMI</code></h3>
+<p>Sau khi tải <code>GIMI</code>, bạn cần giải nén nó vào bất kỳ thư mục nào tuỳ thích. Bên trong thư mục đó bạn sẽ thấy file có tên <code>3DMigoto Loader.exe</code>, hãy mở file này lên.</p>
+<h3> Bước 3: Mở Korepi</h3>
+<p>Sau khi mở <code>GIMI</code>, tiếp tục mở Korepi lên. Lúc này <code>GIMI</code> sẽ được load cùng Korepi. Bạn cần thực hiện tất cả những bước trên mỗi lần bạn muốn khởi động Korepi cùng với <code>GIMI</code>.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn</title>
+      <link>https://korepi.com/vi/guide/custom-tp-setting.html</link>
+      <guid>https://korepi.com/vi/guide/custom-tp-setting.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn</source>
+      <description>Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn Bước 1: Thiết Lập Cài Đặt Sử dụng các thiết lập cài đặt như sau. Khuyến khích thiết đặt độ trễ (delay time) &amp;gt;15s. Bước 2: Tải File .json Đ...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Sử Dụng Dịch Chuyển Tuỳ Chọn</h2>
+<h3> Bước 1: Thiết Lập Cài Đặt</h3>
+<p>Sử dụng các thiết lập cài đặt như sau.</p>
+<p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
+<p>Khuyến khích thiết đặt độ trễ (delay time) &gt;15s.</p>
+<h3> Bước 2: Tải File <code>.json</code> Để Sử Dụng Dịch Chuyển Tuỳ Chọn</h3>
+<p>Bạn có thể kiếm các file json này ở kênh <code>community-share</code> được ghim trong server Discord. Tải những file mà bạn cần.</p>
+<h3> Bước 3: Lựa Chọn File Dịch Chuyển</h3>
+<p>Mở Dịch Chuyển Tuỳ Chọn (Custom Teleport) và đi tới mục sau:</p>
+<p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
+<p>Click vào lựa chọn đường dẫn (select path) và lựa chọn thư mục chứa các file json mà bạn muốn sử dụng.</p>
+<h3> Bước 4: Tiến Hành Dịch Chuyển</h3>
+<p>Sau khi lựa chọn thư mục, hãy tick vào ô sau:</p>
+<p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
+<p>Sau đó hãy click vào <code>Lựa Chọn</code> (<code>Select</code>):</p>
+<p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
+<h3> Bước 5: Tận Hưởng</h3>
+<p>Quá trình dịch chuyển sẽ diễn ra một cách tự động. Nếu như bạn là <a href="/vi/start/sponsor.html" target="blank">Nhà Tài Trợ</a>, bạn có thể thấy được tiến độ và thời gian còn lại để hoàn tất quá trình dịch chuyển.</p>
+<h2> Video</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Hướng Dẫn Lấy Key</title>
+      <link>https://korepi.com/vi/guide/getkey.html</link>
+      <guid>https://korepi.com/vi/guide/getkey.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Lấy Key</source>
+      <description>Hướng Dẫn Xác Thực Key Bước 1: Đi tới kênh ★⋅micah-bot-verify⋅★ ở server Discord: Link trực tiếp (https://discord.com/channels/1069057220802781265/1203687333107335198); img.png ...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Xác Thực Key</h2>
+<h3> Bước 1:</h3>
+<ul>
+<li>
+<p>Đi tới kênh <code>★⋅micah-bot-verify⋅★</code> ở server Discord: <a href="https://discord.com/channels/1069057220802781265/1203687333107335198" target="_blank" rel="noopener noreferrer">Link trực tiếp</a></p>
+<p><img src="/assets/images/docs/202402/verify-1.png" alt="img.png" loading="lazy"></p>
+</li>
+<li>
+<p>Tìm tin nhắn được gửi bởi Micah-bot</p>
+</li>
+</ul>
+<h3> Bước 2:</h3>
+<p>Đối với phiên bản miễn phí, hãy làm theo <a href="/vi/guide/free.html" target="blank">hướng dẫn này</a>.</p>
+<p>Nếu như bạn mua key từ reseller, hãy click vào <code>bind card str</code> rồi dán key của bạn vào.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Nếu như bạn là Nhà Tài Trợ (Sponsor) trước ngày 4 tháng 2 năm 2024, hãy click vào "Sponsor Compensation" rồi nhập "YES" để nhận 3 tháng đền bù. Sau khi nhận "card" thành công, hãy làm bước tiếp theo</p>
+</div>
+<p>=======</p>
+<h3> Bước 3:</h3>
+<div class="hint-container info">
+<p class="hint-container-title">If you already got a enc.json delete it before opening the program</p>
+</div>
+<p>Click vào <code>Get Verification File</code>, sau đó điền <code>HWID (device ID)</code> mà bạn nhận được khi mở Korepi.</p>
+<ul>
+<li>Bạn sẽ nhận được một file từ bot. Tải nó về rồi đặt vào trong thư mục chứa Korepi. Hãy đảm bảo rằng tên của file phải là <code>enc.json</code>.</li>
+</ul>
+<p>Bạn cũng có thể click vào <code>View Subscription Information</code> để xem thông tin key hiện tại đang sử dụng.</p>
+<h2> Hướng Dẫn Tạm Dừng Key</h2>
+<p>Click vào <code>Pause Card</code> và nhập <code>YES</code> để tạm dừng thời hạn của key. Bạn có thể ngưng tạm dừng key (unpause) bất cứ khi nào bạn muốn.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Bạn chỉ có thể tạm dừng key một lần mỗi 30 ngày.</p>
+</div>
+<h2> Hướng Dẫn Đổi HWID (Device ID)</h2>
+<p>=======
+Click vào <code>ID(Change HWID)</code> rồi sau đó nhập <code>HWID</code> mới mà bạn nhận được từ Korepi vào. Tiếp đó hãy tải file và đặt nó vào thư mục chứa Korepi.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Bạn chỉ có thể reset HWID một lần mỗi 7 ngày.</p>
+</div>
+<h2> Vấn Đề Về Xác Thực MD5</h2>
+<p>Mỗi khi bạn nhận file <code>enc.json</code> mới thì file <code>enc.json</code> bạn nhận trước đó sẽ không còn sử dụng được nữa.</p>
+<p>Nếu như cả file mới nhận cũng không thể sử dụng được, hãy thử lấy lại file khác. Nếu vẫn không được, hãy chờ ít phút rồi thử lại.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202402/verify-1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc</title>
+      <link>https://korepi.com/vi/guide/multi-instance.html</link>
+      <guid>https://korepi.com/vi/guide/multi-instance.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc</source>
+      <description>Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc (mở 2 cửa sổ game cùng lúc) Chỉ hoạt động với phiên bản Local(V)</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hướng Dẫn Mở Nhiều Cửa Sổ Game Cùng Lúc (mở 2 cửa sổ game cùng lúc)</h2>
+<div class="hint-container info">
+<p class="hint-container-title">Chỉ hoạt động với phiên bản Local(V)</p>
+</div>
+<hr>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lỗi 31-4302</title>
+      <link>https://korepi.com/vi/troubleshoot/31-4302.html</link>
+      <guid>https://korepi.com/vi/troubleshoot/31-4302.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Lỗi 31-4302</source>
+      <description>Khắc Phục Lỗi 31-4302 Cách 1 Lỗi này có thể xuất hiện nêu thư mục game của bạn chứa một số file lạ. Vui lòng kiểm tra và đảm bảo thư mục game chỉ chứa những file như bên dưới: N...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Khắc Phục Lỗi <code>31-4302</code></h2>
+<p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
+<h3> Cách 1</h3>
+<p>Lỗi này có thể xuất hiện nêu thư mục game của bạn chứa một số file lạ. Vui lòng kiểm tra và đảm bảo thư mục game chỉ chứa những file như bên dưới:</p>
+<p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
+<p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
+<p>Nếu như bạn vẫn gặp lỗi sau khi xoá các file lạ, vui lòng đọc tiếp.</p>
+<h3> Cách 2</h3>
+<p>Mở Korepi, đi tới <code>Cài Đặt --&gt; Khác</code>.</p>
+<p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
+<p>Tìm <code>Bypass Intengrity</code> và bỏ chọn nó.</p>
+<p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
+<p>Lúc này bạn sẽ không còn gặp lỗi trên nữa.</p>
+<h2> Trường Hợp Bạn Không Thể Mở Korepi</h2>
+<p>Mở thư mục chứa Korepi và tìm mở file <code>cfg.json</code>, sau đó nhấn tổ hợp phím <code>CTRL + F</code>, gõ <code>bypass</code> và tìm, đặt giá trị thành <code>false</code> rồi lưu lại file và mở Korepi.</p>
+<h2> Đã Thử Mọi Cách Nhưng Vẫn Không Được?</h2>
+<p>Bạn nên cài lại game thôi.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Danh Sách Lỗi</title>
+      <link>https://korepi.com/vi/troubleshoot/</link>
+      <guid>https://korepi.com/vi/troubleshoot/</guid>
+      <source url="https://korepi.com/vi/rss.xml">Danh Sách Lỗi</source>
+      <category>Khắc Phục Lỗi</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Các Lỗi Thường Gặp</title>
+      <link>https://korepi.com/vi/troubleshoot/faq-error.html</link>
+      <guid>https://korepi.com/vi/troubleshoot/faq-error.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Các Lỗi Thường Gặp</source>
+      <description>Danh sách các lỗi thường gặp Tại sao Korepi đột nhiên biến mất? Hãy đảm bảo rằng bạn đã tắt trình diệt virus, sau đó tạo một folder mới và thêm nó vào danh sách loại trừ của trì...</description>
+      <category>Khắc Phục Lỗi</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Danh sách các lỗi thường gặp</h2>
+<h3> Tại sao Korepi đột nhiên biến mất?</h3>
+<p>Hãy đảm bảo rằng bạn đã tắt trình diệt virus, sau đó tạo một folder mới và thêm nó vào danh sách loại trừ của trình diệt virus.</p>
+<p><img src="/assets/images/docs/202312/virus.png" alt="" loading="lazy"></p>
+<p>Giải nén Korepi vào thư mục được loại trừ đó và chạy lại.</p>
+<hr>
+<h3> Status: No active subscription(s) found, Invalid license key</h3>
+<p>Bạn cần <a href="/vi/guide/getkey.html" target="blank">lấy key mới</a> từ <code>⁠★⋅micah-bot-verify⋅★</code>, nếu như bạn không thể lấy key mới hoặc key không hoạt động, bạn cần chờ cho tới khi key hiện tại hết hạn.</p>
+<p><code>Nhà Tài Trợ có thể sử dụng F:Reset Key</code></p>
+<h3> [DLL injection] Process crashed, exit code 0xc000005</h3>
+<p>Mở <code>cmd</code> dưới quyền quản trị viên (run as admin) và chạy dòng lệnh sau:</p>
+<p><code>sfc /scannow</code></p>
+<p>Nếu như có lỗi nào được tìm thấy, khởi động lại máy tính và thử lại.
+Nếu như việc khởi động lại máy không giúp ích được gì hoặc không có lỗi nào được tìm thấy, chạy dòng lệnh sau:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Sau khi hoàn tất kiểm tra, khởi động lại máy và thử lại.</p>
+<p>Nếu vẫn không được, bạn nên cài lại Windows.</p>
+<hr>
+<h3> ImGUI: DirectX11 backend initialized successfully.</h3>
+<p>Lỗi này xuất hiện do chủ đề (theme) được cài. Hãy xoá thư mục <code>themes</code>.</p>
+<hr>
+<h3> The system did not detect MSVCP140.dll</h3>
+<p>Cập nhật <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022" target="_blank" rel="noopener noreferrer">Microsoft Visual Studio C++</a></p>
+<p>Cập nhật <a href="https://www.microsoft.com/en-us/download/details.aspx?id=35" target="_blank" rel="noopener noreferrer">DirectX</a></p>
+<hr>
+<h3> File corrupted! This program has been manipulated and maybe it's infected.</h3>
+<p><img src="/assets/images/docs/202312/virus2.png" alt="" loading="lazy"></p>
+<p>Trong trường hợp này, bạn có thể sử dụng <code>Malware Bytes</code> hoặc <code>Dr.Web</code> để quét toàn bộ máy. Nếu phát hiện ra virus nào, hãy loại bỏ chúng và khởi động lại máy và thử lại. Nếu vẫn không được, hãy cài lại Windows.</p>
+<hr>
+<h3> Timeout was reached</h3>
+<p><img src="/assets/images/docs/202312/error1.png" alt="" loading="lazy"></p>
+<p>Khởi động lại router.</p>
+<p>Chương trình diệt virus có thể đang chặn kết nối. Hãy kiểm tra lại thiết lập tường lửa của trình diệt virus.</p>
+<p>Sử dụng VPN và thử lại.</p>
+<p>Tắt toàn bộ ứng dụng có tác động tới tường lửa. Nếu như vẫn không được, có vẻ đường truyền mạng của bạn đang có vấn đề.</p>
+<hr>
+<h3> DLL Injection failed</h3>
+<p>Xoá toàn bộ file bên trong thư mục colorpicker và tải lại.</p>
+<hr>
+<h3> Windows cannot access the specified device, path, or file</h3>
+<p><img src="/assets/images/docs/202312/error2.png" alt="" loading="lazy"></p>
+<p>Mở <a href="https://support.microsoft.com/en-us/topic/-windows-cannot-access-the-specified-device-path-or-file-error-when-you-try-to-install-update-or-start-a-program-or-file-46361133-47ed-6967-c13e-e75d3cc29657" target="_blank" rel="noopener noreferrer">TRANG NÀY</a> và làm theo hướng dẫn bên trong.</p>
+<p>Tiếp đến, tải trình duyệt virus như <code>Dr.Web</code> hoặc <code>Malware bytes</code> và thực hiện quét toàn bộ máy!</p>
+<p>Nếu vẫn không được, hãy mở cmd dưới quyền quản trị viên (run as admin) và chạy lệnh <code>sfc /scannow</code></p>
+<p>Sau đó, nếu như có lỗi nào được tìm thấy, khởi động lại máy và thử lại.</p>
+<p>Nếu như việc khởi động lại máy không giúp ích được gì hoặc không có lỗi nào được tìm thấy, chạy dòng lệnh sau:</p>
+<p><code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code></p>
+<p>Sau khi hoàn tất kiểm tra, khởi động lại máy và thử lại.</p>
+<p>Nếu vẫn không được, bạn nên cài lại Windows.</p>
+<hr>
+<h3> Signature checksum failed</h3>
+<p><img src="/assets/images/docs/202312/checksum.png" alt="" loading="lazy"></p>
+<p>Server Korepi đang bị tắt hoặc bảo trì, vui lòng chờ cho tới khi server được bật trở lại.</p>
+<hr>
+<h3> Failed to create game process with Error 5</h3>
+<p><img src="/assets/images/docs/202312/error3.png" alt="" loading="lazy"></p>
+<p>Xoá file <code>cfg.ini</code>.</p>
+<hr>
+<h3> SSL connect error</h3>
+<p><img src="/assets/images/docs/202312/error4.png" alt="" loading="lazy"></p>
+<p>Khởi động lại máy tính và router.</p>
+<p>Nếu vẫn không được, hãy thử dùng VPN.</p>
+<hr>
+<h3> Failed to detect game version</h3>
+<p>Cập nhật Korepi theo hướng dẫn <a href="/vi/start/download.html" target="blank">TẠI ĐÂY</a></p>
+<hr>
+<h3> File ok</h3>
+<p>Xoá file cfg.json.</p>
+<hr>
+<h3> UserAssembly.dll isn't initialized, waiting for 2 sec.</h3>
+<p>Nếu như Korepi crash sau khi xuất hiện dòng này, hãy thử các bước sau:</p>
+<p>Tắt toàn bộ trình diệt virus trong máy.</p>
+<p>Nếu vẫn lỗi, chạy lệnh <code>sfc /scannow</code> trên cmd với quyền quản trị viên (run as admin).</p>
+<p>Nếu như có lỗi được phát hiện nhưng Windows không thể sửa chúng, chạy lệnh <code>DISM.exe /Online /Cleanup-Image /RestoreHealth</code>.</p>
+<p>Sau đó khởi động lại máy và thử chạy colorpicker lần nữa.</p>
+<p>Nếu như lỗi vẫn tiếp diễn, bạn nên cài lại Windows.</p>
+<hr>
+<h3> Current data does not exist or server error.</h3>
+<p><img src="/assets/images/docs/202312/error.png" alt="" loading="lazy"></p>
+<p>Hãy ngưng tạm dừng key (unpause) rồi thử lại.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Hiệu Ứng Tấn Công</title>
+      <link>https://korepi.com/vi/features/Player/attack-effects.html</link>
+      <guid>https://korepi.com/vi/features/Player/attack-effects.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hiệu Ứng Tấn Công</source>
+      <description>Hiệu Ứng Tấn Công: Điều chỉnh hiệu ứng tấn công Chế Độ Nhiều Đòn Đánh: Chế Độ 1 Hit (Đấm Phát Chết Luôn): Tiêu diệt mục tiêu chỉ bằng 1 đòn.; Lưu ý: Không khuyến khích sử dụng. ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hiệu Ứng Tấn Công: Điều chỉnh hiệu ứng tấn công</h2>
+<h3> Chế Độ Nhiều Đòn Đánh:</h3>
+<ul>
+<li>Chế Độ 1 Hit (Đấm Phát Chết Luôn): Tiêu diệt mục tiêu chỉ bằng 1 đòn.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích sử dụng.</p>
+</blockquote>
+<ul>
+<li>Điều chỉnh số đòn tấn công lên mục tiêu.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh lớn hơn <code>5</code>.</p>
+</blockquote>
+<h3> Đa Mục Tiêu:</h3>
+<ul>
+<li>Tấn công tất cả các mục tiêu khác trong phạm vi bao quanh mục tiêu chính.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh sửa thiết đặt mặc định.</p>
+</blockquote>
+<h3> Đa Hoạt Ảnh:</h3>
+<ul>
+<li>Điều chỉnh số lần nhân vật thực hiện một hành động.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích sử dụng.</p>
+</blockquote>
+<h3> Tốc Độ Tấn Công:</h3>
+<ul>
+<li>Điều chỉnh tốc độ đánh thường từ người chơi.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh lớn hơn <code>1.5</code>.</p>
+</blockquote>
+<h3> Tuỳ Chỉnh Nguyên Tố:</h3>
+<ul>
+<li>Điều chỉnh nguyên tố của mọi đòn tấn công.</li>
+</ul>
+<h3> Gắn Nguyên Tố:</h3>
+<ul>
+<li>Điều chỉnh nguyên tố của đòn đánh thường từ kiếm, thương và trọng đao.</li>
+</ul>
+<h3> Tự Động Đánh Vào Điểm Yếu:</h3>
+<ul>
+<li>Tấn công vào điểm yếu mục tiêu (chí mạng), chỉ hoạt động khi sử dụng cung.</li>
+</ul>
+<h3> Tỷ Lệ Chí Mạng (<span style="color:yellow;">Nhà Tài Trợ</span>):</h3>
+<ul>
+<li>Điều chỉnh tỷ lệ chí mạng.</li>
+</ul>
+<h3> Loại Bỏ Nguyên Tố Của Sát Thương Nhận Vào:</h3>
+<ul>
+<li>Loại bỏ nguyên tố của sát thương nhận vào và chuyển nó thành sát thương vật lý.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Chạy</title>
+      <link>https://korepi.com/vi/features/Player/auto-run.html</link>
+      <guid>https://korepi.com/vi/features/Player/auto-run.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Chạy</source>
+      <description>Tự Động Chạy sẽ tự động di chuyển nhân vật theo hướng mà người chơi đang quay mặt. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tự Động Chạy sẽ tự động di chuyển nhân vật theo hướng mà người chơi đang quay mặt.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BLDhPBMs7Es?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Run" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Nhảy Vọt</title>
+      <link>https://korepi.com/vi/features/Player/bunny-hop.html</link>
+      <guid>https://korepi.com/vi/features/Player/bunny-hop.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Nhảy Vọt</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Nhảy Vọt sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h2> Nhảy Vọt sẽ khiến nhân vật nhảy cao hơn khi được kích hoạt.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="369" src="https://www.youtube.com/embed/Gh2GX23E6dw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Bunnyhop (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hiệu Ứng Hồi Chiêu</title>
+      <link>https://korepi.com/vi/features/Player/cooldown-effects.html</link>
+      <guid>https://korepi.com/vi/features/Player/cooldown-effects.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hiệu Ứng Hồi Chiêu</source>
+      <description>Hiệu Ứng Hồi Chiêu: Điều chỉnh tốc độ hồi của nhiều loại kỹ năng và hành động. Max Năng Lượng Cho Kỹ Năng Nộ: Loại bỏ yêu cầu về năng lượng khi sử dụng kỹ năng nộ.; Lưu ý: Bong ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Hiệu Ứng Hồi Chiêu: Điều chỉnh tốc độ hồi của nhiều loại kỹ năng và hành động.</h2>
+<h3> Max Năng Lượng Cho Kỹ Năng Nộ:</h3>
+<ul>
+<li>Loại bỏ yêu cầu về năng lượng khi sử dụng kỹ năng nộ.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Bong bóng biểu thị kỹ năng nộ có thể chưa sáng lên nhưng bạn vẫn có thể sử dụng được kỹ năng nộ.</p>
+</blockquote>
+<h3> Điều Chỉnh Tốc Độ Hồi Chiêu: Loại bỏ hồi chiêu cho kỹ năng nguyên tố và nộ.</h3>
+<ul>
+<li>Giảm Hồi Chiêu Kỹ Năng Nguyên Tố/Nộ: Khi được kích hoạt, thay vì loại bỏ hoàn toàn hồi chiêu của kỹ năng, thay thế tốc độ hồi chiêu của kỹ năng bằng một giá trị được chọn nếu như giá trị này bé hơn tốc độ hồi chiêu gốc.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Bạn có thể đặt bất cứ giá trị nào cho tốc độ hồi chiêu, tuy nhiên không nên spam quá nhiều. <code>ví dụ 40 lần trong 1 phút</code></p>
+</blockquote>
+<h3> Lướt Liên Tục:</h3>
+<ul>
+<li>Loại bỏ độ trễ giữa mỗi lần sử dụng lướt.</li>
+</ul>
+<h3> Trọng Kích Tức Thì:</h3>
+<ul>
+<li>Cung: Loại bỏ thời gian ngắm bắn cho cung thủ.</li>
+<li>Vũ Khí Khác: Loại bỏ thời gian tích đòn trọng kích cho các loại vũ khí khác.</li>
+</ul>
+<h3> Loại Bỏ Hồi Chiêu Cho Phương Tiện:</h3>
+<ul>
+<li>Loại bỏ thời gian hồi chiêu khi sử dụng kỹ năng của thuyền.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Di Chuyển Nâng Cao</title>
+      <link>https://korepi.com/vi/features/Player/extra-movements.html</link>
+      <guid>https://korepi.com/vi/features/Player/extra-movements.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Di Chuyển Nâng Cao</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Di Chuyển Nâng Cao: Chỉnh sửa một số hành động cụ thể của người chơi. Đi Trên Nước: Cho phép đi trên mặt nước.; Tăng Tốc Chạy: Tăng tốc độ chạ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h2> Di Chuyển Nâng Cao: Chỉnh sửa một số hành động cụ thể của người chơi.</h2>
+<h3> Đi Trên Nước:</h3>
+<ul>
+<li>Cho phép đi trên mặt nước.</li>
+</ul>
+<h3> Tăng Tốc Chạy:</h3>
+<ul>
+<li>Tăng tốc độ chạy của người chơi.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
+</blockquote>
+<h3> Nhảy Cao:</h3>
+<ul>
+<li>Tăng độ cao khi người chơi nhảy.
+<ul>
+<li>Nhảy Giữa Không Trung: Cho phép nhảy khi đang không ở trên mặt đất.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
+</blockquote>
+<h3> Bay Nhanh:</h3>
+<ul>
+<li>Tăng tốc bay của người chơi.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
+</blockquote>
+<h3> Bơi Nhanh:</h3>
+<ul>
+<li>Tăng tốc độ bơi của người chơi.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
+</blockquote>
+<h3> Lặn Nhanh:</h3>
+<ul>
+<li>Tăng tốc độ lặn dưới nước của người chơi.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích chỉnh sửa giá trị mặc định.</p>
+</blockquote>
+<h3> Tốc Biến:</h3>
+<ul>
+<li>Cho phép người chơi di chuyển một khoảng cách cụ thể tức thì sau khi nhấn phím tắt.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wMd9icqhFQg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Extra Movement (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Kiểm Soát Tốc Độ Rơi</title>
+      <link>https://korepi.com/vi/features/Player/fall-control.html</link>
+      <guid>https://korepi.com/vi/features/Player/fall-control.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Kiểm Soát Tốc Độ Rơi</source>
+      <description>Kiểm Soát Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Kiểm Soát Tốc Độ Rơi cho phép bạn tuỷ chỉnh tốc độ khi nhân vật rơi xuống.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bất Tử</title>
+      <link>https://korepi.com/vi/features/Player/god-mode.html</link>
+      <guid>https://korepi.com/vi/features/Player/god-mode.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Bất Tử</source>
+      <description>Bất Tử sẽ vô hiệu hoá mọi sát thương nhận vào. Bảo Hiểm: Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.; Điều Kiện Tuỳ Chỉnh: Khi...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bất Tử sẽ vô hiệu hoá mọi sát thương nhận vào.</h2>
+<h3> Bảo Hiểm:</h3>
+<ul>
+<li>Khi bật, Bất Tử sẽ chỉ được kích hoạt khi nhận lượng sát thương có thể khiến nhân vật bay màu.</li>
+</ul>
+<h3> Điều Kiện Tuỳ Chỉnh:</h3>
+<ul>
+<li>Khi bật, Bất Tử sẽ chỉ được kích hoạt khi máu của nhân vật giảm xuống thấp hơn mức được thiết lập.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Khuyến khích sử dụng Điều Kiện Tuỳ Chỉnh trong la hoàn.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/42utUUYNHRE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - God Mode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thể Lực Vô Hạn</title>
+      <link>https://korepi.com/vi/features/Player/infinite-stamina.html</link>
+      <guid>https://korepi.com/vi/features/Player/infinite-stamina.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thể Lực Vô Hạn</source>
+      <description>Thể Lực Vô Hạn sẽ loại bỏ tiêu hao thể lực cho mọi hành động. Thay Thế Dữ Liệu Di Chuyển: Khi chức năng này được bật và Vô Hạn Thể Lực được tắt, dữ liệu liên quan đến việc tiêu ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thể Lực Vô Hạn sẽ loại bỏ tiêu hao thể lực cho mọi hành động.</h2>
+<h3> Thay Thế Dữ Liệu Di Chuyển:</h3>
+<ul>
+<li>Khi chức năng này được bật và Vô Hạn Thể Lực được tắt, dữ liệu liên quan đến việc tiêu hao thể lực như chạy, leo trèo, bơi, etc, sẽ không được gửi tới server.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Khuyến khích sử dụng Thay Thế Dữ Liệu Di Chuyển.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Xuyên Tường</title>
+      <link>https://korepi.com/vi/features/Player/no-clip.html</link>
+      <guid>https://korepi.com/vi/features/Player/no-clip.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Xuyên Tường</source>
+      <description>Xuyên Tường sẽ cho phép bạn di chuyển xuyên vật thể, di chuyển nhanh hơn và bay. Không Hoạt Ảnh: Khi bật, hoạt ảnh của nhân vật sẽ bị loại bỏ khi sử dụng Xuyên Tường.; Di Chuyển...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Xuyên Tường sẽ cho phép bạn di chuyển xuyên vật thể, di chuyển nhanh hơn và bay.</h2>
+<h3> Không Hoạt Ảnh:</h3>
+<ul>
+<li>Khi bật, hoạt ảnh của nhân vật sẽ bị loại bỏ khi sử dụng Xuyên Tường.</li>
+</ul>
+<h3> Di Chuyển Theo Hướng Camera:</h3>
+<ul>
+<li>Khi bật, nhân vật sẽ di chuyển theo hướng camera thay vì hướng của nhân vật đang quay mặt.</li>
+</ul>
+<h3> Chế Độ Xuyên Tường Thay Thế:</h3>
+<ul>
+<li>Khi bật, tốc độ xuyên tường sẽ thay đổi thành giá trị được thiết lập khi phím tắt được nhấn.</li>
+</ul>
+<h3> Sử Dụng Phím Tuỳ Chỉnh:</h3>
+<ul>
+<li>Cho phép tuỳ chỉnh các phím điều hướng khi di chuyển xuyên tường.</li>
+</ul>
+<h3> Chống Giật Ngược:</h3>
+<ul>
+<li>Ngăn server giật ngược nhân vật khi di chuyển quá nhanh.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích sử dụng thiết đặt lớn hơn <code>20</code>.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tốc Độ Nhân Vật</title>
+      <link>https://korepi.com/vi/features/Player/player-speed.html</link>
+      <guid>https://korepi.com/vi/features/Player/player-speed.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tốc Độ Nhân Vật</source>
+      <description>Tốc Độ Nhân Vật cho phép điều chỉnh tốc độ của người chơi. Lưu ý: Khuyến khích sử dụng thiết đặt dưới 1.5. Lưu ý 2: Di Chuyển Nâng Cao (extra-movements.md) được khuyến khích sử ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tốc Độ Nhân Vật cho phép điều chỉnh tốc độ của người chơi.</h2>
+<blockquote>
+<p>Lưu ý: Khuyến khích sử dụng thiết đặt dưới <code>1.5</code>.
+Lưu ý 2: <a href="/vi/features/Player/extra-movements.html" target="blank">Di Chuyển Nâng Cao</a> được khuyến khích sử dụng hơn vì chức năng này động bộ tốt hơn với server (an toàn hơn)(chỉ dành cho nhà tài trợ)</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tiện Ích Từ Xa</title>
+      <link>https://korepi.com/vi/features/Player/remote-utility.html</link>
+      <guid>https://korepi.com/vi/features/Player/remote-utility.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tiện Ích Từ Xa</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Tiện Ích Từ Xa: Nhận Thưởng Uỷ Thác Hằng Ngày: Nhận thưởng uỷ thác hằng ngày từ xa sau khi hoàn thành 4 uỷ thác.; Hội Thoại Tuỳ Chọn: Bắt đầu ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h2> Tiện Ích Từ Xa:</h2>
+<h3> Nhận Thưởng Uỷ Thác Hằng Ngày:</h3>
+<ul>
+<li>Nhận thưởng uỷ thác hằng ngày từ xa sau khi hoàn thành 4 uỷ thác.</li>
+</ul>
+<h3> Hội Thoại Tuỳ Chọn:</h3>
+<ul>
+<li>Bắt đầu hội thoại từ xa bằng ID hội thoại, một số hội thoại có thể không hoạt động.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Đây là tính năng nguy hiểm.
+Lưu ý 2: Để lấy ID hội thoại, bật <code>Debug Talk</code>, ID sẽ được hiển thị trong <code>cmd</code>.</p>
+</blockquote>
+<h3> Triệu Hồi Dụng Cụ:</h3>
+<ul>
+<li>Triệu hồi dụng cụ từ xa theo ID, có thể không hoạt động đối với một số dụng cụ.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Đây là tính năng nguy hiểm.
+Lưu ý 2: Bạn có thể lấy ID dụng cụ <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
+</blockquote>
+<h3> Chế Tạo:</h3>
+<ul>
+<li>Nhựa Cô Đặc: Chế tạo nhựa cô đặc từ xa nếu bạn có đủ nhựa và tinh hạt nhân.</li>
+<li>Triệu Hồi Đài Ghép: Triệu hồi một đài ghép.</li>
+<li>Triệu Hồi Đài Rèn: Triệu hồi một đài rèn.</li>
+<li>Ghép Tuỳ Chỉnh: Ghép vật phẩm được chọn bằng nhân vật hiện tại.
+<blockquote>
+<p>Lưu ý: Sẽ không có thông báo xuất hiện sau khi ghép thành công. Vui lòng kiểm tra túi đồ.
+Lưu ý 2: Bạn có thể tìm ID ghép <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
+</blockquote>
+</li>
+</ul>
+<h3> Triệu Hồi NPC:</h3>
+<ul>
+<li>Triệu hồi NPC bằng ID.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Đã bao gồm Katheryne, Wagner và Prince.</p>
+</blockquote>
+<h3> Triệu Hồi Quái:</h3>
+<ul>
+<li>Triệu hồi quái với thông số được chọn bằng ID.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Bạn không thể giết quái được triệu hồi.
+Lưu ý 2: Bạn có thể tìm ID quái <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
+</blockquote>
+<h3> Triệu hồi Vật Phẩm:</h3>
+<ul>
+<li>Triệu hồi vật phẩm theo ID.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Có thể không hoạt động đối với một số vật phẩm nhất định.
+Lưu ý 2: Bạn có thể tìm ID vật phẩm <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">tại đây</a></p>
+</blockquote>
+<h3> Mở Trang Giao Diện:</h3>
+<ul>
+<li>Mở Trang Menu Paimon: Mở trang menu Paimon.</li>
+<li>Mở Trang Menu Nấu Nướng: Mở trang nấu nướng.
+<blockquote>
+<p>Lưu ý: Cần mở trang menu nấu nướng ít nhất một lần trước đó để sử dụng tính năng này.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Hiến Tế Tượng Thần:</h3>
+<ul>
+<li>Hiến tế tượng thần từ xa với số lượng thần đồng đã chọn. Cần có thần đồng để thực hiện.</li>
+</ul>
+<h3> Thay Đổi Nguyên Tố Của Nhà Lữ Hành:</h3>
+<ul>
+<li>Cho phép thay đổi nguyên tố của nhà lữ hành ở bất kỳ nơi nào.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dịch Chuyển Tới Thần Đồng</title>
+      <link>https://korepi.com/vi/features/Teleport/0culi-teleport.html</link>
+      <guid>https://korepi.com/vi/features/Teleport/0culi-teleport.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Dịch Chuyển Tới Thần Đồng</source>
+      <description>Dịch Chuyển Tới Thần Đồng sẽ dịch chuyển người chơi tới vị trí có thần đồng gần nhất khi phím tắt được nhấn. Lưu ý: Chờ khoảng &amp;gt;15s giữa các lần dịch chuyển sẽ an toàn hơn. Vide...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tới Thần Đồng sẽ dịch chuyển người chơi tới vị trí có thần đồng gần nhất khi phím tắt được nhấn.</h2>
+<blockquote>
+<p>Lưu ý: Chờ khoảng <code>&gt;15s</code> giữa các lần dịch chuyển sẽ an toàn hơn.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dịch Chuyển Tới Rương</title>
+      <link>https://korepi.com/vi/features/Teleport/chest-teleport.html</link>
+      <guid>https://korepi.com/vi/features/Teleport/chest-teleport.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Dịch Chuyển Tới Rương</source>
+      <description>Dịch Chuyển Tới Rương sẽ dịch chuyển người chơi tới vị trí rương gần nhất khi phím tắt được nhấn. Lưu ý: Chờ khoảng &amp;gt;15s giữa các lần dịch chuyển sẽ an toàn hơn. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tới Rương sẽ dịch chuyển người chơi tới vị trí rương gần nhất khi phím tắt được nhấn.</h2>
+<blockquote>
+<p>Lưu ý: Chờ khoảng <code>&gt;15s</code> giữa các lần dịch chuyển sẽ an toàn hơn.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dịch Chuyển Tuỳ Chọn</title>
+      <link>https://korepi.com/vi/features/Teleport/custom-teleport.html</link>
+      <guid>https://korepi.com/vi/features/Teleport/custom-teleport.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Dịch Chuyển Tuỳ Chọn</source>
+      <description>Dịch Chuyển Tuỳ Chọn: Cho phép người chơi dịch chuyển tới một ví trí được chọn định sẵn bởi một file .json. Tốc Độ Hoạt Ảnh Dịch Chuyển: Điều khiển tốc độ hoạt ảnh dịch chuyển, ...</description>
+      <category>Features</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tuỳ Chọn: Cho phép người chơi dịch chuyển tới một ví trí được chọn định sẵn bởi một file <code>.json</code>.</h2>
+<h3> Tốc Độ Hoạt Ảnh Dịch Chuyển:</h3>
+<ul>
+<li>Điều khiển tốc độ hoạt ảnh dịch chuyển, đặt giá trị về <code>0.1</code> để tránh xảy ra lỗi.</li>
+</ul>
+<h3> Dịch Chuyển Tự Động:</h3>
+<ul>
+<li>Tự động dịch chuyển theo thứ tự các file <code>.json</code> được cung cấp.
+<ul>
+<li>Dịch Chuyển Tới: Dịch chuyển tới vị trí tiếp theo sau khi nhấn phím tắt.</li>
+<li>Dịch Chuyển Lui: Dịch chuyển tới vị trí trước đó sau khi nhấn phím tắt.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Khuyến khích đặt thời gian chờ giữa các lần dịch chuyển lớn hơn <code>15s</code> cho an toàn.</p>
+</blockquote>
+<h1> Bạn có thể xem thêm về cách sử dụng tính năng này <a href="/vi/guide/custom-tp-setting.html" target="blank">tại đây</a></h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dịch Chuyển Bằng Bản Đồ</title>
+      <link>https://korepi.com/vi/features/Teleport/map-teleport.html</link>
+      <guid>https://korepi.com/vi/features/Teleport/map-teleport.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Dịch Chuyển Bằng Bản Đồ</source>
+      <description>Dịch Chuyển Bằng Bản Đồ cho phép bạn dịch chuyển tới bất kỳ vị trí nào trên bản đồ. Để sử dụng dịch chuyển bằng bản đồ bạn cần bật tính năng này lên, sau đó lựa chọn phím tắt để...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Bằng Bản Đồ cho phép bạn dịch chuyển tới bất kỳ vị trí nào trên bản đồ.</h2>
+<ul>
+<li>Để sử dụng dịch chuyển bằng bản đồ bạn cần bật tính năng này lên, sau đó lựa chọn phím tắt để sử dụng.</li>
+<li>Để thực hiện dịch chuyển, nhấn giữ phím tắt trong khi đang mở bản đồ và click chuột vào ví trị bạn muốn dịch chuyển tới.</li>
+</ul>
+<h3> Dịch Chuyển Nhanh (<span style="color:yellow;">Sponsor</span>):</h3>
+<ul>
+<li>Loại bỏ màn hình tải trong phạm vi được chọn khi thực hiện dịch chuyển.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Dịch Chuyển Tới Nhiệm Vụ</title>
+      <link>https://korepi.com/vi/features/Teleport/quest-teleport.html</link>
+      <guid>https://korepi.com/vi/features/Teleport/quest-teleport.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Dịch Chuyển Tới Nhiệm Vụ</source>
+      <description>Dịch Chuyển Tới Nhiệm Vụ cho phép bạn dịch chuyển tới vị trí của nhiệm vụ được đang thực hiện tại thời điểm hiện tại. Để sử dụng tính năng này, bạn phải nhấn phím tắt điều hướng...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Dịch Chuyển Tới Nhiệm Vụ cho phép bạn dịch chuyển tới vị trí của nhiệm vụ được đang thực hiện tại thời điểm hiện tại.</h2>
+<ul>
+<li>Để sử dụng tính năng này, bạn phải nhấn phím tắt điều hướng tới nhiệm vụ trước sau đó nhấn phím tắt dịch chuyển tới nhiệm vụ.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thay Đổi Hoạt Ảnh</title>
+      <link>https://korepi.com/vi/features/Visuals/animation-changer.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/animation-changer.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thay Đổi Hoạt Ảnh</source>
+      <description>Thay Đổi Hoạt Ảnh cho phép người chơi thay đổi hoạt ảnh của nhân vật hiện tại thành hoạt ảnh của một nhân vật khác được chọn.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thay Đổi Hoạt Ảnh cho phép người chơi thay đổi hoạt ảnh của nhân vật hiện tại thành hoạt ảnh của một nhân vật khác được chọn.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thu Phóng Camera</title>
+      <link>https://korepi.com/vi/features/Visuals/camera-zoom.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/camera-zoom.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thu Phóng Camera</source>
+      <description>Thu Phóng Camera cho phép người chơi thay đổi độ thu phóng của camera tuỳ thích.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thu Phóng Camera cho phép người chơi thay đổi độ thu phóng của camera tuỳ thích.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tuỳ Chỉnh Cung Mệnh</title>
+      <link>https://korepi.com/vi/features/Visuals/constellation-modifier.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/constellation-modifier.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chỉnh Cung Mệnh</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Tuỳ Chỉnh Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h2> Tuỳ Chỉnh Cung Mệnh sẽ sửa đổi cung mệnh của nhân vật hiện tại khi được bật. Một số chỉ mang tính hình thức còn số một khác sẽ hoạt động được như cung mệnh thực sự.</h2>
+<ul>
+<li>Bạn có thể tìm thêm thông tin về những cung mệnh nào thực sự hoạt động được tại <code>#⁠cons-check</code> trong server discord.</li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">Bạn phải chuyển sang các nhân vật bạn muốn kích hoạt cung mệnh trước rồi sau đó dịch chuyển tới một ví trí ở xa để kích hoạt cung mệnh.</p>
+</div>
+<hr>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/S9-g5weE9l8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Constellation Modifier (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tuỳ Chỉnh Profile</title>
+      <link>https://korepi.com/vi/features/Visuals/custom-profile.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/custom-profile.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chỉnh Profile</source>
+      <description>Tuỳ Chỉnh Profile: UID: Lựa chọn UID mà bạn muốn hiển thị.; Tên: Lựa chọn Tên mà bạn muốn hiển thị.; Level: Lựa chọn Level mà bạn muốn hiển thị.; EXP: Lựa chọn lượng EXP mà bạn ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tuỳ Chỉnh Profile:</h2>
+<h3> UID:</h3>
+<ul>
+<li>Lựa chọn UID mà bạn muốn hiển thị.</li>
+</ul>
+<h3> Tên:</h3>
+<ul>
+<li>Lựa chọn Tên mà bạn muốn hiển thị.</li>
+</ul>
+<h3> Level:</h3>
+<ul>
+<li>Lựa chọn Level mà bạn muốn hiển thị.</li>
+</ul>
+<h3> EXP:</h3>
+<ul>
+<li>Lựa chọn lượng EXP mà bạn muốn hiển thị.</li>
+</ul>
+<h3> Cấp Thế Giới:</h3>
+<ul>
+<li>Lựa chọn Cấp Thế Giới mà bạn muốn hiển thị.</li>
+</ul>
+<h3> Ảnh Đại Diện:</h3>
+<ul>
+<li>Sử dụng file png tuỳ chọn để làm ảnh đại diện.</li>
+</ul>
+<h3> Danh Thiếp:</h3>
+<ul>
+<li>Sử dụng file png tuỳ chọn để làm danh thiếp.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tuỳ Chỉnh Thời Tiết</title>
+      <link>https://korepi.com/vi/features/Visuals/custom-weather.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/custom-weather.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chỉnh Thời Tiết</source>
+      <description>Tuỳ Chỉnh Thời Tiết cho phép bạn thay đổi thời tiết theo mong muốn.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tuỳ Chỉnh Thời Tiết cho phép bạn thay đổi thời tiết theo mong muốn.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thay Đổi Biểu Cảm</title>
+      <link>https://korepi.com/vi/features/Visuals/emotion-changer.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/emotion-changer.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thay Đổi Biểu Cảm</source>
+      <description>Thay Đổi Biểu Cảm cho phép người chơi thay đổi biểu cảm của nhân vật hiện tại thành một biểu cảm được lựa chọn khác.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thay Đổi Biểu Cảm cho phép người chơi thay đổi biểu cảm của nhân vật hiện tại thành một biểu cảm được lựa chọn khác.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thiết Đặt Đồ Hoạ Bổ Sung</title>
+      <link>https://korepi.com/vi/features/Visuals/extra-visual-settings.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/extra-visual-settings.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thiết Đặt Đồ Hoạ Bổ Sung</source>
+      <description>Thiết Đặt Đồ Hoạ Bổ Sung: Gamma: Cho phép bạn điều chỉnh giá trị gamma trong game.; Chiều Rộng Outline: Cho phép bạn điều chỉnh outline của tất cả các nhân vật trong game.; Khử ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thiết Đặt Đồ Hoạ Bổ Sung:</h2>
+<h3> Gamma:</h3>
+<ul>
+<li>Cho phép bạn điều chỉnh giá trị gamma trong game.</li>
+</ul>
+<h3> Chiều Rộng Outline:</h3>
+<ul>
+<li>Cho phép bạn điều chỉnh outline của tất cả các nhân vật trong game.</li>
+</ul>
+<h3> Khử Răng Cưa:</h3>
+<ul>
+<li>Cho phép bạn thay đổi cơ chế khử răng cưa, bao gồm cả những cơ chế không có sẵn trong game.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tuỳ Chỉnh Thời Gian</title>
+      <link>https://korepi.com/vi/features/Visuals/fake-time.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/fake-time.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chỉnh Thời Gian</source>
+      <description>Tuỳ Chỉnh Thời Gian: Thay đổi thời gian giờ và phút trong game.;</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tuỳ Chỉnh Thời Gian:</h2>
+<ul>
+<li>Thay đổi thời gian giờ và phút trong game.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tuỳ Chính Cánh</title>
+      <link>https://korepi.com/vi/features/Visuals/flycloak-modifier.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/flycloak-modifier.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tuỳ Chính Cánh</source>
+      <description>Tuỳ Chính Cánh cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tuỳ Chính Cánh cho phép người chơi thay đổi skin của phong chi dực cho dù không sở hữu chúng.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bỏ Giới Hạn FPS</title>
+      <link>https://korepi.com/vi/features/Visuals/fps-unlock.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/fps-unlock.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Bỏ Giới Hạn FPS</source>
+      <description>Bỏ Giới Hạn FPS. Giới Hạn FPS Trong Nền: Thay đổi FPS tối đa của game khi đang không tập trung vào màn hình game.;</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Bỏ Giới Hạn FPS.</h2>
+<h3> Giới Hạn FPS Trong Nền:</h3>
+<ul>
+<li>Thay đổi FPS tối đa của game khi đang không tập trung vào màn hình game.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Camera Tự Do</title>
+      <link>https://korepi.com/vi/features/Visuals/free-camera.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/free-camera.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Camera Tự Do</source>
+      <description>Camera Tự Do: Di chuyển camera tự do mà không bị khoá vào nhân vật.; Đóng Băng Hoạt Ảnh Nhân Vật: Đóng băng hoạt ảnh của nhân vật.; Tàng Hình: Khiến nhân vật trở nên tàng hình.;...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Camera Tự Do:</h2>
+<ul>
+<li>Di chuyển camera tự do mà không bị khoá vào nhân vật.</li>
+</ul>
+<h3> Đóng Băng Hoạt Ảnh Nhân Vật:</h3>
+<ul>
+<li>Đóng băng hoạt ảnh của nhân vật.</li>
+</ul>
+<h3> Tàng Hình:</h3>
+<ul>
+<li>Khiến nhân vật trở nên tàng hình.</li>
+</ul>
+<h3> Chặn User Input:</h3>
+<ul>
+<li>Chặn user input sẽ khiến nhân vật không di chuyển trong khi camera vẫn di chuyển bình thường.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ẩn Giao Diện</title>
+      <link>https://korepi.com/vi/features/Visuals/hide-ui.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/hide-ui.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Ẩn Giao Diện</source>
+      <description>Ẩn Giao Diện: Ẩn toàn bộ giao diện người dùng.; Ẩn Ping: (Sponsor) Chỉ ẩn ping.; Ẩn Thanh Máu: (Sponsor) Chỉ ẩn thanh máu của nhân vật hiện tại.; Ẩn Thanh Máu Của Đội: (Sponsor)...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Ẩn Giao Diện:</h2>
+<ul>
+<li>Ẩn toàn bộ giao diện người dùng.</li>
+</ul>
+<h3> Ẩn Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Chỉ ẩn ping.</li>
+</ul>
+<h3> Ẩn Thanh Máu: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Chỉ ẩn thanh máu của nhân vật hiện tại.</li>
+</ul>
+<h3> Ẩn Thanh Máu Của Đội: (<span style="color:yellow;">Sponsor</span>)</h3>
+<ul>
+<li>Chỉ ẩn thanh máu xuất hiện trên danh sách đội.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thu Phóng Bản Đồ</title>
+      <link>https://korepi.com/vi/features/Visuals/map-zoom.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/map-zoom.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thu Phóng Bản Đồ</source>
+      <description>Thu Phóng Bản Đồ thay đổi giá trị được sử dụng trong bản đồ.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thu Phóng Bản Đồ thay đổi giá trị được sử dụng trong bản đồ.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thay Đổi Quái</title>
+      <link>https://korepi.com/vi/features/Visuals/monster-changer.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/monster-changer.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thay Đổi Quái</source>
+      <description>Thay Đổi Quái: Khi được bật, thay đổi ngoại hình của toàn bộ quái thành ngoại hình mới được chọn.; Loại Trừ Động Vật: Bật hoặc Tắt thay đổi ngoại hình động vật.; Tuỳ Chỉnh ID Qu...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thay Đổi Quái:</h2>
+<ul>
+<li>Khi được bật, thay đổi ngoại hình của toàn bộ quái thành ngoại hình mới được chọn.</li>
+</ul>
+<h3> Loại Trừ Động Vật:</h3>
+<ul>
+<li>Bật hoặc Tắt thay đổi ngoại hình động vật.</li>
+</ul>
+<h3> Tuỳ Chỉnh ID Quái:</h3>
+<ul>
+<li>Sử dụng ID thay vì danh sách được cấp sẵn.</li>
+</ul>
+<h3> Quái Ngẫu Nhiên:</h3>
+<ul>
+<li>Ngoại hình quái sẽ thay đổi ngẫu nhiên.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Các Tính Năng Khác</title>
+      <link>https://korepi.com/vi/features/Visuals/others.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/others.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Các Tính Năng Khác</source>
+      <description>Các Tính Năng Khác: Hiện Báo Rương Bật Nhìn Lén Không Màn Hình Đen Không Sương Mù Không Hiện Cỏ Không Hiện Sương Mù Trên Bản Đồ Paimon Bay Theo Lặn Kiểu Cá Heo Biểu Tượng GM Mở ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Các Tính Năng Khác:</h2>
+<h3> Hiện Báo Rương</h3>
+<h3> Bật Nhìn Lén</h3>
+<h3> Không Màn Hình Đen</h3>
+<h3> Không Sương Mù</h3>
+<h3> Không Hiện Cỏ</h3>
+<h3> Không Hiện Sương Mù Trên Bản Đồ</h3>
+<h3> Paimon Bay Theo</h3>
+<h3> Lặn Kiểu Cá Heo</h3>
+<h3> Biểu Tượng GM</h3>
+<h3> Mở Khoá Menu</h3>
+<h2> <span style="color:yellow;">Sponsor Only</span></h2>
+<h3> Không Làm Mờ Camera</h3>
+<h3> Không Rung Camera</h3>
+<h3> Không Hiện Dấu Chân</h3>
+<h3> Bỏ Qua Hoạt Ảnh Kỹ Năng Nộ</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Thay Đổi Skin</title>
+      <link>https://korepi.com/vi/features/Visuals/skin-modifier.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/skin-modifier.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thay Đổi Skin</source>
+      <description>Thay Đổi Skin cho phép người chơi sử dụng miễn phí các skin trong game.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thay Đổi Skin cho phép người chơi sử dụng miễn phí các skin trong game.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thay Đổi Kết Cấu</title>
+      <link>https://korepi.com/vi/features/Visuals/texture-changer.html</link>
+      <guid>https://korepi.com/vi/features/Visuals/texture-changer.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thay Đổi Kết Cấu</source>
+      <description>Nên sử dụng GIMI (../../guide/3DM-tutorial.md) để thay đổi kết cấu. Thay Đổi Kết Cấu cho phép thay đổi các bộ phận của nhân vật theo các file .png được cung cấp.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Nên sử dụng [GIMI](../../guide/3DM-tutorial.md) để thay đổi kết cấu.</p>
+</div>
+<hr>
+<h2> Thay Đổi Kết Cấu cho phép thay đổi các bộ phận của nhân vật theo các file .png được cung cấp.</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Kích Hoạt Điểm Dịch Chuyển</title>
+      <link>https://korepi.com/vi/features/World/auto-activate-tp.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-activate-tp.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Kích Hoạt Điểm Dịch Chuyển</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Tự Động Kích Hoạt Điểm Dịch Chuyển sẽ tự động kích hoạt các điểm dịch chuyển trong bán kính lên tới 50m. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h3> Tự Động Kích Hoạt Điểm Dịch Chuyển sẽ tự động kích hoạt các điểm dịch chuyển trong bán kính lên tới 50m.</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qstBErr9mJ0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoActivateTP (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Khiêu Chiến</title>
+      <link>https://korepi.com/vi/features/World/auto-challenge.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-challenge.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Khiêu Chiến</source>
+      <description>Tự Động Khiêu Chiến cho phép bạn hoàn thành khiêu chiến giới hạn trong phạm vi và độ trễ nhất định. Bạn có thể điều chỉnh các thông số này tuỳ thích. Video Minh Hoạ: Note: Not r...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Tự Động Khiêu Chiến cho phép bạn hoàn thành khiêu chiến giới hạn trong phạm vi và độ trễ nhất định. Bạn có thể điều chỉnh các thông số này tuỳ thích.</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/7JNegfQiK2U?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Not recommended to use in low delays and very high ranges.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Nấu Nướng</title>
+      <link>https://korepi.com/vi/features/World/auto-cook.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-cook.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Nấu Nướng</source>
+      <description>Tự Động Nấu Nướng cho phép bạn nấu loại thực phẩm được chọn với chất lượng và số lượng tuỳ chỉnh. Bạn có thể sử dụng chức năng này cùng với chức năng tự động mở khoá thông thạo ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Tự Động Nấu Nướng cho phép bạn nấu loại thực phẩm được chọn với chất lượng và số lượng tuỳ chỉnh. Bạn có thể sử dụng chức năng này cùng với chức năng tự động mở khoá thông thạo nấu nướng để có thể nấu tự động.</h3>
+<h2> Example Video:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/T_X13AXiAiY?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Cook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Phá Huỷ Vật Thể</title>
+      <link>https://korepi.com/vi/features/World/auto-destroy.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-destroy.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Phá Huỷ Vật Thể</source>
+      <description>Tự Động Phá Huỷ Vật Thể cho phép bạn tự động phá huỷ các vật thể được chọn trong phạm vi tuỳ chỉnh, bao gồm quặng, thực vật, mỏm đá, rương, các vật thể đặc biệt, khiên, etc. Vid...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Tự Động Phá Huỷ Vật Thể cho phép bạn tự động phá huỷ các vật thể được chọn trong phạm vi tuỳ chỉnh, bao gồm quặng, thực vật, mỏm đá, rương, các vật thể đặc biệt, khiên, etc.</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/3ML6s3SR8nE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Destroy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Recommended value is below <code>20m</code>, not recommended to use at max range (<code>40m</code>)</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Câu Cá</title>
+      <link>https://korepi.com/vi/features/World/auto-fish.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-fish.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Câu Cá</source>
+      <description>Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu. Video Minh Hoạ: Note: Auto Recast is not working at the time creating this post.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Tự Động Câu Cá cho phép bạn bỏ qua hoạt ảnh câu cá, giúp giảm thời gian câu.</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/K_l4Tg-81iQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Auto Recast is not working at the time creating this post.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Nhặt</title>
+      <link>https://korepi.com/vi/features/World/auto-loot.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-loot.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Nhặt</source>
+      <description>Tự Động Nhặt cho phép bạn tự động nhặt trong phạm vi và độ trễ nhất định. Bạn có thể tuỳ chỉnh những thứ có thể tự động nhặt, bao gồm rương,vật phẩm rớt từ quái và nhiều thứ khá...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tự Động Nhặt cho phép bạn tự động nhặt trong phạm vi và độ trễ nhất định. Bạn có thể tuỳ chỉnh những thứ có thể tự động nhặt, bao gồm rương,vật phẩm rớt từ quái và nhiều thứ khác.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/wUyI2XO_Z4E?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Recommended below <code>10m</code> for normal use and <code>20m</code> if using custom tp.
+Note 2: Higher the distance higher delay should be used.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Dẫn Đường Tiên Linh</title>
+      <link>https://korepi.com/vi/features/World/auto-seelie.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-seelie.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Dẫn Đường Tiên Linh</source>
+      <description>Tự Động Dẫn Đường Tiên Linh loại bỏ việc bạn phải đi theo tiên linh liên tục. Tiên linh sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tự Động Dẫn Đường Tiên Linh loại bỏ việc bạn phải đi theo tiên linh liên tục. Tiên linh sẽ đi thẳng tới điểm đích khi người chơi đứng gần đó.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/uETIJ4KS39M?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Seelie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Trò Chuyện</title>
+      <link>https://korepi.com/vi/features/World/auto-talk.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-talk.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Trò Chuyện</source>
+      <description>Tự Động Trò Chuyện: Tự động trò chuyện với NPC Tua Nhanh Hội Thoại: Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh độ trò chuyện.; Lưu ý: Không khuyến khích đặt giá ...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Tự Động Trò Chuyện: Tự động trò chuyện với NPC</h2>
+<h3> Tua Nhanh Hội Thoại:</h3>
+<ul>
+<li>Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh độ trò chuyện.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích đặt giá trị lớn hơn <code>5</code>.</p>
+</blockquote>
+<h3> Bỏ Qua Hội Thoại (Nhà Tài Trợ):</h3>
+<ul>
+<li>Bỏ qua đoạn hội thoại với độ trễ nhất định. Chức năng này an toàn hơn Tua Nhanh Hội Thoại.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích đặt độ trễ nhỏ hơn <code>200ms</code></p>
+</blockquote>
+<h3> Tua Nhanh Đoạn Cắt:</h3>
+<ul>
+<li>Tăng tốc độ của game tới một giá trị cụ thể nhằm tua nhanh đoạn cắt.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích đặt giá trị lớn hơn <code>5</code></p>
+</blockquote>
+<h3> Bỏ Qua Cảnh Trò Chuyện:</h3>
+<ul>
+<li>Bỏ qua cảnh trò chuyển khi cảnh trò chuyện được kích hoạt hoặc đang diễn ra.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Có thể bị màn hình đen khi sử dụng tính năng này.</p>
+</blockquote>
+<h3> Bỏ Qua Đoạn Cắt:</h3>
+<ul>
+<li>Bỏ qua đoạn cắt khi đoạn cắt được kích hoạt hoặc đang diễn ra.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Có thể bị màn hình đen khi sử dụng tính năng này.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/IS0BvLLO1xc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - AutoTalk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tự Động Đốn Gỗ</title>
+      <link>https://korepi.com/vi/features/World/auto-tree-farm.html</link>
+      <guid>https://korepi.com/vi/features/World/auto-tree-farm.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tự Động Đốn Gỗ</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ. Video Minh Hoạ: Note: Not recommended to chang...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h3> Tự Động Đốn Gỗ cho phép bạn đốn các cây xung quanh trong phạm vi và độ trễ nhất định để lấy gỗ.</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/v95_NOxc4do?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Auto Tree Farm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Not recommended to change default values.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hào Quang Nguyên Tố</title>
+      <link>https://korepi.com/vi/features/World/elemental-aura.html</link>
+      <guid>https://korepi.com/vi/features/World/elemental-aura.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hào Quang Nguyên Tố</source>
+      <description>Chức Năng Chỉ Dành Cho Nhà Tài Trợ Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi....</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Chức Năng Chỉ Dành Cho Nhà Tài Trợ</p>
+</div>
+<hr>
+<h3> Hào Quang Nguyên Tố sẽ áp dụng các nguyên tố được chọn với một phạm vi và độ trễ nhất định lên các mục tiêu, vật thể hoặc bản thân người chơi. Có thể áp dụng nhiều nguyên tố khác nhau cùng một</h3>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/FskTJiknOgQ?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Elemental Aura (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Low delay times will increase the chance of detection.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Điều Chỉnh Tốc Độ Game</title>
+      <link>https://korepi.com/vi/features/World/game-speed.html</link>
+      <guid>https://korepi.com/vi/features/World/game-speed.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Điều Chỉnh Tốc Độ Game</source>
+      <description>Điều Chỉnh Tốc Độ Game. Tăng Hoặc Giảm Tốc Độ Của Game Theo Ý Muốn. Lưu ý: Không khuyến khích sử dụng tính năng này. Video Minh Hoạ:</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Điều Chỉnh Tốc Độ Game. Tăng Hoặc Giảm Tốc Độ Của Game Theo Ý Muốn.</h3>
+<blockquote>
+<p>Lưu ý: Không khuyến khích sử dụng tính năng này.</p>
+</blockquote>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/MzXhudYkaDg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Game Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hào Quang Huỷ Diệt</title>
+      <link>https://korepi.com/vi/features/World/kill-aura.html</link>
+      <guid>https://korepi.com/vi/features/World/kill-aura.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hào Quang Huỷ Diệt</source>
+      <description>This feature has a high risk of ban. Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Quanh Chế Độ Crash Damage: Gây loại sát thương như khi bị rơi lên kẻ địch xung quanh với...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container danger">
+<p class="hint-container-title">This feature has a high risk of ban.</p>
+</div>
+<hr>
+<h2> Hào Quang Huỷ Diệt: Gây Sát Thương Cho Kẻ Địch Xung Quanh</h2>
+<h3> Chế Độ Crash Damage:</h3>
+<ul>
+<li>Gây loại sát thương như khi bị rơi lên kẻ địch xung quanh với lượng sát thương, phạm vi và độ trễ nhất định.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Không khuyến khích đặt lượng sát thương quá cao.</p>
+</blockquote>
+<h3> Chế Độ Theo Phần Trăm:</h3>
+<ul>
+<li>Số lượng lần gây sát thương cần để tiêu diệt kẻ địch</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Khuyến khích đặt số lần gây sát thương lớn hơn hoặc bằng <code>3</code>.</p>
+</blockquote>
+<h3> Lượng Máu Còn Lại:</h3>
+<ul>
+<li>Bật hoặc tắt chế độ ngừng tự động gây sát thương khi kẻ địch xung quanh đạt một lượng máu nhất định.</li>
+</ul>
+<h3> Chế Độ Chết Ngay Lập Tức:</h3>
+<ul>
+<li>Khiến kẻ địch bay màu ngay lập tức.</li>
+</ul>
+<blockquote>
+<p>Lưu ý: Có thể bị lỗi đối với một số loại boss.
+Lưu ý 2: Không khuyến khích sử dụng chức năng này.</p>
+</blockquote>
+<h3> Chỉ Chọn Các Mục Tiêu Bị Khiêu Khích:</h3>
+<ul>
+<li>Bật hoặc tắt việc chỉ tự động gây sát thương lên quái đang bị khiêu khích.</li>
+</ul>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NiAh00VBy-w?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Kill Aura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thu Gom Quái Vật</title>
+      <link>https://korepi.com/vi/features/World/mob-vacuum.html</link>
+      <guid>https://korepi.com/vi/features/World/mob-vacuum.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thu Gom Quái Vật</source>
+      <description>Thu Gom Quái Vật sẽ gom quái vật xung quanh lại gần người chơi với tốc độ và phạm vi được lựa chọn. Có thể tuỳ chỉnh danh sách quái bị hút. Video Minh Hoạ: Note: Recommended bel...</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thu Gom Quái Vật sẽ gom quái vật xung quanh lại gần người chơi với tốc độ và phạm vi được lựa chọn. Có thể tuỳ chỉnh danh sách quái bị hút.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/KNzVgG_V10I?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Mob Vacuum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Recommended below <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Thu Gom Vật Phẩm</title>
+      <link>https://korepi.com/vi/features/World/vacuum-loot.html</link>
+      <guid>https://korepi.com/vi/features/World/vacuum-loot.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Thu Gom Vật Phẩm</source>
+      <description>Thu Gom Vật Phẩm sẽ gom các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định. Video Minh Hoạ: Note: Recommended below 20m.</description>
+      <category>Các Tính Năng</category>
+      <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Thu Gom Vật Phẩm sẽ gom các vật phẩm xung quanh lại gần người chơi trong phạm vi và độ trễ nhất định.</h2>
+<h2> Video Minh Hoạ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/iMElTsNF77c?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Vacuum Loot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<blockquote>
+<p>Note: Recommended below <code>20m</code>.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hướng Dẫn</title>
+      <link>https://korepi.com/vi/guide/</link>
+      <guid>https://korepi.com/vi/guide/</guid>
+      <source url="https://korepi.com/vi/rss.xml">Hướng Dẫn</source>
+      <category>Hướng Dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bắt đầu</title>
+      <link>https://korepi.com/vi/start/</link>
+      <guid>https://korepi.com/vi/start/</guid>
+      <source url="https://korepi.com/vi/rss.xml">Bắt đầu</source>
+      <category>Hướng dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tải Xuống</title>
+      <link>https://korepi.com/vi/start/download.html</link>
+      <guid>https://korepi.com/vi/start/download.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tải Xuống</source>
+      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer role If you haven...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Download</h1>
+<h2> Introduction</h2>
+<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
+<h3> Step 1: Join our server and obtain the <code>Newcomer</code> role</h3>
+<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code>.</p>
+<h3> Step 2: Go to the channel <code>★⋅korepi-download⋅★</code></h3>
+<p>Locate the channel <code>★⋅korepi-download⋅★</code> and follow the link to download the program.</p>
+<h3> Step 3: Ready!</h3>
+<p>Place the .rar in a folder and add it to <a href="/vi/guide/virus.html" target="blank">exclusions</a>, after that extract it and follow this <a href="/vi/guide/getkey.html" target="blank">guide</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tham Gia Vào Server</title>
+      <link>https://korepi.com/vi/start/join.html</link>
+      <guid>https://korepi.com/vi/start/join.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Tham Gia Vào Server</source>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để tham gia vào máy chủ Discord và bắt đầu sử dụng Korepi, hãy làm theo các bước sau. Bước 1: Tạo tài khoản Discord nếu bạn...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Giới thiệu</h2>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để tham gia vào máy chủ Discord và bắt đầu sử dụng Korepi, hãy làm theo các bước sau.</p>
+<h2> Bước 1: Tạo tài khoản Discord nếu bạn chưa có</h2>
+<p>Nếu bạn chưa có tài khoản Disord, hãy bắt đầu bằng cách tạo một tài khoản mới. Truy cập [trang Discord chính thức] (https://discord.com/) và làm theo hướng dẫn đăng ký.</p>
+<h2> Bước 2: Tải và cài đặt Discord</h2>
+<p>Sau khi tạo tài khoản, hãy tải <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord</a> cho hệ điều hành của bạn. Cài đặt Discord theo hướng dẫn trên màn hình.</p>
+<h2> Bước 3: Tham gia Server</h2>
+<ol>
+<li>Sao chép <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">link mời</a> sau</li>
+<li>Trong client Discord, nhấp vào nút "+" ở góc dưới bên trái</li>
+<li>Chọn  "Tham gia máy chủ"</li>
+<li>Dán link mời vào ô trống và nhấn vào nút "Tham gia".</li>
+</ol>
+<p>Nếu link mời không tồn tại, có thể server đang tạm đóng. Vui lòng đợi cho tới khi chúng tôi mở lại. Giờ bạn có thể tiến hành bước tiếp theo.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sponsor</title>
+      <link>https://korepi.com/vi/start/sponsor.html</link>
+      <guid>https://korepi.com/vi/start/sponsor.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Sponsor</source>
+      <description>Sponsors Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they als...</description>
+      <category>Guide</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Sponsors</h2>
+<ul>
+<li>Sponsors are a legacy role that is no longer obtainable, people with this role are elegible to extra functionality in the software without having to pay again, they also receive some extra perks in the server/software.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Xác Thực</title>
+      <link>https://korepi.com/vi/start/verify.html</link>
+      <guid>https://korepi.com/vi/start/verify.html</guid>
+      <source url="https://korepi.com/vi/rss.xml">Xác Thực</source>
+      <description>Giới thiệu Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role &amp;quot;Newcomer&amp;quot;, hãy làm theo các bước sau. Bước 1: Tham gia vào server của chúng...</description>
+      <category>Hướng Dẫn</category>
+      <pubDate>Thu, 30 Nov 2023 15:50:40 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Giới thiệu</h2>
+<p>Chào mừng đến với cộng đồng của chúng tôi! Để vượt qua quá trình xác minh bot và lấy Role "Newcomer", hãy làm theo các bước sau.</p>
+<h2> Bước 1: Tham gia vào server của chúng nếu như bạn chưa tham gia</h2>
+<p>Nếu bạn chưa có mặt trên máy chủ, vui lòng đọc <a href="/vi/start/join.html" target="blank">bài trước đó</a>, nơi nó được mô tả cách tham gia máy chủ.</p>
+<h2> Bước 2: Bạn đã ở trong server</h2>
+<p>Bây giờ bạn đang ở trên máy chủ, hãy chọn các kênh và role cần thiết từ danh sách, sau đó chuyển sang kênh <strong>★⋅rules⋅★</strong></p>
+<h2> Bước 3: Kênh ★⋅rules⋅★</h2>
+<p>Trong kênh <strong>★⋅rules⋅★</strong> , hãy làm quen với các luật và trải qua quá trình xác minh để xác nhận rằng bạn không phải là robot.</p>
+<p>Nhấn vào nút <strong>Verify</strong> như hình bên dưới.</p>
+<p><img src="/assets/images/docs/202312/verify_vi.png" alt="" loading="lazy"></p>
+<p>Bot sẽ gửi cho bạn một đường link mà bạn cần làm theo và xác nhận rằng bạn không phải là Robot</p>
+<h2> Step 4: Sau khi nhận được Role "Newcomer"</h2>
+<p>Sau khi đã xác thực thành công, bot sẽ tự động gắn cho bạn Role "Newcomer". Với Role này, bạn sẽ không bị đá ra khỏi máy chủ mà không có bất cứ lí do nào. Giờ hãy đến với bước tiếp theo.</p>
+]]></content:encoded>
+      <enclosure url="https://korepi.com/assets/images/docs/202312/verify_vi.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
