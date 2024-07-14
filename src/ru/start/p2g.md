@@ -13,20 +13,13 @@ order: 1
 
 **Надежные реселлеры Korepi в странах СНГ:**
 
-- **butterbrodskiy (discord: butterbrodskiy)**
-  - *Украина*
-  - [Подробнее butterbrodskiy](https://cis.korepi.com/butterbrodskiy)
-
 - **QweRez (discord: qwerezon)**
-  - *Россия/Казахстан*
-  - [Подробнее QweRez](https://cis.korepi.com/qwerez)
+  - *Россия/Казахстан/Украина/Беларусь/Прочие постсоветские страны*
+  - [Подробнее QweRez](https://www.qwemarket.com/)
 
 - **Moheta (discord: moheta)**
   - *Россия*
   - [Подробнее Moheta](https://cis.korepi.com/moheta)
 
-- **adwin (discord: adwinsx)**
-  - *Россия*
-  - [Подробнее adwin](https://cis.korepi.com/adwin)
 
 Если у вас есть вопросы по продажам, обращайтесь к одному из наших продавцов.
