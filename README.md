@@ -1,25 +1,42 @@
-# Korepi Documentation - Burmese Fork
+# Korepi Documentation
 
-- Korepi အတွက် [စာရွက်စာတမ်း](https://github.com/Korepi/korepi) များ
-- Live ဗားရှင်း: [Click Here](https://github.com/Korepi/korepi-docs)
+Welcome to the official documentation for Korepi. Below you'll find links to various resources including the live version of the documentation, the website, and how to get started with testing the project locally.
 
-## Live Website
-Burmese Version: [Click here](https://korepi.com/mm)
+## Quick Links
 
-## ဘယ်လိုဘာသာပြန်ရမလဲ
-ဗမာဘာသာကို ဘာသာပြန်ရန်အတွက် ဤ fork တွင် PR ပြုလုပ်နိုင်သည်။ အကူအညီလိုအပ်ပါက ကျွန်တော့် discord ကို ဆက်သွယ်နိုင်ပါသည်။
-## ဘယ်လိုစမ်းသပ်ရမလဲ။
+- **Korepi GitHub Repository:** [Visit here](https://github.com/Korepi/korepi)
+- **Live Documentation:** [View here](https://github.com/Korepi/korepi-docs)
 
-### ပထမဦးဆုံးအကြိမ် install လုပ်ခြင်းအတွက်
+## Viewing the Documentation Online
 
-- Install [NodeJS >=18](https://nodejs.org/en/download/).
-- [GitHub Desktop](https://desktop.github.com/) သို့မဟုတ် Git (`git clone`) ကို အသုံးပြု၍ repository ကို clone ပါ။
-- Project ၏ root directory တွင် `pnpm install` ပါ။
+To view the Korepi documentation online, you can either:
 
-### စမ်းသပ်ခြင်း
+- Visit the [official website](https://korepi.com/).
+- Use the [backup documentation link](https://docs.korepi.com/) if the main site is unavailable.
 
-- root directory တွင် `pnpm run docs:dev` ဟု ရိုက်ထည့်ပါ။
-  - ဝဘ်ဆိုဒ်ကို `http://localhost:8080` တွင် ဝင်ရောက်ကြည့်ရှုနိုင်ပါမည်။
+## Local Testing and Development
 
-# အိုင်ကွန် ရွေးချယ်မှု
-- [FontAwesome](https://fontawesome.com/search) တွင် အိုင်ကွန်များကို ရွေးပါ။
+### Setting Up for the First Time
+
+To set up the Korepi documentation for local testing and development, follow these steps:
+
+1. **Install NodeJS:** Ensure you have NodeJS version 18 or higher installed. You can download it from [NodeJS official website](https://nodejs.org/en/download/).
+2. **Clone the Repository:** Use [GitHub Desktop](https://desktop.github.com/) or the Git command line (`git clone`) to clone the repository.
+3. **Install Dependencies:** Navigate to the project's root directory and run `pnpm install` to install the required dependencies.
+
+### Running Locally
+
+To test the documentation locally:
+
+1. Execute `pnpm run docs:dev` in the root directory of the project.
+2. By default, the documentation will be accessible at `http://localhost:8080`.
+
+## Additional Resources
+
+### Icon Selection
+
+For selecting icons to use within the Korepi documentation or projects, explore the vast collection available at [FontAwesome](https://fontawesome.com/search).
+
+---
+
+Thank you for contributing to and using Korepi. For more information or if you encounter issues, please refer to the GitHub repository issues section.
