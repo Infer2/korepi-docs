@@ -22,7 +22,7 @@ Extract korepi inside the excluded folder and run again.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-You need to [get a new key](../guide/getkey.md) from `⁠★⋅micah-bot-verify⋅★`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
+You need to [get a new key](../guide/getkey.md) from `⁠🔐｜verification`, if you can't get a key or if the key doesn't work, you have to wait till key expiration.
 
 `Sponsors can use F:Reset Key instead`
 
@@ -151,12 +151,14 @@ After checking restart your computer and try to run colorpicker again.
 
 If the error repeats you can make factory reset of Windows.
 
+---
 ### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
 Unpause your license and try again.
 
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -170,3 +172,18 @@ Case 2:
 
 ::: info If you are from Iran you might need to use a VPN instead.
 :::
+
+---
+### Unable to open file to write public key:
+
+- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
+
+---
+### Failed to get response from https://md5c...
+
+- This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
+
+---
+### Received code is not 200 from https://md5c...
+
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

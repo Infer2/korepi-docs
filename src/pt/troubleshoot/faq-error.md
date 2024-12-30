@@ -22,7 +22,7 @@ Abra o Korepi depois de concluir este passo.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-Você precisa [conseguir uma nova key](../guide/getkey.md) no `⁠★⋅micah-bot-verify⋅★`, se não conseguir obter uma chave ou se a chave não funcionar, terá que esperar até que ela expire.
+Você precisa [conseguir uma nova key](../guide/getkey.md) no `⁠🔐｜verification`, se não conseguir obter uma chave ou se a chave não funcionar, terá que esperar até que ela expire.
 
 `Os Patrocinadores podem usar F:Reset Key para conseguir uma nova.`
 
@@ -141,12 +141,14 @@ Depois disso, reinicie seu computador e verifique se funciona.
 
 Se não funcionar, será necessário reinstalar o Windows.
 
+---
 ### Dados atuais não existem ou erro de servidor.
 
 ![](/assets/images/docs/202312/error.png)
 
 Despausa sua licença e tente novamente.
 
+---
 ### Não é possível verificar o carimbo de data/hora atual.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -159,3 +161,18 @@ Caso 2:
 
 ::: info Se você é do Irã, talvez precise usar uma VPN em vez disso.
 :::
+
+---
+### Unable to open file to write public key:
+
+- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
+
+---
+### Failed to get response from https://md5c...
+
+- This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
+
+---
+### Received code is not 200 from https://md5c...
+
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

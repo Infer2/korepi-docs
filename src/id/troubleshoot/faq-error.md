@@ -22,7 +22,7 @@ Ekstrak Korepi di dalam folder yang sudah dikecualikan dan jalankan kembali.
 ---
 ### Status: No active subscription(s) found, Invalid license key
 
-Anda harus [mengambil Key baru](../guide/getkey.md) di `⁠★⋅micah-bot-verify⋅★`. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
+Anda harus [mengambil Key baru](../guide/getkey.md) di `⁠🔐｜verification`. Jika Anda tidak dapat mengambil Key atau Key tidak berfungsi, maka Anda harus menunggu hingga masa berlaku Key berakhir.
 
 `Sponsors dapat menggunakan F:Reset Key sebagai alternatif`
 
@@ -147,14 +147,14 @@ Setelah mengecek, restart komputer kamu dan coba jalankan colorpicker lagi.
 
 Jika masalah terus berlanjut, kamu bisa coba reset atau install ulang Windows.
 
-___
+---
 ### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
 Unpause lisensi kamu dan coba lagi.
 
-___
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -164,3 +164,18 @@ Kasus 1:
 
 Kasus 2:
 - Cek waktu jam PC kamu sudah diatur sinkron otomatis.
+---
+
+### Unable to open file to write public key:
+
+- Eror ini mungkin terjadi jika game kamu terpasang di *drive* lain dan bukan di *drive* utama kamu (`C:\`), untuk memperbaikinya kamu bisa coba pasang ulang (*reinstall*) game nya ke *drive* utama kamu dan coba jalankan Korepi lagi.
+
+---
+### Failed to get response from https://md5c...
+
+- Eror ini mungkin terjadi jika koneksimu tidak stabil atau koneksimu ke websitenya terblokir, coba *copy link*-nya dan cek apa kamu bisa mengaksesnya. Jika kamu tidak bisa mengakses websitenya, menggunakan VPN mungkin dapat membantu.
+
+---
+### Received code is not 200 from https://md5c...
+
+- Eror ini akan muncul jika *key* kamu di*pause*, harap ke channel `🔐｜verification` dan klik pada `Unpause Key` dan ketik `Yes` di pop-up.

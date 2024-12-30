@@ -14,7 +14,7 @@ order: 7
 
 # ダウンロード
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## はじめに
 
@@ -24,9 +24,9 @@ Korepiをダウンロードし使用を開始するには、以下の手順に�
 
 まだサーバーに参加されていない方は、サーバーへの参加方法と`Newcomer`の取得方法について書かれたページをお読みください。
 
-### ステップ 2: `★⋅korepi-download⋅★`チャンネルへ移動
+### ステップ 2: `💿｜download`チャンネルへ移動
 
-`★⋅korepi-download⋅★`チャンネルを探し、リンクをたどってソフトをダウンロードしてください。
+`💿｜download`チャンネルを探し、リンクをたどってソフトをダウンロードしてください。
 
 ### ステップ 3: 準備完了！
 

@@ -21,7 +21,7 @@ order: 2
 
 ---
 
-`⁠★⋅micah-bot-verify⋅★`에서 [새로운 키](../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.
+`⁠🔐｜verification`에서 [새로운 키](../guide/getkey.md)를 획득해야 합니다. 키를 얻을 수 없거나 키가 작동하지 않으면 키가 만료될 때까지 기다려야 합니다.
 
 `스폰서는 F:Reset Key를 사용할 수 있습니다.`
 
@@ -152,6 +152,7 @@ If the error repeats you can make factory reset of Windows.
 
 Unpause your license and try again.
 
+---
 ### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
@@ -164,3 +165,18 @@ Case 2:
 
 ::: info If you are from Iran you might need to use a VPN instead.
 :::
+
+---
+### Unable to open file to write public key:
+
+- This error might happen if you got your game installed in other drive other than your main drive `C:/` , to solve it you can reinstall the game to the main drive and run Korepi again.
+
+---
+### Failed to get response from https://md5c...
+
+- This error might happen if your conection is not stable or your conection to the website its blocked, please copy the link and check if you can access it. If you can't access the website, using a VPN might help.
+
+---
+### Received code is not 200 from https://md5c...
+
+- This Error will appear if your key is paused, please head to `🔐｜verification` and click on `Unpause Key` and type `Yes` on the pop-up.

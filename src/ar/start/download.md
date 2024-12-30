@@ -14,7 +14,7 @@ order: 6
 
 # تحميل
 
-<video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/preview"><source src="https://nextcloud.atruicardona.xyz/s/HFYfj2E25cFYnYC/download" type="video/mp4"></video>
+<div class="iframe-container"><iframe width="1280" height="720" src="https://www.youtube.com/embed/Mxspp5FsVEE" title="How to download Korepi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ## مقدمة
 
@@ -24,9 +24,9 @@ order: 6
 
 إذا لم تكن قد انضممت إلى الخادم بعد، فيرجى قراءة منشور التحقق الذي يوضح كيفية الانضمام إلى الخادم والحصول على `Newcomer`.
 
-### الخطوة الثانية: اذهب إلى القناة `★⋅korepi-download⋅★`
+### الخطوة الثانية: اذهب إلى القناة `💿｜download`
 
-اعثر على قناة `★⋅korepi-download⋅★` واتبع الرابط لتنزيل البرنامج.
+اعثر على قناة `💿｜download` واتبع الرابط لتنزيل البرنامج.
 
 ### الخطوة 3: جاهز!
 
